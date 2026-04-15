@@ -1,0 +1,17 @@
+{
+  "title": "Trinity Cognitive Probes - TAGP Adversarial",
+  "id": "playra/trinity-tagp-adversarial",
+  "licenses": [
+    {
+      "name": "MIT"
+    }
+  ],
+  "description": "TAGP (Trinity Attention Grid Pattern) Adversarial Dataset - 851 questions designed to test attention control capabilities. Expected model accuracy: 20-35%.",
+  "keywords": [
+    "cognitive",
+    "ai",
+    "benchmark",
+    "adversarial",
+    "agi"
+  ]
+}

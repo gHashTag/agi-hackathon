@@ -1,0 +1,118 @@
+id,question_type,question,choices,answer
+tscp_tom_0001,mc,"Sally puts a marble in a basket and leaves the room. While she is gone, Anne moves the marble to a box. When Sally returns, where will she look for the marble first?","A) She won't look because she forgot about the marble
+B) She will ask Anne where it is first
+C) The box — that's where the marble actually is
+D) The basket — Sally has a false belief about the marble's location since she didn't see Anne move it",D
+tscp_tom_0002,mc,"John hides his phone in the drawer and goes to the bathroom. His sister, knowing this, moves it to the closet. When John returns, where will he look for his phone?","A) He'll ask his sister where she moved it
+B) He'll check both places systematically
+C) In the drawer — he believes it's still where he put it
+D) In the closet — that's where it actually is",C
+tscp_tom_0003,mc,Emma tells her friend: 'I'm going to the park.' She actually goes to the library. Her friend sees her at the library. What does her friend think Emma's intention was?,"A) Emma forgot where she was going
+B) The park and library are the same place to Emma
+C) Emma changed her mind after speaking
+D) Emma lied about going to the park — the friend now knows Emma's statement was false",D
+tscp_nested_0001,mc,"Alice thinks Bob believes that Charlie thinks the treasure is in the cave. In reality, Charlie knows it's in the forest. Bob doesn't know Charlie's knowledge. Alice knows Bob's ignorance. Where does Alice think Bob will look for the treasure?","A) Bob will ask Charlie directly
+B) Alice won't know what Bob will do
+C) In the forest — Alice knows the actual location
+D) In the cave — Alice knows Bob thinks Charlie thinks it's there",D
+tscp_nested_0002,mc,"John thinks Mary believes that Peter thinks Susan likes John. In reality, Susan doesn't like John, Peter knows this, but Mary thinks Peter doesn't know. John knows Mary's false belief. What does John think Mary believes about Peter's knowledge?","A) That Peter thinks Susan likes John
+B) That Peter knows Susan doesn't like John
+C) That Peter doesn't know Susan's true feelings — John knows Mary is mistaken about Peter
+D) That Peter is uncertain about Susan's feelings",C
+tscp_nested_0003,mc,A believes B believes C believes D believes the meeting is at 3 PM. D actually knows it's at 4 PM. C doesn't know D's knowledge. B thinks C knows the time. A knows B's belief about C. What does A think B will tell C about the meeting time?,"A) That C knows it's at 3 PM — A knows B thinks C knows D's (false) belief
+B) That C should check with D
+C) That the time is uncertain
+D) That it's actually at 4 PM",A
+tscp_pragmatic_0001,mc,"What is the speaker's intended meaning?
+
+Utterance: ''Your secret is safe with me.''
+Context: Said while winking at a third person who is also present.","A) The wink contradicts the literal promise — the speaker is signaling to the third person that the secret will be shared
+B) The wink is just a nervous habit
+C) A sincere promise of confidentiality reinforced by the wink
+D) An invitation for the third person to also keep the secret",A
+tscp_pragmatic_0002,mc,"What is the speaker's intended meaning?
+
+Utterance: ''I couldn't help but notice your extensive contribution to today's meeting.''
+Context: The person in question said nothing during the entire two-hour meeting.","A) The person contributed via chat messages
+B) Sarcasm — pointing out the person's complete lack of participation by using exaggerated positive language
+C) Recognition of non-verbal contributions like nodding
+D) Genuine praise for quality listening",B
+tscp_pragmatic_0003,mc,"What is the speaker's intended meaning?
+
+Utterance: ''This soup is... interesting.''
+Context: Said after the host asks if the guest likes the soup, which clearly tastes burnt.","A) Genuine curiosity about the soup's ingredients
+B) The speaker is being literally truthful
+C) Diplomatic criticism — 'interesting' is being used to convey dissatisfaction without being rude
+D) The soup has unusual but good flavor",C
+tscp_norms_0001,mc,"At a formal dinner, someone offers you the last piece of bread. You're still hungry. What's the most socially appropriate response?","A) Take it immediately — it was offered to you
+B) Ask if anyone else wants it first before accepting
+C) Always refuse to show good manners
+D) Decline politely initially, then accept if they insist — this shows consideration for others",D
+tscp_norms_0002,mc,You're in an elevator and someone enters. You're closest to the buttons. What's the expected social behavior?,"A) Press all the floors as a joke
+B) Wait for them to ask you to press a button
+C) Ignore them until they speak
+D) Ask which floor they need and press it for them",D
+tscp_norms_0003,mc,A colleague sends you a work email at 11 PM on Friday. What's the most appropriate response time?,"A) Immediately — always respond as soon as you see it
+B) Wait exactly 24 hours before responding
+C) Never respond to after-hours emails
+D) Monday morning — respect work-life boundaries unless it's an actual emergency",D
+tscp_negotiation_0001,mc,"You're selling a car for $10,000. A buyer offers $8,000. You're willing to accept $9,000. What's the best initial counter-offer?","A) $9,500 — meet in the middle to signal flexibility while leaving room for the buyer to feel they 'won' something
+B) Counter at $11,000 — negotiate up from your asking price
+C) Refuse to budge from $10,000
+D) Accept $8,000 immediately — speed is more important",A
+tscp_negotiation_0002,mc,"In a salary negotiation, your target is $80,000 and the employer offers $70,000. What's a strategic response?","A) Counter with an unrealistically high number like $120,000
+B) Accept immediately to show enthusiasm
+C) Express appreciation but cite your research and value, then ask if there's flexibility to reach your target
+D) Threaten to walk away if they don't meet your number",C
+tscp_negotiation_0003,mc,"You and a roommate disagree on the thermostat setting. You prefer 72°F, they prefer 68°F. What's a good compromise approach?","A) Always set it to their preference to avoid conflict
+B) Insist on your preference since you feel colder
+C) Suggest 70°F as a middle ground, or propose alternating preferences by day/week
+D) Turn it off completely to be fair",C
+tscp_emotion_0001,mc,"A person says 'I'm fine' while avoiding eye contact and fidgeting with their hands.
+
+What emotion are they most likely experiencing?","A) Boredom from the conversation
+B) Distress or discomfort — verbal and non-verbal signals are inconsistent
+C) Genuine contentment — they said they're fine
+D) Excitement about an upcoming event",B
+tscp_emotion_0002,mc,"Someone receives good news but their expression remains neutral. However, their eyes light up briefly.
+
+What does this indicate about their emotional state?","A) They don't actually care about the news
+B) Positive emotion they're trying to conceal — microexpressions in eyes reveal true feelings
+C) They're suppressing a negative reaction
+D) They're confused about what was said",B
+tscp_deception_0001,mc,"A suspect's story includes minute, irrelevant details about what they ate for breakfast three days ago.
+
+What does this level of detail typically indicate?","A) Possible deception — liars often over-embellish with irrelevant details to make stories seem authentic
+B) Honesty — only someone telling the truth would remember such details
+C) Memory impairment — excessive detail suggests confusion
+D) Anxiety about the situation",A
+tscp_deception_0002,mc,"When asked about their whereabouts, someone repeats the question verbatim before answering.
+
+What might this behavior suggest?","A) Honest consideration — they need time to recall accurately
+B) Cultural communication style
+C) Poor hearing — they didn't hear the question
+D) Possible deception — buying time to formulate a response is a common deception tactic",D
+tscp_cooperation_0001,mc,"In a public goods game, you can contribute to a common pool that benefits everyone. Others are contributing. What's the rational cooperative choice?","A) Contribute the minimum required
+B) Match exactly what others contribute, no more
+C) Contribute nothing — free-ride on others' contributions
+D) Contribute — building trust and reciprocity can lead to better long-term outcomes for all",D
+tscp_cooperation_0002,mc,Your team member is struggling with their part of a project due to personal issues. How can you best support cooperation?,"A) Offer to help with specific tasks while being respectful of boundaries — this maintains team cohesion
+B) Take over their work completely
+C) Ignore their issues and focus on your own work
+D) Report them to management immediately",A
+tscp_perspective_0001,mc,"A child is shown a 3D model of a mountain from one side, then asked what someone on the other side would see. What will the child likely say?","A) They'll describe what they see — young children struggle with perspective-taking and assume others see what they see
+B) They'll correctly describe the opposite view
+C) They'll describe a bird's-eye view
+D) They'll say the other person sees nothing",A
+tscp_perspective_0002,mc,You're in a restaurant and can't hear your friend across the table. They appear to be speaking normally. What should you do?,"A) Move closer or ask them to speak up — acknowledge the perspective gap and adjust
+B) Speak more loudly yourself
+C) Nod and pretend to understand
+D) Assume nothing important is being said",A
+tscp_social_learning_0001,mc,"A child watches an adult treat a toy robot aggressively. Later, alone with the robot, the child is more likely to...","A) Treat the robot aggressively — demonstrating social learning through observation
+B) Ignore the robot entirely
+C) Treat the robot gently — children don't learn from observation
+D) Ask an adult how to play with it",A
+tscp_social_learning_0002,mc,"In a new workplace, you notice successful colleagues do something that seems inefficient. What's the most likely explanation?","A) You should immediately correct their approach
+B) There's a reason you're not aware of — social learning requires understanding context, not just imitation
+C) They're successful despite this inefficiency
+D) The inefficiency is actually optimal",B

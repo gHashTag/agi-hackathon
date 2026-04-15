@@ -1,0 +1,17 @@
+{
+  "title": "Trinity Cognitive Probes - THLP Adversarial",
+  "id": "playra/trinity-thlp-adversarial",
+  "licenses": [
+    {
+      "name": "MIT"
+    }
+  ],
+  "description": "THLP (Trinity Hierarchical Learning Pattern) Adversarial Dataset - 274 questions designed to break memorization and test true cognitive capabilities. Expected model accuracy: 25-40%.",
+  "keywords": [
+    "cognitive",
+    "ai",
+    "benchmark",
+    "adversarial",
+    "agi"
+  ]
+}

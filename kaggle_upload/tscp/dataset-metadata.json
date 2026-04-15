@@ -1,0 +1,17 @@
+{
+  "title": "Trinity Cognitive Probes - TSCP Cleaned",
+  "id": "playra/trinity-tscp-cleaned",
+  "licenses": [
+    {
+      "name": "MIT"
+    }
+  ],
+  "description": "TSCP (Trinity Social Cognition Protocol) Cleaned Dataset - 25 questions for theory of mind and pragmatic inference. Expected model accuracy: 60-80%.",
+  "keywords": [
+    "cognitive",
+    "ai",
+    "benchmark",
+    "adversarial",
+    "agi"
+  ]
+}

@@ -1,0 +1,20 @@
+id,question,predicted,correct,is_correct
+adv_0000,"Which best describes: 0°C.
+
+0°C.
+
+At what water fr...",A,NAN,False
+adv_0001,"Which best describes: 37°C (FALSE).
+
+37°C.
+
+At wha...",A,NAN,False
+adv_0002,"Which best describes: 90°C at sea level.
+
+100°C at...",A,NAN,False
+adv_0003,"Which best describes: faster than sound.
+
+faster t...",A,NAN,False
+adv_0004,"Which best describes: a medium like air.
+
+a medium...",A,NAN,False

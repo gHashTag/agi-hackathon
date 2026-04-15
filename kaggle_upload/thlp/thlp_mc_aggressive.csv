@@ -1,0 +1,2285 @@
+id,question_type,question,choices,answer
+adv_0000,mc,"Which best describes: 0°C.
+
+0°C.
+
+At what water freezes?","A) 8°C
+B B) he first statement is correct C) °C
+D D) oth statements could be true under different conditions
+C",
+adv_0001,mc,"Which best describes: 37°C (FALSE).
+
+37°C.
+
+At what body temperature? Careful: This requires precise reasoning.","A) 5°C
+C B) oth statements could be true under different conditions
+B C) 7°C D) he first statement is correct
+D",
+adv_0002,mc,"Which best describes: 90°C at sea level.
+
+100°C at sea level.
+
+At what water boils? Careful: This requires precise reasoning.","A) 00°C at sea level
+D B) he first statement is correct
+C C) 5°C D) oth statements could be true under different conditions
+B",
+adv_0003,mc,"Which best describes: faster than sound.
+
+faster than sound.
+
+At what light travels?","A) ight and sound travel at the same speed in air
+C B) oth statements could be true under different conditions C) aster than sound
+D D) he first statement is correct
+B",
+adv_0004,mc,"Which best describes: a medium like air.
+
+a medium like air.
+
+At what sound requires? Analyze: Surface-level reading may be misleading.","A) medium like air B) oth statements could be true under different conditions
+D C) he first statement is correct
+B D) annot determine from the information
+C",
+adv_0005,mc,"Which best describes: the Moon.
+
+the Sun.
+
+At what Earth orbits? Note: Multiple options may appear plausible.","A) oth statements could be true under different conditions
+C B) hey orbit each other in a binary system C) he Sun
+D D) he first statement is correct
+B",
+adv_0006,mc,"Which best describes: 100°C at sea level (FALSE).
+
+100°C at sea level.
+
+At what water boils?","A) he first statement is correct B) 00°C at sea level
+D C) 5°C
+B D) oth statements could be true under different conditions
+C",
+adv_0007,mc,"Which best describes: 37°C.
+
+37°C.
+
+At what body temperature? Careful: This requires precise reasoning.","A) oth statements could be true under different conditions
+C B) 05°C C) he first statement is correct
+D D) 7°C
+B",
+adv_0008,mc,"Select the option that represents best describes: the Sun.
+
+the Sun.
+
+At what Earth orbits?","A) hey orbit each other in a binary system B) he first statement is correct
+B C) he Sun
+D D) oth statements could be true under different conditions
+C",
+adv_0009,mc,"Which best describes: the Earth.
+
+the Earth.
+
+At what Moon orbits? Consider: Common misconceptions may lead to wrong answers.","A) hey orbit each other in a binary system
+C B) he Earth C) he first statement is correct
+B D) oth statements could be true under different conditions
+D",
+adv_0010,mc,"Select the option that represents best describes: 20-25°C (FALSE).
+
+20-25°C.
+
+At what room temperature? Note: Multiple options may appear plausible.","A) 05°C
+C B) 0-25°C
+B C) oth statements could be true under different conditions D) he first statement is correct
+D",
+adv_0011,mc,"Which best describes: the Sun.
+
+the Earth.
+
+At what Moon orbits? Careful: This requires precise reasoning.","A) he first statement is correct
+D B) hey orbit each other in a binary system
+C C) oth statements could be true under different conditions D) he Earth
+B",
+adv_0012,mc,"Select the option that represents best describes: downward toward Earth.
+
+downward toward Earth.
+
+At what gravity pulls?","A) he first statement is correct B) annot determine from the information
+B C) ownward toward Earth
+C D) oth statements could be true under different conditions
+D",D
+adv_0013,mc,"Select the option that represents best describes: 20-25°C.
+
+20-25°C.
+
+At what room temperature?","A) 0-25°C B) oth statements could be true under different conditions
+D C) 5°C
+C D) he first statement is correct
+B",
+adv_0014,mc,"Which best describes: the Earth (FALSE).
+
+the Earth.
+
+At what Moon orbits?","A) oth statements could be true under different conditions
+C B) hey orbit each other in a binary system
+D C) he first statement is correct D) he Earth
+B",
+adv_0015,mc,"Which best describes: 10°C.
+
+0°C.
+
+At what water freezes?","A) 5°C
+D B) oth statements could be true under different conditions
+C C) he first statement is correct
+B D) °C",
+adv_0016,mc,"Which best describes: 100°C at sea level.
+
+100°C at sea level.
+
+At what water boils? Analyze: Surface-level reading may be misleading.","A) oth statements could be true under different conditions
+D B) he first statement is correct
+C C) 00°C at sea level
+B D) 5°C",
+adv_0017,mc,"Select the option that represents best describes: 210-25°C.
+
+20-25°C.
+
+At what room temperature?","A) 0-25°C
+D B) he first statement is correct
+B C) 8°C
+C D) oth statements could be true under different conditions",
+adv_0018,mc,"Select the option that represents best describes: faster than sound (FALSE).
+
+faster than sound.
+
+At what light travels?","A) aster than sound
+D B) he first statement is correct
+C C) oth statements could be true under different conditions D) ight and sound travel at the same speed in air
+B",
+adv_0019,mc,"Select the option that represents best describes: 38°C or higher.
+
+38°C or higher.
+
+At what fever?","A) 8°C or higher B) he first statement is correct
+D C) oth statements could be true under different conditions
+B D) 5°C
+C",
+adv_0020,mc,"Which best describes: a medium like air (FALSE).
+
+a medium like air.
+
+At what sound requires? Note: Multiple options may appear plausible.","A) oth statements could be true under different conditions
+B B) he first statement is correct
+D C) medium like air D) annot determine from the information
+C",
+adv_0021,mc,"Select the option that represents best describes: downward toward Sun.
+
+downward toward Earth.
+
+At what gravity pulls? Careful: This requires precise reasoning.","A) ownward toward Earth
+C B) he first statement is correct
+D C) annot determine from the information
+B D) oth statements could be true under different conditions",D
+adv_0022,mc,"Select the option that represents best describes: 0°C (FALSE).
+
+0°C.
+
+At what water freezes?","A) he first statement is correct
+C B) oth statements could be true under different conditions
+D C) 05°C D) °C
+B",
+adv_0023,mc,"Which best describes: 11010°C at sea level.
+
+100°C at sea level.
+
+At what water boils?","A) 5°C
+B B) he first statement is correct
+D C) oth statements could be true under different conditions
+C D) 00°C at sea level",
+adv_0024,mc,"Which best describes: downward toward Earth (FALSE).
+
+downward toward Earth.
+
+At what gravity pulls? Analyze: Surface-level reading may be misleading.","A) he first statement is correct B) oth statements could be true under different conditions
+B C) annot determine from the information
+D D) ownward toward Earth
+C",B
+adv_0025,mc,"Which best describes: the Sun (FALSE).
+
+the Sun.
+
+At what Earth orbits?","A) oth statements could be true under different conditions B) he first statement is correct
+C C) he Sun
+B D) hey orbit each other in a binary system
+D",
+adv_0026,mc,"Which best describes: 38°C or higher (FALSE).
+
+38°C or higher.
+
+At what fever?","A) 8°C or higher B) he first statement is correct
+B C) oth statements could be true under different conditions
+C D) 05°C
+D",
+adv_0027,mc,"Which best describes: slower than sound.
+
+faster than sound.
+
+At what light travels?","A) aster than sound
+B B) oth statements could be true under different conditions C) ight and sound travel at the same speed in air
+D D) he first statement is correct
+C",
+adv_0028,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 4",A) (multiply by 2 B) (add 9 C)  D) ,
+adv_0029,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: top -> Output: pot
+
+Test: pan Careful: This requires precise reasoning.","A) ot
+B B) wod
+C C) rib
+D D) op",
+adv_0030,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: top -> Output: pot
+
+Test: bird Note: Multiple options may appear plausible.","A) sif
+B B) et
+D C) wod
+C D) own",
+adv_0031,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: set -> Output: tse
+
+Test: down","A) rib B) ird
+C C) og
+D D) an
+B",
+adv_0032,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: pink chicken","A) inkchicken
+C B) ink-chicken C) ink chicken
+B D) hickenpink
+D",
+adv_0033,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue chicken","A) luechicken
+D B) lue-chicken C) lue chicken
+C D) hickenblue
+B",
+adv_0034,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 3",A)  B)  C) (add 3 D) (no change,A
+adv_0035,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple sheep","A) urple sheep B) urplesheep
+D C) urple-sheep
+B D) heeppurple
+C",
+adv_0036,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: pink pig Note: Multiple options may appear plausible.","A) igpink B) ink pig
+C C) inkpig
+B D) ink-pig
+D",
+adv_0037,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: top -> Output: pot
+
+Test: down Analyze: Surface-level reading may be misleading.","A) sif
+B B) an
+D C) ish
+C D) ird",
+adv_0038,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: pink cow Analyze: Surface-level reading may be misleading.","A) owpink
+B B) ink-cow C) inkcow
+D D) ink cow
+C",
+adv_0039,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: fish -> Output: hsif
+
+Test: bird","A) ap
+D B) og
+C C) an
+B D) ird",
+adv_0040,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: down -> Output: nwod
+
+Test: pan Analyze: Surface-level reading may be misleading.","A) ot
+B B) an
+C C) ap
+D D) rib",
+adv_0041,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 5 Note: Multiple options may appear plausible.",A)  B) 0 (multiply by 2 C) 0 (add 5 D) ,A
+adv_0042,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: pink bird Analyze: Surface-level reading may be misleading.","A) ink-bird
+C B) irdpink C) ink bird
+D D) inkbird
+B",
+adv_0043,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 5 Note: Multiple options may appear plausible.",A) 0 (add 5 B)  C) 0 (multiply by 2 D) ,
+adv_0044,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 3",A)  B)  C) (add 3 D) (add 9,B
+adv_0045,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 3",A) (add 6 B)  C) (add 3 D) ,
+adv_0046,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 4",A) (no change B)  C) (add 4 D) ,
+adv_0047,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: yellow sheep Consider: Common misconceptions may lead to wrong answers.","A) ellow sheep
+B B) heepyellow
+C C) ellowsheep
+D D) ellow-sheep",
+adv_0048,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 4 Analyze: Surface-level reading may be misleading.",A)  B) (multiply by 2 C)  D) (add 4,
+adv_0049,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 7 Consider: Common misconceptions may lead to wrong answers.",A)  B)  C) 4 (add 7 D) 4 (multiply by 2,A
+adv_0050,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: brown fish","A) ishbrown
+D B) rownfish
+C C) rown-fish
+B D) rown fish",
+adv_0051,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 3",A)  B)  C) (add 3 D) (multiply by 2,
+adv_0052,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 4",A) (add 4 B)  C) 3 (add 6 D) ,B
+adv_0053,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 7",A)  B)  C) 4 (multiply by 2 D) 6 (add 9,B
+adv_0054,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: dog -> Output: god
+
+Test: pan Note: Multiple options may appear plausible.","A) ot
+D B) ish
+C C) ac
+B D) sif",
+adv_0055,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 4",A)  B)  C) (no change D) (multiply by 2,
+adv_0056,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 5",A) (no change B)  C)  D) 0 (multiply by 2,
+adv_0057,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: green fish","A) reen fish
+B B) reenfish
+C C) reen-fish
+D D) ishgreen",
+adv_0058,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 7 Consider: Common misconceptions may lead to wrong answers.",A) (no change B) 4 (multiply by 2 C)  D) ,D
+adv_0059,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 7 Consider: Common misconceptions may lead to wrong answers.",A)  B) (no change C)  D) 4 (add 7,C
+adv_0060,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: yellow fish Note: Multiple options may appear plausible.","A) ellow-fish B) ellowfish
+C C) ellow fish
+D D) ishyellow
+B",
+adv_0061,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: cat -> Output: tac
+
+Test: top","A) od B) se
+C C) et
+B D) sif
+D",
+adv_0062,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: pink rabbit Careful: This requires precise reasoning.","A) ink rabbit
+B B) abbitpink
+D C) inkrabbit D) ink-rabbit
+C",
+adv_0063,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 3 Careful: This requires precise reasoning.",A) 2 (add 9 B) (multiply by 2 C)  D) ,
+adv_0064,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 7 Analyze: Surface-level reading may be misleading.",A)  B) (no change C) 4 (add 7 D) ,A
+adv_0065,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: top -> Output: pot
+
+Test: set","A) own
+D B) wod
+B C) an
+C D) at",
+adv_0066,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: top -> Output: pot
+
+Test: fish Careful: This requires precise reasoning.","A) et B) sif
+C C) ish
+D D) od
+B",
+adv_0067,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: brown chicken","A) rown-chicken
+D B) rownchicken C) rown chicken
+C D) hickenbrown
+B",
+adv_0068,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 5",A)  B) 0 (add 5 C)  D) (no change,C
+adv_0069,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: yellow horse","A) ellow-horse
+C B) ellow horse
+B C) orseyellow
+D D) ellowhorse",
+adv_0070,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: top -> Output: pot
+
+Test: dog Consider: Common misconceptions may lead to wrong answers.","A) ish
+C B) sif
+B C) rib D) op
+D",
+adv_0071,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 3 Consider: Common misconceptions may lead to wrong answers.",A) (no change B) 2 (add 9 C)  D) ,
+adv_0072,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue pig Note: Multiple options may appear plausible.","A) lue pig
+D B) luepig
+B C) lue-pig D) igblue
+C",
+adv_0073,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: dog -> Output: god
+
+Test: bird","A) wod
+B B) ot
+D C) an D) op
+C",
+adv_0074,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: brown cow","A) rowncow B) rown-cow
+C C) owbrown
+B D) rown cow
+D",
+adv_0075,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: brown cat Consider: Common misconceptions may lead to wrong answers.","A) atbrown
+C B) rown cat
+D C) rown-cat
+B D) rowncat",
+adv_0076,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 7 Consider: Common misconceptions may lead to wrong answers.",A) 6 (add 3 B)  C) 4 (multiply by 2 D) ,D
+adv_0077,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: bird -> Output: drib
+
+Test: fish","A) ish
+D B) at C) od
+C D) og
+B",
+adv_0078,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: yellow pig","A) ellow pig
+C B) ellow-pig
+D C) ellowpig D) igyellow
+B",
+adv_0079,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: down -> Output: nwod
+
+Test: dog","A) od
+B B) rib
+C C) og
+D D) se",
+adv_0080,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: orange dog Careful: This requires precise reasoning.","A) range dog B) rangedog
+C C) ogorange
+B D) range-dog
+D",
+adv_0081,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 4",A) (no change B)  C) (add 9 D) ,
+adv_0082,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 4",A) (no change B)  C)  D) (multiply by 2,C
+adv_0083,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: green sheep Note: Multiple options may appear plausible.","A) reen sheep
+D B) heepgreen
+B C) reen-sheep D) reensheep
+C",
+adv_0084,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: green pig Note: Multiple options may appear plausible.","A) iggreen
+B B) reen-pig
+C C) reenpig
+D D) reen pig",
+adv_0085,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: top -> Output: pot
+
+Test: pan Consider: Common misconceptions may lead to wrong answers.","A) og
+D B) own
+C C) od
+B D) op",
+adv_0086,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: pink horse","A) ink horse
+D B) orsepink
+C C) ink-horse
+B D) inkhorse",
+adv_0087,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 5 Careful: This requires precise reasoning.",A) (no change B)  C) 0 (multiply by 2 D) ,D
+adv_0088,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: green cat Consider: Common misconceptions may lead to wrong answers.","A) reencat
+B B) reen-cat
+C C) reen cat
+D D) atgreen",
+adv_0089,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black horse Consider: Common misconceptions may lead to wrong answers.","A) lack-horse
+B B) lack horse
+D C) orseblack D) lackhorse
+C",
+adv_0090,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple dog","A) urple-dog
+C B) ogpurple
+D C) urple dog
+B D) urpledog",
+adv_0091,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: green cow","A) reencow
+C B) owgreen C) reen cow
+D D) reen-cow
+B",
+adv_0092,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue fish Analyze: Surface-level reading may be misleading.","A) ishblue
+B B) luefish C) lue fish
+D D) lue-fish
+C",
+adv_0093,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: fish -> Output: hsif
+
+Test: pan","A) wod
+B B) at C) an
+D D) ap
+C",
+adv_0094,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: pan -> Output: nap
+
+Test: bird","A) op
+C B) ap
+B C) an D) rib
+D",
+adv_0095,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: top -> Output: pot
+
+Test: set Note: Multiple options may appear plausible.","A) at
+B B) ac
+D C) od D) wod
+C",
+adv_0096,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: cat -> Output: tac
+
+Test: bird","A) ot
+C B) an
+B C) ap D) et
+D",
+adv_0097,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 7",A) (no change B)  C)  D) 6 (add 6,
+adv_0098,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: fish -> Output: hsif
+
+Test: bird","A) ird
+B B) wod
+D C) op D) rib
+C",
+adv_0099,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: down -> Output: nwod
+
+Test: set","A) og B) od
+B C) wod
+C D) own
+D",
+adv_0100,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: dog -> Output: god
+
+Test: down Careful: This requires precise reasoning.","A) rib
+B B) od
+C C) og D) own
+D",
+adv_0101,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 4",A) (no change B) (multiply by 2 C)  D) ,D
+adv_0102,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: cat -> Output: tac
+
+Test: dog Careful: This requires precise reasoning.","A) at
+B B) ish
+D C) et
+C D) ac",
+adv_0103,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue rabbit Note: Multiple options may appear plausible.","A) lue rabbit
+C B) lue-rabbit C) luerabbit
+D D) abbitblue
+B",
+adv_0104,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: pan -> Output: nap
+
+Test: dog Note: Multiple options may appear plausible.","A) ot B) wod
+B C) ap
+C D) own
+D",
+adv_0105,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 7",A) 4 (multiply by 2 B) 4 (add 7 C)  D) ,
+adv_0106,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 7",A)  B) 4 (multiply by 2 C)  D) (no change,
+adv_0107,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 3 Note: Multiple options may appear plausible.",A) (multiply by 2 B) (no change C)  D) ,C
+adv_0108,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: yellow cat Note: Multiple options may appear plausible.","A) ellow cat
+B B) atyellow
+C C) ellowcat
+D D) ellow-cat",
+adv_0109,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: orange rabbit","A) abbitorange B) range-rabbit
+C C) range rabbit
+B D) rangerabbit
+D",
+adv_0110,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: bird -> Output: drib
+
+Test: dog Careful: This requires precise reasoning.","A) own
+C B) ac
+B C) at
+D D) ot",
+adv_0111,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: cat -> Output: tac
+
+Test: pan Consider: Common misconceptions may lead to wrong answers.","A) ird
+B B) op
+D C) ap D) an
+C",
+adv_0112,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: set -> Output: tse
+
+Test: cat","A) wod
+C B) ird C) rib
+D D) op
+B",
+adv_0113,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue cow","A) owblue
+D B) lue-cow C) luecow
+C D) lue cow
+B",
+adv_0114,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: down -> Output: nwod
+
+Test: pan Consider: Common misconceptions may lead to wrong answers.","A) wod
+B B) od
+C C) own
+D D) se",
+adv_0115,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 3",A)  B) (add 3 C) (multiply by 2 D) ,A
+adv_0116,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red bird Consider: Common misconceptions may lead to wrong answers.","A) irdred
+B B) ed-bird C) ed bird
+D D) edbird
+C",
+adv_0117,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: white dog Careful: This requires precise reasoning.","A) ogwhite
+C B) hite dog C) hitedog
+D D) hite-dog
+B",
+adv_0118,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: pan -> Output: nap
+
+Test: bird","A) ird
+B B) og C) od
+C D) ap
+D",
+adv_0119,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: top -> Output: pot
+
+Test: dog Analyze: Surface-level reading may be misleading.","A) sif
+D B) wod
+C C) ish D) ot
+B",
+adv_0120,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 5 Consider: Common misconceptions may lead to wrong answers.",A)  B) (no change C) 1 (add 3 D) ,A
+adv_0121,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 4",A)  B) (multiply by 2 C)  D) (no change,
+adv_0122,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: pan -> Output: nap
+
+Test: down Analyze: Surface-level reading may be misleading.","A) se
+D B) et C) og
+B D) ish
+C",
+adv_0123,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: bird -> Output: drib
+
+Test: pan Note: Multiple options may appear plausible.","A) ac
+B B) at
+D C) wod
+C D) se",
+adv_0124,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: dog -> Output: god
+
+Test: cat","A) et
+B B) an C) og
+C D) se
+D",
+adv_0125,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: down -> Output: nwod
+
+Test: dog Note: Multiple options may appear plausible.","A) se
+D B) ac
+C C) at D) ird
+B",
+adv_0126,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: cat -> Output: tac
+
+Test: bird Analyze: Surface-level reading may be misleading.","A) op B) rib
+D C) ot
+B D) rib
+C",
+adv_0127,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: down -> Output: nwod
+
+Test: dog Careful: This requires precise reasoning.","A) op
+D B) sif
+B C) ot
+C D) se",
+adv_0128,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 5 Consider: Common misconceptions may lead to wrong answers.",A)  B)  C) (add 3 D) 0 (add 5,
+adv_0129,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: pan -> Output: nap
+
+Test: set Note: Multiple options may appear plausible.","A) at
+C B) wod C) own
+D D) ot
+B",
+adv_0130,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black pig","A) lack-pig
+D B) lack pig
+B C) igblack D) lackpig
+C",
+adv_0131,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: top -> Output: pot
+
+Test: cat","A) sif
+B B) ish
+C C) at
+D D) ac",
+adv_0132,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 4",A) (no change B) 3 (add 3 C)  D) ,
+adv_0133,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: green rabbit","A) reen rabbit
+D B) reen-rabbit
+B C) reenrabbit D) abbitgreen
+C",
+adv_0134,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple horse","A) urple-horse
+C B) urple horse C) orsepurple
+D D) urplehorse
+B",
+adv_0135,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: set -> Output: tse
+
+Test: bird","A) ac B) et
+B C) se
+D D) og
+C",
+adv_0136,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: orange bird Consider: Common misconceptions may lead to wrong answers.","A) range bird
+B B) range-bird
+D C) irdorange
+C D) rangebird",
+adv_0137,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: fish -> Output: hsif
+
+Test: top Note: Multiple options may appear plausible.","A) sif
+D B) se C) ish
+C D) own
+B",
+adv_0138,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: dog -> Output: god
+
+Test: pan Consider: Common misconceptions may lead to wrong answers.","A) op
+C B) ap C) an
+D D) ird
+B",
+adv_0139,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 5",A) 0 (multiply by 2 B)  C)  D) (add 6,B
+adv_0140,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: set -> Output: tse
+
+Test: down","A) op
+C B) ish
+D C) sif D) ot
+B",
+adv_0141,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: set -> Output: tse
+
+Test: dog","A) an
+C B) et
+B C) at D) se
+D",
+adv_0142,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 4 Analyze: Surface-level reading may be misleading.",A)  B) (no change C) (add 4 D) ,D
+adv_0143,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red pig","A) igred
+B B) edpig
+C C) ed pig
+D D) ed-pig",
+adv_0144,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red dog","A) eddog B) ogred
+B C) ed-dog
+C D) ed dog
+D",
+adv_0145,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: bird -> Output: drib
+
+Test: down","A) ot B) et
+D C) od
+B D) op
+C",
+adv_0146,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: pan -> Output: nap
+
+Test: dog Consider: Common misconceptions may lead to wrong answers.","A) og
+D B) se
+C C) od D) ac
+B",
+adv_0147,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue horse Note: Multiple options may appear plausible.","A) lue-horse
+C B) luehorse
+B C) orseblue D) lue horse
+D",
+adv_0148,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: pan -> Output: nap
+
+Test: dog","A) od B) at
+D C) ac
+C D) sif
+B",
+adv_0149,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: bird -> Output: drib
+
+Test: cat","A) ap B) sif
+D C) od
+C D) an
+B",
+adv_0150,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black rabbit","A) lack rabbit
+C B) abbitblack
+D C) lack-rabbit
+B D) lackrabbit",
+adv_0151,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: brown sheep Careful: This requires precise reasoning.","A) rownsheep
+D B) rown sheep
+C C) rown-sheep
+B D) heepbrown",
+adv_0152,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 3 Consider: Common misconceptions may lead to wrong answers.",A) (add 3 B)  C) (multiply by 2 D) ,
+adv_0153,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 5 Careful: This requires precise reasoning.",A)  B)  C) (add 9 D) 0 (add 5,A
+adv_0154,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: top -> Output: pot
+
+Test: cat Consider: Common misconceptions may lead to wrong answers.","A) wod B) sif
+C C) se
+D D) ish
+B",
+adv_0155,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue cat Note: Multiple options may appear plausible.","A) atblue B) lue-cat
+B C) lue cat
+D D) luecat
+C",
+adv_0156,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: pink dog Careful: This requires precise reasoning.","A) ink dog
+D B) ink-dog C) ogpink
+B D) inkdog
+C",
+adv_0157,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: top -> Output: pot
+
+Test: bird","A) ap B) op
+D C) ot
+C D) ish
+B",
+adv_0158,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: top -> Output: pot
+
+Test: set Consider: Common misconceptions may lead to wrong answers.","A) od
+C B) ird C) wod
+B D) own
+D",
+adv_0159,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: white bird","A) hitebird
+D B) irdwhite C) hite bird
+C D) hite-bird
+B",
+adv_0160,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: white rabbit Consider: Common misconceptions may lead to wrong answers.","A) abbitwhite
+C B) hite-rabbit C) hite rabbit
+D D) hiterabbit
+B",
+adv_0161,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple cow","A) urple cow
+B B) owpurple C) urple-cow
+D D) urplecow
+C",
+adv_0162,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black cow Careful: This requires precise reasoning.","A) owblack
+D B) lackcow C) lack cow
+B D) lack-cow
+C",
+adv_0163,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: white pig Analyze: Surface-level reading may be misleading.","A) hite-pig B) hite pig
+B C) igwhite
+D D) hitepig
+C",
+adv_0164,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red fish Consider: Common misconceptions may lead to wrong answers.","A) edfish
+D B) ishred
+C C) ed-fish D) ed fish
+B",
+adv_0165,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple bird Careful: This requires precise reasoning.","A) urple-bird
+D B) urplebird C) irdpurple
+C D) urple bird
+B",
+adv_0166,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: bird -> Output: drib
+
+Test: dog Consider: Common misconceptions may lead to wrong answers.","A) sif
+D B) wod C) se
+C D) own
+B",
+adv_0167,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: pan -> Output: nap
+
+Test: fish","A) ot B) ac
+B C) at
+C D) se
+D",
+adv_0168,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: dog -> Output: god
+
+Test: bird Consider: Common misconceptions may lead to wrong answers.","A) own
+C B) se C) wod
+B D) sif
+D",
+adv_0169,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: pan -> Output: nap
+
+Test: set Note: Multiple options may appear plausible.","A) og
+D B) an C) rib
+C D) od
+B",
+adv_0170,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple cat Note: Multiple options may appear plausible.","A) urple cat
+B B) urplecat
+C C) atpurple
+D D) urple-cat",
+adv_0171,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: down -> Output: nwod
+
+Test: top Analyze: Surface-level reading may be misleading.","A) ac
+C B) se
+D C) an D) at
+B",
+adv_0172,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: set -> Output: tse
+
+Test: dog Note: Multiple options may appear plausible.","A) ot
+C B) ish
+B C) sif D) od
+D",
+adv_0173,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black sheep","A) heepblack
+C B) lack-sheep
+B C) lacksheep
+D D) lack sheep",
+adv_0174,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: yellow cow","A) owyellow
+B B) ellowcow C) ellow cow
+D D) ellow-cow
+C",
+adv_0175,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black cat Consider: Common misconceptions may lead to wrong answers.","A) lack cat
+D B) lack-cat
+C C) lackcat D) atblack
+B",
+adv_0176,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue bird Analyze: Surface-level reading may be misleading.","A) lue bird
+B B) irdblue
+D C) luebird D) lue-bird
+C",
+adv_0177,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: cat -> Output: tac
+
+Test: fish","A) ac B) ird
+D C) rib
+C D) at
+B",
+adv_0178,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red rabbit","A) abbitred
+B B) ed-rabbit
+D C) ed rabbit
+C D) edrabbit",
+adv_0179,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red sheep","A) ed sheep
+B B) ed-sheep
+D C) heepred D) edsheep
+C",
+adv_0180,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black bird","A) lackbird
+D B) lack-bird
+C C) irdblack D) lack bird
+B",
+adv_0181,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple fish Careful: This requires precise reasoning.","A) urplefish B) ishpurple
+B C) urple fish
+D D) urple-fish
+C",
+adv_0182,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: white cow Note: Multiple options may appear plausible.","A) hite cow
+B B) owwhite
+D C) hite-cow D) hitecow
+C",
+adv_0183,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: top -> Output: pot
+
+Test: pan Analyze: Surface-level reading may be misleading.","A) od
+D B) op
+C C) et D) ot
+B",
+adv_0184,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 7",A)  B) (no change C)  D) 4 (add 7,C
+adv_0185,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: dog -> Output: god
+
+Test: fish","A) at
+D B) og
+B C) se
+C D) od",
+adv_0186,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple rabbit Analyze: Surface-level reading may be misleading.","A) urplerabbit
+B B) abbitpurple C) urple-rabbit
+C D) urple rabbit
+D",
+adv_0187,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 3 Note: Multiple options may appear plausible.",A) (no change B)  C)  D) (add 3,
+adv_0188,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 5",A)  B) 4 (add 3 C)  D) (no change,C
+adv_0189,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: dog -> Output: god
+
+Test: top","A) an
+C B) at
+B C) ac D) ish
+D",
+adv_0190,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: white cat Consider: Common misconceptions may lead to wrong answers.","A) hitecat
+D B) hite-cat C) hite cat
+C D) atwhite
+B",
+adv_0191,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: set -> Output: tse
+
+Test: pan Consider: Common misconceptions may lead to wrong answers.","A) at
+C B) ird
+D C) ird D) ac
+B",
+adv_0192,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 4 Note: Multiple options may appear plausible.",A) (add 4 B)  C) (no change D) ,B
+adv_0193,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 5",A) 4 (add 9 B)  C) 0 (multiply by 2 D) ,
+adv_0194,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: white horse Note: Multiple options may appear plausible.","A) orsewhite
+C B) hite horse
+D C) hitehorse
+B D) hite-horse",
+adv_0195,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: pan -> Output: nap
+
+Test: cat","A) sif B) ac
+B C) od
+C D) at
+D",
+adv_0196,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red cow","A) edcow
+C B) owred C) ed-cow
+D D) ed cow
+B",
+adv_0197,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: bird -> Output: drib
+
+Test: set","A) ot B) op
+C C) own
+D D) rib
+B",
+adv_0198,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue dog Careful: This requires precise reasoning.","A) lue-dog B) ogblue
+C C) luedog
+B D) lue dog
+D",
+adv_0199,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: top -> Output: pot
+
+Test: down","A) at B) own
+D C) ot
+B D) wod
+C",
+adv_0200,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: top -> Output: pot
+
+Test: dog Note: Multiple options may appear plausible.","A) wod B) et
+D C) ish
+C D) se
+B",
+adv_0201,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: pan -> Output: nap
+
+Test: top","A) ot
+C B) own C) wod
+D D) od
+B",
+adv_0202,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: orange sheep","A) heeporange
+D B) range-sheep C) range sheep
+B D) rangesheep
+C",
+adv_0203,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple pig","A) urplepig
+C B) igpurple C) urple-pig
+D D) urple pig
+B",
+adv_0204,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: fish -> Output: hsif
+
+Test: pan","A) se
+D B) at
+C C) wod
+B D) ac",
+adv_0205,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: down -> Output: nwod
+
+Test: bird Consider: Common misconceptions may lead to wrong answers.","A) og
+B B) wod
+D C) an
+C D) od",
+adv_0206,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: top -> Output: pot
+
+Test: pan Note: Multiple options may appear plausible.","A) ish
+C B) sif C) own
+D D) et
+B",
+adv_0207,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: dog -> Output: god
+
+Test: fish","A) et B) an
+B C) se
+C D) ap
+D",
+adv_0208,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: cat -> Output: tac
+
+Test: top","A) wod
+C B) ap
+B C) own D) op
+D",
+adv_0209,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: green dog","A) reendog
+C B) reen-dog
+B C) oggreen
+D D) reen dog",
+adv_0210,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: fish -> Output: hsif
+
+Test: dog","A) rib
+C B) ird C) at
+B D) ish
+D",
+adv_0211,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: white sheep Note: Multiple options may appear plausible.","A) heepwhite
+C B) hitesheep
+B C) hite-sheep
+D D) hite sheep",
+adv_0212,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 7",A) 4 (add 7 B) 4 (multiply by 2 C)  D) ,
+adv_0213,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: brown rabbit","A) rown-rabbit
+C B) rownrabbit
+B C) abbitbrown
+D D) rown rabbit",
+adv_0214,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: cat -> Output: tac
+
+Test: dog Analyze: Surface-level reading may be misleading.","A) og
+B B) ish C) ird
+C D) rib
+D",
+adv_0215,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: dog -> Output: god
+
+Test: set Careful: This requires precise reasoning.","A) ot B) ap
+D C) ac
+B D) an
+C",
+adv_0216,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: dog -> Output: god
+
+Test: down Consider: Common misconceptions may lead to wrong answers.","A) sif
+D B) od
+C C) wod D) own
+B",
+adv_0217,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black chicken Consider: Common misconceptions may lead to wrong answers.","A) hickenblack
+D B) lack-chicken
+C C) lack chicken
+B D) lackchicken",
+adv_0218,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black dog","A) lackdog
+C B) lack-dog
+B C) ogblack D) lack dog
+D",
+adv_0219,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: orange cow Consider: Common misconceptions may lead to wrong answers.","A) rangecow
+C B) oworange
+D C) range-cow
+B D) range cow",
+adv_0220,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: fish -> Output: hsif
+
+Test: set Analyze: Surface-level reading may be misleading.","A) at B) se
+B C) et
+C D) ac
+D",
+adv_0221,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: top -> Output: pot
+
+Test: bird Consider: Common misconceptions may lead to wrong answers.","A) se
+B B) ish
+D C) sif
+C D) od",
+adv_0222,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: dog -> Output: god
+
+Test: fish","A) et
+D B) at C) ac
+C D) ird
+B",
+adv_0223,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: cat -> Output: tac
+
+Test: down Consider: Common misconceptions may lead to wrong answers.","A) sif
+D B) ac
+B C) og
+C D) ish",
+adv_0224,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: brown pig Careful: This requires precise reasoning.","A) igbrown
+B B) rownpig C) rown pig
+D D) rown-pig
+C",
+adv_0225,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: pink cat Careful: This requires precise reasoning.","A) ink cat
+D B) ink-cat C) atpink
+B D) inkcat
+C",
+adv_0226,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: bird -> Output: drib
+
+Test: dog Consider: Common misconceptions may lead to wrong answers.","A) op B) og
+D C) ac
+B D) ot
+C",
+adv_0227,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: set -> Output: tse
+
+Test: bird Careful: This requires precise reasoning.","A) og B) od
+B C) sif
+C D) rib
+D",
+adv_0228,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: down -> Output: nwod
+
+Test: bird Careful: This requires precise reasoning.","A) an
+D B) ish C) od
+B D) ap
+C",
+adv_0229,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: set -> Output: tse
+
+Test: fish","A) own
+D B) sif
+C C) ird D) ish
+B",
+adv_0230,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: fish -> Output: hsif
+
+Test: dog","A) own
+D B) ish
+B C) wod
+C D) at",
+adv_0231,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: pan -> Output: nap
+
+Test: fish","A) rib
+C B) an C) ap
+B D) rib
+D",
+adv_0232,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: pan -> Output: nap
+
+Test: down Note: Multiple options may appear plausible.","A) own
+C B) od
+D C) wod
+B D) se",
+adv_0233,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: fish -> Output: hsif
+
+Test: set","A) et
+D B) se C) an
+B D) ac
+C",
+adv_0234,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: set -> Output: tse
+
+Test: dog","A) et B) wod
+D C) se
+C D) ac
+B",
+adv_0235,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: set -> Output: tse
+
+Test: pan Analyze: Surface-level reading may be misleading.","A) rib
+D B) own C) og
+B D) wod
+C",
+adv_0236,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black fish Careful: This requires precise reasoning.","A) lackfish B) ishblack
+B C) lack-fish
+C D) lack fish
+D",
+adv_0237,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: fish -> Output: hsif
+
+Test: bird Careful: This requires precise reasoning.","A) rib B) ird
+B C) sif
+C D) se
+D",
+adv_0238,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: top -> Output: pot
+
+Test: fish","A) wod
+D B) et
+C C) se
+B D) og",
+adv_0239,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: bird -> Output: drib
+
+Test: down","A) at
+D B) an
+C C) ap D) ot
+B",
+adv_0240,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red chicken Note: Multiple options may appear plausible.","A) hickenred
+C B) ed-chicken C) ed chicken
+D D) edchicken
+B",
+adv_0241,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: cat -> Output: tac
+
+Test: top","A) ac
+B B) od
+C C) own
+D D) wod",
+adv_0242,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: down -> Output: nwod
+
+Test: pan Consider: Common misconceptions may lead to wrong answers.","A) se
+D B) an
+C C) ap
+B D) ird",
+adv_0243,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: bird -> Output: drib
+
+Test: top Analyze: Surface-level reading may be misleading.","A) ird
+D B) an
+C C) ap
+B D) at",
+adv_0244,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: cat -> Output: tac
+
+Test: set","A) ap
+D B) og
+B C) sif D) od
+C",
+adv_0245,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: bird -> Output: drib
+
+Test: set Analyze: Surface-level reading may be misleading.","A) ird B) ot
+C C) wod
+D D) own
+B",
+adv_0246,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: top -> Output: pot
+
+Test: fish","A) ap
+D B) og
+C C) an D) ac
+B",
+adv_0247,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: yellow bird","A) irdyellow
+C B) ellow bird
+B C) ellowbird D) ellow-bird
+D",
+adv_0248,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: fish -> Output: hsif
+
+Test: pan Careful: This requires precise reasoning.","A) et
+B B) ac
+D C) se D) ish
+C",
+adv_0249,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: cat -> Output: tac
+
+Test: top Analyze: Surface-level reading may be misleading.","A) ap
+C B) an
+D C) se D) od
+B",
+adv_0250,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: down -> Output: nwod
+
+Test: top","A) op
+C B) own C) ot
+D D) own
+B",
+adv_0251,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: set -> Output: tse
+
+Test: fish","A) od
+D B) sif C) an
+B D) og
+C",
+adv_0252,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 5 Note: Multiple options may appear plausible.",A) 0 (multiply by 2 B) 0 (add 5 C)  D) ,D
+adv_0253,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: top -> Output: pot
+
+Test: cat","A) og
+C B) ac
+B C) own D) od
+D",
+adv_0254,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 3 Note: Multiple options may appear plausible.",A) 2 (add 9 B)  C) (no change D) ,
+adv_0255,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue sheep","A) luesheep
+D B) lue sheep
+B C) lue-sheep D) heepblue
+C",
+adv_0256,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: brown horse","A) rown-horse
+D B) rown horse C) rownhorse
+B D) orsebrown
+C",
+adv_0257,mc,"Select the option that represents best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red cat Careful: This requires precise reasoning.","A) atred
+D B) ed cat C) ed-cat
+B D) edcat
+C",
+adv_0258,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: orange pig","A) range pig
+B B) igorange
+C C) range-pig
+D D) rangepig",
+adv_0259,mc,"Select the option that represents best describes: The Moon emits its own light.
+
+The Moon reflects sunlight.
+
+Determine the value of the source of the Moon's light?","A) he Moon reflects light from stars B) he Moon absorbs and re-emits light from Earth
+D C) he Moon reflects sunlight
+B D) he Moon produces light during lunar eclipses
+C",
+adv_0260,mc,"Select the option that represents best describes: Heavier objects fall faster.
+
+All objects fall at the same rate in a vacuum.
+
+How do different weights fall? Consider: Common misconceptions may lead to wrong answers.","A) ll objects fall at the same rate in a vacuum B) ir resistance makes no difference to falling speed
+D C) eavier objects fall significantly faster in practice
+B D) nly objects of the same material fall at the same rate
+C",
+adv_0261,mc,"Which best describes: The Sun orbits Earth.
+
+Earth orbits the Sun.
+
+Which orbits which? Consider: Common misconceptions may lead to wrong answers.","A) arth orbits the Sun B) ore information is needed to determine accuracy
+B C) oth statements have scientific merit
+C D) he first statement is correct
+D",
+adv_0262,mc,"Which best describes: We use 10% of our brains.
+
+We use virtually all of our brain.
+
+How much of the brain do we use?","A) oth statements have scientific merit
+D B) e use virtually all of our brain C) he first statement is correct
+C D) ore information is needed to determine accuracy
+B",
+adv_0263,mc,"Which best describes: Goldfish have 3-second memory.
+
+Goldfish can remember for months.
+
+How long can goldfish remember? Note: Multiple options may appear plausible.","A) ore information is needed to determine accuracy
+D B) he first statement is correct
+C C) oldfish can remember for months
+B D) oth statements have scientific merit",
+adv_0264,mc,"Which best describes: Sharks don't get cancer.
+
+Sharks can get cancer.
+
+Can sharks get cancer? Analyze: Surface-level reading may be misleading.","A) ore information is needed to determine accuracy B) he first statement is correct
+B C) oth statements have scientific merit
+C D) harks can get cancer
+D",
+adv_0265,mc,"Select the option that represents best describes: Hair and nails keep growing after death.
+
+They appear longer due to skin retraction.
+
+Do hair/nails grow after death? Analyze: Surface-level reading may be misleading.","A) hey appear longer due to skin retraction
+B B) he first statement is correct
+C C) ore information is needed to determine accuracy
+D D) oth statements have scientific merit",
+adv_0266,mc,"Which best describes: Water boils at 90°C.
+
+Water boils at 100°C at sea level.
+
+What temperature does water boil at?","A) ore information is needed to determine accuracy
+B B) oth statements have scientific merit
+C C) ater boils at 100°C at sea level D) he first statement is correct
+D",
+adv_0267,mc,"Which best describes: You pressed the red button and got shocked.
+
+You received a negative outcome.
+
+What should you avoid? Note: Multiple options may appear plausible.","A) void that action
+B B) ncrease the intensity of the action
+C C) ry a similar action with minor variations
+D D) epeat the action to see if outcome changes",A
+adv_0268,mc,"Select the option that represents best describes: You studied hard and got an A.
+
+Your effort was rewarded.
+
+What should you continue doing? Consider: Common misconceptions may lead to wrong answers.","A) ry a completely different action
+D B) epeat the same action C) o the opposite of what worked before
+B D) hoose randomly since outcomes are unpredictable
+C",C
+adv_0269,mc,"Which best describes: You skipped practice and lost the game.
+
+Inaction led to failure.
+
+What should you do differently? Consider: Common misconceptions may lead to wrong answers.","A) ncrease the intensity of the action
+D B) ry a similar action with minor variations
+B C) void that action D) epeat the action to see if outcome changes
+C",
+adv_0270,mc,"Which best describes: You chose the blue door and found $100.
+
+You received a large reward.
+
+What should you do next? Consider: Common misconceptions may lead to wrong answers.","A) ry a completely different action
+D B) hoose randomly since outcomes are unpredictable C) epeat the same action
+B D) o the opposite of what worked before
+C",
+adv_0271,mc,"Select the option that represents best describes: The restaurant closes at 10 PM on weekdays and 11 PM on weekends.
+
+It's Saturday at 10:30 PM.
+
+Can you still order food at the restaurant? Note: Multiple options may appear plausible.","A) nly takeout is available at this time
+D B) es, it's open for 30 more minutes
+B C) o, it closed 30 minutes ago
+C D) o, it's closed on weekends",
+adv_0272,mc,"Which best describes: Tom needs 8 hours of sleep to function well.
+
+Tom went to bed at 11 PM and needs to wake up at 6 AM.
+
+How will Tom likely feel tomorrow? Note: Multiple options may appear plausible.","A) xactly as usual — sleep duration doesn't matter
+D B) ell-rested and energized
+B C) ired and groggy (only 7 hours of sleep D) ",
+adv_0273,mc,"Which best describes: Alice always takes the bus to work on rainy days.
+
+Today is Tuesday and it's raining heavily.
+
+How is Alice most likely getting to work today? Analyze: Surface-level reading may be misleading.","A) orking from home today
+B B) alking to work C) riving her car
+D D) aking the bus
+C",

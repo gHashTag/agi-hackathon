@@ -1,0 +1,17 @@
+{
+  "title": "Trinity Cognitive Probes - TEFB Cleaned",
+  "id": "playra/trinity-tefb-cleaned",
+  "licenses": [
+    {
+      "name": "MIT"
+    }
+  ],
+  "description": "TEFB (Trinity Executive Function Battery) Cleaned Dataset - 1,512 questions for evaluating executive function capabilities. Expected model accuracy: 50-70%.",
+  "keywords": [
+    "cognitive",
+    "ai",
+    "benchmark",
+    "adversarial",
+    "agi"
+  ]
+}

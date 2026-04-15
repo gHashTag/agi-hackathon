@@ -1,0 +1,17 @@
+{
+  "title": "Trinity Cognitive Probes - TTM Physics Enhanced",
+  "id": "playra/trinity-ttm-physics-enhanced",
+  "licenses": [
+    {
+      "name": "MIT"
+    }
+  ],
+  "description": "TTM (Trinity Metacognitive) Physics-Enhanced Adversarial Dataset - 199 physics questions designed to test metacognitive calibration. Expected model accuracy: 10-25%.",
+  "keywords": [
+    "cognitive",
+    "ai",
+    "benchmark",
+    "adversarial",
+    "agi"
+  ]
+}
