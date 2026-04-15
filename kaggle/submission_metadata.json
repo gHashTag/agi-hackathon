@@ -1,0 +1,20 @@
+{
+  "title": "Trinity Cognitive Probes - Adversarial Submission",
+  "description": "Enhanced submission with adversarial datasets testing real cognitive capabilities. Total 2,861 questions across 5 tracks.",
+  "datasets": {
+    "thlp": "kaggle/data/extra/thlp_mc_aggressive.csv",
+    "ttm": "kaggle/data/extra/ttm_physics_mc.csv",
+    "tagp": "kaggle/data/tagp_mc_aggressive.csv",
+    "tefb": "kaggle/data/extra/tefb_mc_cleaned.csv",
+    "tscp": "kaggle/data/extra/tscp_mc_cleaned.csv"
+  },
+  "expected_performance": {
+    "thlp": "25-40%",
+    "ttm": "10-25%",
+    "tagp": "20-35%",
+    "tefb": "50-70%",
+    "tscp": "60-80%"
+  },
+  "submission_date": "2026-04-15",
+  "notes": "Dummy submission (all 'A'). Replace with real model predictions."
+}

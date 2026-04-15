@@ -26,6 +26,11 @@ try:
 except ImportError:
     HAS_TQDM = False
 
+# Import robust parser, retry wrapper, and calibration metrics
+from robust_parsing import RobustAnswerParser, ParsedAnswer
+from api_retry_wrapper import with_retry, APIRateLimiter
+import calibration_metrics
+
 
 @dataclass
 class Question:
@@ -48,6 +53,8 @@ class EvaluationResult:
     confidence: float
     reasoning: str
     response_time_ms: float
+    extraction_method: str = ""  # How the answer was extracted
+    is_valid: bool = True  # Whether extraction was valid
 
 
 class ModelEvaluator:
@@ -56,6 +63,7 @@ class ModelEvaluator:
     def __init__(self, model_name: str):
         self.model_name = model_name
         self.results: List[EvaluationResult] = []
+        self.failed_questions: List[Dict] = []  # Track failed questions
         self.system_prompt = self.load_system_prompt()
 
     def load_system_prompt(self) -> str:
@@ -119,30 +127,42 @@ Provide your answer in the exact format specified above."""
         }
         return track_prompts.get(track.lower(), "")
 
+    def _log_failed_question(self, question: Question, error_msg: str):
+        """Log a failed question for later analysis"""
+        failure_entry = {
+            'question_id': question.id,
+            'track': question.question_type,
+            'error': error_msg,
+            'timestamp': datetime.now().isoformat()
+        }
+        self.failed_questions.append(failure_entry)
+
     def parse_response(self, text: str, question: Question, track: str, response_time_ms: float) -> EvaluationResult:
-        """Parse model response to extract answer, confidence, reasoning"""
-        # Extract answer (A, B, C, D)
-        answer_match = re.search(r'Answer:\s*([A-D])', text, re.IGNORECASE)
-        predicted = answer_match.group(1).upper() if answer_match else "A"
+        """Parse model response to extract answer, confidence, reasoning using robust parser"""
+        # Get valid choices (filter out empty choices)
+        valid_choices = [c for c, choice in zip(['A', 'B', 'C', 'D'], question.choices) if choice]
 
-        # Extract confidence (0-100)
-        conf_match = re.search(r'Confidence:\s*(\d+)', text)
-        confidence = int(conf_match.group(1)) if conf_match else 50
-        confidence = max(0, min(100, confidence))  # Clamp to 0-100
+        # Use robust parser
+        parser = RobustAnswerParser()
+        parsed = parser.parse(text, valid_choices)
 
-        # Extract reasoning
-        reasoning_match = re.search(r'Reasoning:\s*(.+?)(?=\n\n|---|$)', text, re.DOTALL)
-        reasoning = reasoning_match.group(1).strip() if reasoning_match else "No reasoning provided"
+        # Log warnings if any
+        if parsed.warning:
+            print(f"  ⚠️  Warning for question {question.id}: {parsed.warning}")
+        if not parsed.is_valid:
+            print(f"  ❌  Invalid extraction for question {question.id}: using fallback")
 
         return EvaluationResult(
             question_id=question.id,
             track=track,
             question_type=question.question_type,
-            predicted=predicted,
-            correct=(predicted == question.answer),
-            confidence=confidence,
-            reasoning=reasoning[:500],  # Limit reasoning length
-            response_time_ms=response_time_ms
+            predicted=parsed.answer,
+            correct=(parsed.answer == question.answer),
+            confidence=parsed.confidence,
+            reasoning=parsed.reasoning[:500],  # Limit reasoning length
+            response_time_ms=response_time_ms,
+            extraction_method=parsed.extraction_method,
+            is_valid=parsed.is_valid
         )
 
     def evaluate(self, questions: List[Question], track: str, sample_size: Optional[int] = None) -> List[EvaluationResult]:
@@ -163,10 +183,13 @@ Provide your answer in the exact format specified above."""
                 'timestamp': timestamp,
                 'total_questions': len(self.results),
                 'summary': self.get_summary(),
-                'results': [asdict(r) for r in self.results]
+                'results': [asdict(r) for r in self.results],
+                'failed_questions': self.failed_questions
             }, f, indent=2)
 
         print(f"\n✅ Results saved to {output_path}")
+        if self.failed_questions:
+            print(f"⚠️  Failed questions: {len(self.failed_questions)}")
         self.print_summary()
 
     def get_summary(self) -> Dict:
@@ -197,17 +220,37 @@ Provide your answer in the exact format specified above."""
                 'count': len(type_results)
             }
 
-        # Calibration analysis
-        confidence_bins = [(0, 30), (30, 50), (50, 70), (70, 90), (90, 100)]
-        calibration = {}
-        for low, high in confidence_bins:
-            bin_results = [r for r in self.results if low <= r.confidence < high]
-            if bin_results:
-                bin_correct = sum(1 for r in bin_results if r.correct)
-                calibration[f"{low}-{high}"] = {
-                    'accuracy': bin_correct / len(bin_results),
-                    'count': len(bin_results)
-                }
+        # Calibration analysis with proper metrics (ECE, Brier Score)
+        confidences = [r.confidence for r in self.results]
+        correct = [1 if r.correct else 0 for r in self.results]
+
+        calibration_summary = {}
+        if self.results:
+            # Compute advanced calibration metrics
+            cal_result = calibration_metrics.full_calibration_analysis(
+                confidences, correct, n_bins=10
+            )
+
+            calibration_summary = {
+                'ece': cal_result.ece,
+                'brier_score': cal_result.brier_score,
+                'over_confidence': cal_result.over_confidence,
+                'under_confidence': cal_result.under_confidence,
+                'reliability': cal_result.reliability
+            }
+
+            # Also keep old format for compatibility
+            confidence_bins = [(0, 30), (30, 50), (50, 70), (70, 90), (90, 100)]
+            calibration_basic = {}
+            for low, high in confidence_bins:
+                bin_results = [r for r in self.results if low <= r.confidence < high]
+                if bin_results:
+                    bin_correct = sum(1 for r in bin_results if r.correct)
+                    calibration_basic[f"{low}-{high}"] = {
+                        'accuracy': bin_correct / len(bin_results),
+                        'count': len(bin_results)
+                    }
+            calibration_summary['basic'] = calibration_basic
 
         return {
             'accuracy': correct / total,
@@ -215,7 +258,7 @@ Provide your answer in the exact format specified above."""
             'total': total,
             'track_stats': track_stats,
             'type_stats': type_stats,
-            'calibration': calibration
+            'calibration': calibration_summary
         }
 
     def print_summary(self):
@@ -234,10 +277,23 @@ Provide your answer in the exact format specified above."""
             for track, stats in summary['track_stats'].items():
                 print(f"  {track.upper()}  : {stats['accuracy']:.2%} ({stats['count']} questions)")
 
-        if 'calibration' in summary:
+        if 'calibration' in summary and summary['calibration']:
+            cal = summary['calibration']
             print(f"\n---CALIBRATION---")
-            for bin_name, stats in summary['calibration'].items():
-                print(f"  {bin_name}%  : {stats['accuracy']:.2%} ({stats['count']} questions)")
+            if 'ece' in cal:
+                print(f"  Expected Calibration Error (ECE): {cal['ece']:.4f}")
+                print(f"    (< 0.05 = excellent, < 0.10 = good, < 0.15 = fair)")
+            if 'brier_score' in cal:
+                print(f"  Brier Score: {cal['brier_score']:.4f}")
+                print(f"    (lower is better, 0 = perfect)")
+            if 'over_confidence' in cal and 'under_confidence' in cal:
+                print(f"  Over-confidence: {cal['over_confidence']:.2%}")
+                print(f"  Under-confidence: {cal['under_confidence']:.2%}")
+
+            if 'basic' in cal:
+                print(f"  Basic Bins:")
+                for bin_name, stats in cal['basic'].items():
+                    print(f"    {bin_name}%  : {stats['accuracy']:.2%} ({stats['count']} questions)")
 
         print(f"{'='*60}")
 
@@ -247,6 +303,7 @@ class ClaudeEvaluator(ModelEvaluator):
 
     def __init__(self, model_name: str = "claude"):
         super().__init__(model_name)
+        self.rate_limiter = APIRateLimiter(max_calls=20, time_window=60.0)
 
     def evaluate(self, questions: List[Question], track: str, sample_size: Optional[int] = None) -> List[EvaluationResult]:
         """Evaluate questions using Claude API"""
@@ -274,14 +331,17 @@ class ClaudeEvaluator(ModelEvaluator):
             prompt = self.format_prompt(q, track)
             start_time = time.time()
 
-            try:
-                response = client.messages.create(
+            @with_retry('anthropic', rate_limiter=self.rate_limiter)
+            def make_api_call():
+                return client.messages.create(
                     model="claude-3-5-sonnet-20241022",
                     max_tokens=1024,
                     temperature=0.0,
                     messages=[{"role": "user", "content": prompt}]
                 )
 
+            try:
+                response = make_api_call()
                 response_time = (time.time() - start_time) * 1000
                 response_text = response.content[0].text
 
@@ -289,7 +349,7 @@ class ClaudeEvaluator(ModelEvaluator):
                 self.results.append(result)
 
             except Exception as e:
-                print(f"Error evaluating question {q.id}: {e}")
+                print(f"❌ Failed to evaluate question {q.id} after all retries: {e}")
                 continue
 
         return self.results
@@ -300,6 +360,7 @@ class OpenAIEvaluator(ModelEvaluator):
 
     def __init__(self, model_name: str = "openai"):
         super().__init__(model_name)
+        self.rate_limiter = APIRateLimiter(max_calls=30, time_window=60.0)
 
     def evaluate(self, questions: List[Question], track: str, sample_size: Optional[int] = None) -> List[EvaluationResult]:
         """Evaluate questions using OpenAI API"""
@@ -327,14 +388,17 @@ class OpenAIEvaluator(ModelEvaluator):
             prompt = self.format_prompt(q, track)
             start_time = time.time()
 
-            try:
-                response = client.chat.completions.create(
+            @with_retry('openai', rate_limiter=self.rate_limiter)
+            def make_api_call():
+                return client.chat.completions.create(
                     model="gpt-4o",
                     messages=[{"role": "user", "content": prompt}],
                     temperature=0.0,
                     max_tokens=1024
                 )
 
+            try:
+                response = make_api_call()
                 response_time = (time.time() - start_time) * 1000
                 response_text = response.choices[0].message.content
 
@@ -342,7 +406,7 @@ class OpenAIEvaluator(ModelEvaluator):
                 self.results.append(result)
 
             except Exception as e:
-                print(f"Error evaluating question {q.id}: {e}")
+                self._log_failed_question(q, str(e))
                 continue
 
         return self.results
@@ -353,6 +417,7 @@ class GeminiEvaluator(ModelEvaluator):
 
     def __init__(self, model_name: str = "gemini"):
         super().__init__(model_name)
+        self.rate_limiter = APIRateLimiter(max_calls=15, time_window=60.0)
 
     def evaluate(self, questions: List[Question], track: str, sample_size: Optional[int] = None) -> List[EvaluationResult]:
         """Evaluate questions using Gemini API"""
@@ -381,8 +446,9 @@ class GeminiEvaluator(ModelEvaluator):
             prompt = self.format_prompt(q, track)
             start_time = time.time()
 
-            try:
-                response = model.generate_content(
+            @with_retry('google', rate_limiter=self.rate_limiter)
+            def make_api_call():
+                return model.generate_content(
                     prompt,
                     generation_config=genai.types.GenerationConfig(
                         temperature=0.0,
@@ -390,6 +456,8 @@ class GeminiEvaluator(ModelEvaluator):
                     )
                 )
 
+            try:
+                response = make_api_call()
                 response_time = (time.time() - start_time) * 1000
                 response_text = response.text
 
@@ -397,7 +465,7 @@ class GeminiEvaluator(ModelEvaluator):
                 self.results.append(result)
 
             except Exception as e:
-                print(f"Error evaluating question {q.id}: {e}")
+                self._log_failed_question(q, str(e))
                 continue
 
         return self.results
@@ -408,6 +476,7 @@ class GLM5Evaluator(ModelEvaluator):
 
     def __init__(self, model_name: str = "glm-5"):
         super().__init__(model_name)
+        self.rate_limiter = APIRateLimiter(max_calls=10, time_window=60.0)
 
     def evaluate(self, questions: List[Question], track: str, sample_size: Optional[int] = None) -> List[EvaluationResult]:
         """Evaluate questions using GLM-5 API"""
@@ -442,7 +511,8 @@ class GLM5Evaluator(ModelEvaluator):
             prompt = self.format_prompt(q, track)
             start_time = time.time()
 
-            try:
+            @with_retry('zhipu', rate_limiter=self.rate_limiter)
+            def make_api_call():
                 payload = {
                     "model": "glm-5",
                     "messages": [
@@ -451,8 +521,10 @@ class GLM5Evaluator(ModelEvaluator):
                     "temperature": 0.0,
                     "max_tokens": 1024
                 }
+                return requests.post(api_url, headers=headers, json=payload, timeout=60)
 
-                response = requests.post(api_url, headers=headers, json=payload, timeout=60)
+            try:
+                response = make_api_call()
                 response.raise_for_status()
 
                 response_time = (time.time() - start_time) * 1000
@@ -461,14 +533,14 @@ class GLM5Evaluator(ModelEvaluator):
                 if "choices" in response_data and len(response_data["choices"]) > 0:
                     response_text = response_data["choices"][0]["message"]["content"]
                 else:
-                    print(f"Error: Unexpected response from GLM-5 API")
+                    self._log_failed_question(q, "Unexpected response from GLM-5 API")
                     continue
 
                 result = self.parse_response(response_text, q, track, response_time)
                 self.results.append(result)
 
             except Exception as e:
-                print(f"Error evaluating question {q.id}: {e}")
+                self._log_failed_question(q, str(e))
                 continue
 
         return self.results

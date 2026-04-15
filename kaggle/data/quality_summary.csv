@@ -1,0 +1,5 @@
+dataset,questions,duplicates,uniform_distribution,kl_divergence,adversarial_score,avg_question_length
+ttm_physics_mc,49,2,True,-0.06338357314800472,1,173.89795918367346
+tagp_mc_adversarial,125,37,True,-0.06618263023749929,4,373.76615746180966
+tefb_mc_cleaned,1512,64,True,-0.06643045880130267,1,163.52116402116403
+tscp_mc_cleaned,25,0,True,-0.06583326760571978,2,151.92

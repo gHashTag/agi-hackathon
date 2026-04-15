@@ -1,5 +1,2 @@
-id,answer
-sample_001,A
-sample_002,B
-sample_003,C
-sample_004,D
+id,thlp_mc,ttm_mc,tagp_mc,tefb_mc,tscp_mc
+sample_1,A,B,C,D,A
