@@ -8,7 +8,7 @@ os.environ["RENDER_SUBRUNS"] = "False"
 
 # ---- Load dataset ----
 # In Kaggle notebook, add dataset playra/trinity-cognitive-probes-tagp-mc as input
-df = pd.read_csv("/kaggle/input/trinity-cognitive-probes-tagp-mc/tagp_mc.csv")
+df = pd.read_csv("/kaggle/input/trinity-cognitive-probes-tagp-mc/tagp_mc_fixed.csv")
 
 # Clean and sample
 df = df.dropna(subset=["question", "choices", "answer"])
@@ -16,7 +16,7 @@ df["answer"] = df["answer"].str.strip().str.upper()
 df = df[df["answer"].isin(["A", "B", "C", "D"])]
 
 # Sample 200 questions for benchmark (representative, reproducible)
-# Dataset has 17,601 questions — sample for efficient evaluation
+# Dataset has 2,200 questions — sample for efficient evaluation
 df = df.sample(n=min(200, len(df)), random_state=42).reset_index(drop=True)
 
 print(f"Loaded {len(df)} questions for TAGP (Attention) benchmark")

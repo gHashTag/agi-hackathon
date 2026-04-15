@@ -8,7 +8,7 @@ os.environ["RENDER_SUBRUNS"] = "False"
 
 # ---- Load dataset ----
 # In Kaggle notebook, add dataset playra/trinity-cognitive-probes-thlp-mc as input
-df = pd.read_csv("/kaggle/input/trinity-cognitive-probes-thlp-mc/thlp_mc_new.csv")
+df = pd.read_csv("/kaggle/input/trinity-cognitive-probes-thlp-mc/thlp_mc_fixed.csv")
 
 # Clean and sample
 df = df.dropna(subset=["question", "choices", "answer"])

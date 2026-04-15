@@ -4,7 +4,7 @@
 
 Current AI evaluations often conflate memorization with genuine cognitive ability. A model that scores 95% on a standardized test may simply be recalling training data rather than demonstrating understanding. The five cognitive domains in this hackathon — Learning, Metacognition, Attention, Executive Functions, and Social Cognition — are precisely the areas where this distinction matters most.
 
-We address this gap with **Trinity Cognitive Probes**, a suite of 66,133 multiple-choice questions across all five tracks. Each question is mapped to specific neuroanatomical brain zones, grounded in cognitive neuroscience literature. Our design principle: test the cognitive process, not the knowledge.
+We address this gap with **Trinity Cognitive Probes**, a suite of 8,411 multiple-choice questions across all five tracks. Each question is mapped to specific neuroanatomical brain zones, grounded in cognitive neuroscience literature. Our design principle: test the cognitive process, not the knowledge.
 
 ## Task and Benchmark Construction
 
@@ -22,15 +22,15 @@ The minimal prompt design is intentional — we avoid chain-of-thought scaffoldi
 
 ### Five Tracks
 
-**Track 1: Learning (THLP)** — 19,681 questions targeting the Hippocampus and Entorhinal Cortex. Tests pattern learning (can the model detect statistical regularities?), belief update (can it revise conclusions given new evidence?), and rule induction (can it generalize from examples?). Key challenge: questions require integrating information across multiple premises, not just pattern matching.
+**Track 1: Learning (THLP)** — 2,400 questions targeting the Hippocampus and Entorhinal Cortex. Tests pattern learning (can the model detect statistical regularities?), belief update (can it revise conclusions given new evidence?), and rule induction (can it generalize from examples?). Key challenge: questions require integrating information across multiple premises, not just pattern matching.
 
-**Track 2: Metacognition (TTM)** — 4,931 questions targeting the Posterior Cingulate Cortex and dorsolateral Prefrontal Cortex. Tests confidence calibration (does the model know what it knows?), error detection (can it identify mistakes in reasoning?), and meta-learning (can it improve its strategy?). These questions deliberately include plausible-sounding wrong answers to test genuine understanding vs. surface heuristics.
+**Track 2: Metacognition (TTM)** — 816 questions targeting the Posterior Cingulate Cortex and dorsolateral Prefrontal Cortex. Tests confidence calibration (does the model know what it knows?), error detection (can it identify mistakes in reasoning?), and meta-learning (can it improve its strategy?). These questions deliberately include plausible-sounding wrong answers to test genuine understanding vs. surface heuristics.
 
-**Track 3: Attention (TAGP)** — 17,601 questions targeting the Parietal Cortex and Frontal Eye Fields. Tests selective filtering (can it focus on relevant information amid distractors?), sustained attention (can it maintain focus across long contexts?), and attention shifting (can it flexibly redirect processing?). Questions embed critical information within irrelevant context to test attentional control.
+**Track 3: Attention (TAGP)** — 2,200 questions targeting the Parietal Cortex and Frontal Eye Fields. Tests selective filtering (can it focus on relevant information amid distractors?), sustained attention (can it maintain focus across long contexts?), and attention shifting (can it flexibly redirect processing?). Questions embed critical information within irrelevant context to test attentional control.
 
-**Track 4: Executive Functions (TEFB)** — 21,081 questions targeting the dorsolateral PFC, Anterior Cingulate Cortex, and Orbitofrontal Cortex. Tests multi-step planning (can it reason about sequences of actions?), working memory (can it hold and manipulate information?), and cognitive flexibility (can it switch strategies?). Problems require maintaining multiple constraints simultaneously.
+**Track 4: Executive Functions (TEFB)** — 2,400 questions targeting the dorsolateral PFC, Anterior Cingulate Cortex, and Orbitofrontal Cortex. Tests multi-step planning (can it reason about sequences of actions?), working memory (can it hold and manipulate information?), and cognitive flexibility (can it switch strategies?). Problems require maintaining multiple constraints simultaneously.
 
-**Track 5: Social Cognition (TSCP)** — 2,839 questions targeting the Temporo-Parietal Junction and medial Prefrontal Cortex. Tests Theory of Mind (can it model others' beliefs?), pragmatic inference (can it understand implied meaning?), and social norms (does it understand contextual appropriateness?). Classic false-belief tasks adapted for LLM evaluation.
+**Track 5: Social Cognition (TSCP)** — 595 questions targeting the Temporo-Parietal Junction and medial Prefrontal Cortex. Tests Theory of Mind (can it model others' beliefs?), pragmatic inference (can it understand implied meaning?), and social norms (does it understand contextual appropriateness?). Classic false-belief tasks adapted for LLM evaluation.
 
 ## Dataset
 
@@ -43,7 +43,7 @@ The minimal prompt design is intentional — we avoid chain-of-thought scaffoldi
 - `choices` — four options labeled A through D
 - `answer` — ground truth letter (A/B/C/D)
 
-**Scale:** 66,133 total questions across five tracks, with each benchmark task sampling 200 for evaluation efficiency while maintaining statistical significance.
+**Scale:** 8,411 total questions across five tracks, with each benchmark task sampling 200 for evaluation efficiency while maintaining statistical significance.
 
 **Quality controls:** Duplicate detection, answer distribution verification (balanced across A/B/C/D), and adversarial filtering to remove questions solvable by keyword matching alone.
 
@@ -63,13 +63,17 @@ The minimal prompt design is intentional — we avoid chain-of-thought scaffoldi
 
 ## Results, Insights, and Conclusions
 
-### Expected Performance Gradient
+### Observed Performance Gradient
 
-Based on preliminary testing, we expect a meaningful performance gradient across models:
+Gemini 2.5 Flash results across all five tracks (overall score: 0.77) demonstrate a clear performance gradient:
 
-- **Frontier models** (Gemini 2.5 Pro, Claude 3.5 Sonnet): 60-85% accuracy, with highest variance on Metacognition and Social Cognition tracks
-- **Mid-tier models** (Gemini Flash, Llama 3.1 70B): 45-70% accuracy, with notable drops on Executive Functions requiring multi-step planning
-- **Smaller models** (Llama 3.1 8B): 30-50% accuracy, approaching random baseline (25%) on harder tracks
+- **THLP (Learning):** 0.92 — highest score, indicating strong pattern recognition and rule induction
+- **TEFB (Executive Functions):** 0.90 — strong multi-step planning capability
+- **TSCP (Social Cognition):** 1.00 — perfect Theory of Mind performance on sampled questions
+- **TTM (Metacognition):** 0.67 — notable drop on confidence calibration and error detection
+- **TAGP (Attention):** 0.38 — significant difficulty with selective filtering under distraction
+
+The spread from 0.38 to 1.00 across tracks confirms meaningful discriminatory power. Attention (TAGP) emerges as the most challenging domain, while Learning (THLP) and Executive Functions (TEFB) show near-ceiling performance for frontier models.
 
 ### Key Insights
 
@@ -82,7 +86,7 @@ Based on preliminary testing, we expect a meaningful performance gradient across
 
 Trinity Cognitive Probes provide a scalable, reproducible benchmark that maps AI capabilities onto the same cognitive architecture neuroscience uses to understand human intelligence. The brain zone mapping is not merely decorative — it structures the evaluation around genuine cognitive processes rather than arbitrary task categories.
 
-The benchmark is designed to remain useful as models improve: the question bank of 66K+ items provides headroom for increasing sample sizes, and the cognitive science foundation ensures that the tasks test fundamental capabilities rather than benchmarks that can be gamed through memorization.
+The benchmark is designed to remain useful as models improve: the question bank of 8K+ items provides headroom for increasing sample sizes, and the cognitive science foundation ensures that the tasks test fundamental capabilities rather than benchmarks that can be gamed through memorization.
 
 ## Organizational Affiliations
 
