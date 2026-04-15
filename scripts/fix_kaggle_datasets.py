@@ -2,7 +2,8 @@
 """
 Fix issues with Kaggle datasets for Data Explorer compatibility
 Fixes:
-1. Multiline choices in TTM and TSCP (replace \n with |)
+1. Multiline choices in TTM and TSCP (replace 
+ with |)
 2. Update About descriptions for TTM and TEFB
 """
 
@@ -18,8 +19,10 @@ def fix_ttm_tscp(csv_path: str, output_path: str):
 
     df = pd.read_csv(csv_path)
 
-    # Fix multiline choices by replacing \n with |
-    df['choices'] = df['choices'].str.replace('\n', ' | ')
+    # Fix multiline choices by replacing 
+ with |
+    df['choices'] = df['choices'].str.replace('
+', ' | ')
 
     # Save to output
     df.to_csv(output_path, index=False)
@@ -28,11 +31,14 @@ def fix_ttm_tscp(csv_path: str, output_path: str):
 
 def print_about_update_instructions():
     """Update Kaggle About descriptions for tracks"""
-    print("\nNote: These descriptions must be updated manually on Kaggle:")
+    print("
+Note: These descriptions must be updated manually on Kaggle:")
     print("Go to: https://www.kaggle.com/datasets/playra/trinity-cognitive-probes-<track>/edit")
-    print("\nTTM: Change '733 multiple-choice questions' to actual row count")
+    print("
+TTM: Change '733 multiple-choice questions' to actual row count")
     print("TEFB: Change '1805 multiple-choice questions' to actual row count")
-    print("TSCP: Remove 'License: MIT' from About/README\n")
+    print("TSCP: Remove 'License: MIT' from About/README
+")
 
 
 def main():
@@ -40,7 +46,8 @@ def main():
     # No arguments required for basic usage
     if "--help" in sys.argv or "-h" in sys.argv:
         print("Usage: python fix_kaggle_datasets.py [--upload]")
-        print("\nFixes issues and optionally uploads to Kaggle")
+        print("
+Fixes issues and optionally uploads to Kaggle")
         sys.exit(0)
 
     base_dir = Path(__file__).parent.parent / "data"
@@ -55,7 +62,8 @@ def main():
 
         # Upload if requested
         if "--upload" in sys.argv:
-            print("\n⚠️  Upload not implemented yet")
+            print("
+⚠️  Upload not implemented yet")
             print("Please upload manually via Kaggle Data Explorer")
     else:
         print(f"TTM file not found: {ttm_csv}")
@@ -70,7 +78,8 @@ def main():
 
         # Upload if requested
         if "--upload" in sys.argv:
-            print("\n⚠️  Upload not implemented yet")
+            print("
+⚠️  Upload not implemented yet")
             print("Please upload manually via Kaggle Data Explorer")
     else:
         print(f"TSCP file not found: {tscp_csv}")

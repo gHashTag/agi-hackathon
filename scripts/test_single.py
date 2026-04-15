@@ -38,7 +38,8 @@ def load_example_question(track_dir: str) -> Question:
                 break
 
             if i >= 1:  # Use 1-4 as examples (skip header)
-                print(f"\n{'='*60}")
+                print(f"
+{'='*60}")
                 print(f"Example {i-1}:")
                 print(f"ID: {row.get('id', 'N/A')}")
                 print(f"Type: {row.get('question_type', 'N/A')}")
@@ -65,24 +66,30 @@ def load_example_question(track_dir: str) -> Question:
 
 def print_test_prompt(question: Question):
     """Print a formatted test prompt"""
-    print(f"\n{'='*60}")
+    print(f"
+{'='*60}")
     print(f"{'='*60}")
     print(f"Test Question for {question.question_type}")
     print(f"{'='*60}")
-    print(f"\nQuestion: {question.question}")
-    print(f"\nChoices:")
+    print(f"
+Question: {question.question}")
+    print(f"
+Choices:")
     for i, choice in enumerate(question.choices):
         if choice:  # Only show non-empty choices
             print(f"  {['A', 'B', 'C', 'D'][i]}) {choice}")
-    print(f"\nAnswer: {question.answer} (do not share with model!)")
-    print(f"{'='*60}\n")
+    print(f"
+Answer: {question.answer} (do not share with model!)")
+    print(f"{'='*60}
+")
 
 
 def main():
     """Main function"""
     if len(sys.argv) < 2:
         print("Usage: python test_single.py --track <thlp|ttm|tagp|tefb|tscp>")
-        print("\nExample:")
+        print("
+Example:")
         print("  python test_single.py --track thlp")
         sys.exit(1)
 
@@ -116,10 +123,12 @@ def main():
         print("Error: Could not load example question")
         sys.exit(1)
 
-    print(f"\n{'='*60}")
+    print(f"
+{'='*60}")
     print(f"Loaded example from: {tracks[track]}")
     print(f"Track: {track}")
-    print(f"{'='*60}\n")
+    print(f"{'='*60}
+")
 
     # Print test prompt
     print_test_prompt(question)

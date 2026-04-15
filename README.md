@@ -12,11 +12,11 @@ This repository contains a complete evaluation framework for the AGI Hackathon, 
 
 | Track | Cognitive Ability | Brain Zones | Questions | GitHub Dataset |
 |-------|------------------|------------|------------|---------------|
-| **THLP** | Pattern Learning | Hippocampus, Entorhinal Cortex | [THLP Dataset](https://www.kaggle.com/datasets/playra/trinity-cognitive-probes-thlp-mc) |
-| **TTM** | Metacognitive Calibration | Prefrontal Cortex | [TTM Dataset](https://www.kaggle.com/datasets/playra/trinity-cognitive-probes-ttm-mc) |
-| **TAGP** | Selective Attention | Parietal Lobes | [TAGP Dataset](https://www.kaggle.com/datasets/playra/trinity-cognitive-probes-tagp-mc) |
-| **TEFB** | Executive Functions | DLPFC | [TEFB Dataset](https://www.kaggle.com/datasets/playra/trinity-cognitive-probes-tefb-mc) |
-| **TSCP** | Social Cognition | TPJ, mPFC | [TSCP Dataset](https://www.kaggle.com/datasets/playra/trinity-cognitive-probes-tscp-mc) |
+| **THLP** | Pattern Learning | Hippocampus, Entorhinal Cortex | [THLP Dataset](https://www.kaggle.com/datasets/playra/hlp-mc) |
+| **TTM** | Metacognitive Calibration | Prefrontal Cortex | [TTM Dataset](https://www.kaggle.com/datasets/playra/tm-mc) |
+| **TAGP** | Selective Attention | Parietal Lobes | [TAGP Dataset](https://www.kaggle.com/datasets/playra/agp-mc) |
+| **TEFB** | Executive Functions | DLPFC | [TEFB Dataset](https://www.kaggle.com/datasets/playra/efb-mc) |
+| **TSCP** | Social Cognition | TPJ, mPFC | [TSCP Dataset](https://www.kaggle.com/datasets/playra/scp-mc) |
 
 **Total Questions:** 65,133 multiple-choice questions spanning all cognitive tracks
 

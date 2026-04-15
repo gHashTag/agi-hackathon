@@ -5,11 +5,11 @@
 set -e
 
 TRACKS=(
-    "https://www.kaggle.com/datasets/playra/trinity-cognitive-probes-thlp-mc"
-    "https://www.kaggle.com/datasets/playra/trinity-cognitive-probes-ttm-mc"
-    "https://www.kaggle.com/datasets/playra/trinity-cognitive-probes-tagp-mc"
-    "https://www.kaggle.com/datasets/playra/trinity-cognitive-probes-tefb-mc"
-    "https://www.kaggle.com/datasets/playra/trinity-cognitive-probes-tscp-mc"
+    "https://www.kaggle.com/datasets/playra/hlp-mc"
+    "https://www.kaggle.com/datasets/playra/tm-mc"
+    "https://www.kaggle.com/datasets/playra/agp-mc"
+    "https://www.kaggle.com/datasets/playra/efb-mc"
+    "https://www.kaggle.com/datasets/playra/scp-mc"
 )
 
 TRACK_NAMES=("thlp" "ttm" "tagp" "tefb" "tscp")
