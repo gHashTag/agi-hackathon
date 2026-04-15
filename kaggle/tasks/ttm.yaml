@@ -1,0 +1,12 @@
+id: ttm_001
+title: Metacognition Calibration
+description: Evaluate model's ability to calibrate confidence accurately and detect errors
+category: metacognition
+difficulty: hard
+evaluation:
+  primary: accuracy
+  secondary: calibration
+question_count: 49
+adversarial:
+  strategies: [negative_constraints, confidence_traps, meta_learning_tasks]
+  target_accuracy: 0.10-0.25

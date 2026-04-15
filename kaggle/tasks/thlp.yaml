@@ -1,0 +1,12 @@
+id: thlp_001
+title: Pattern Induction
+description: Induce rules from examples and detect patterns in sequences
+category: learning
+difficulty: hard
+evaluation:
+  primary: accuracy
+  secondary: calibration
+question_count: 274
+adversarial:
+  strategies: [paraphrase, negative_constraints, answer_scrambling]
+  target_accuracy: 0.25-0.40

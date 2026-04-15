@@ -1,0 +1,12 @@
+id: tefb_001
+title: Executive Functions
+description: Evaluate model's ability to plan multi-step solutions and adapt to changing constraints
+category: executive_functions
+difficulty: medium
+evaluation:
+  primary: accuracy
+  secondary: planning_quality
+question_count: 1512
+adversarial:
+  strategies: [constraint_complexity, working_memory_load, plan_interruption, cognitive_flexibility]
+  target_accuracy: 0.35-0.50

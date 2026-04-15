@@ -1,0 +1,12 @@
+id: tscp_001
+title: Social Cognition
+description: Evaluate model's ability to understand mental states and navigate social situations
+category: social_cognition
+difficulty: easy
+evaluation:
+  primary: accuracy
+  secondary: theory_of_mind
+question_count: 25
+adversarial:
+  strategies: [pragmatic_inference, sarcasm_detection, indirect_communication, social_norm_violations]
+  target_accuracy: 0.50-0.70

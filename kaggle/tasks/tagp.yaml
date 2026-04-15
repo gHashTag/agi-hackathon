@@ -1,0 +1,12 @@
+id: tagp_001
+title: Selective Attention
+description: Evaluate model's ability to focus on relevant information while ignoring distractions
+category: attention
+difficulty: medium
+evaluation:
+  primary: accuracy
+  secondary: focus_quality
+question_count: 851
+adversarial:
+  strategies: [distractor_enhancement, noise_injection, attention_breaking, information_overload]
+  target_accuracy: 0.20-0.35
