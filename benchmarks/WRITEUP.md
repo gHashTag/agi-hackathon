@@ -55,34 +55,39 @@ Each track is a separate Kaggle Benchmark task. The unified pipeline samples 200
 
 ## Results, Insights, and Conclusions
 
-### Performance Gradient Across 10 Models
+### Performance Gradient Across 11 Models
 
-| Track | Flash | Pro | Claude Opus | Claude Sonnet | GPT-5.4 | GPT-5.4 mini | Flash-Lite |
-|-------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **TAGP (Attention)** | **0.38** | 0.79 | 0.78 | 0.72 | 0.79 | 0.77 | 0.71 |
-| THLP (Learning) | 0.92 | — | 0.86 | 0.85 | — | 0.82 | 0.82 |
-| TTM (Metacognition) | 0.67 | 0.74 | 0.41 | 0.41 | 0.49 | 0.44 | 0.75 |
-| TEFB (Executive Fn) | 0.90 | 0.88 | 0.87 | 0.93 | 0.91 | 0.84 | — |
-| TSCP (Social Cog) | 1.00 | 0.99 | 0.98 | 0.96 | 0.96 | 0.98 | 0.95 |
-| **Aggregate** | **0.77** | **0.68** | **0.78** | **0.78** | **0.63** | **0.77** | **0.65** |
+| Model | Agg. | TAGP | THLP | TTM | TEFB | TSCP |
+|-------|:-:|:-:|:-:|:-:|:-:|:-:|
+| Flash-Lite Preview | **0.82** | 0.71 | 0.82 | 0.75 | 0.87 | 0.95 |
+| GPT-5.4 | **0.79** | 0.79 | 0.82 | 0.49 | 0.91 | 0.96 |
+| Claude Opus 4.6 | **0.78** | 0.78 | 0.86 | 0.41 | 0.87 | 0.98 |
+| Claude Sonnet 4.6 | **0.78** | 0.72 | 0.85 | 0.41 | 0.93 | 0.96 |
+| Gemini 2.5 Flash | **0.77** | **0.38** | 0.92 | 0.67 | 0.90 | 1.00 |
+| GPT-5.4 mini | **0.77** | 0.77 | 0.82 | 0.44 | 0.84 | 0.98 |
+| Gemini 2.5 Pro | **0.85**\* | 0.79 | — | 0.74 | 0.88 | 0.99 |
+| Gemini 3.1 Pro Prev. | — | — | — | 0.74 | — | 0.97 |
+| GLM-5 | — | — | — | — | — | 0.93 |
+| Claude Haiku 4.5 | — | — | — | — | — | — |
+| gpt-oss-120b | — | — | — | — | — | — |
 
-Full leaderboard with 10+ models available at the benchmark page. Scores update as evaluations complete.
+\*Gemini 2.5 Pro aggregate is partial (4 of 5 tasks). Dash (—) indicates evaluation in progress. Full live leaderboard at the benchmark page.
 
 ### Key Findings
 
-1. **TAGP reveals a clear performance gradient.** Across 7 evaluated models, TAGP scores range from 0.38 (Gemini Flash) to 0.79 (Gemini Pro, GPT-5.4), a 41-percentage-point spread. This makes Attention the strongest discriminator in our suite — no other track produces comparable variance across frontier models.
+1. **TAGP reveals the strongest performance gradient.** Across 8 evaluated models, TAGP (Attention) scores range from 0.38 (Gemini Flash) to 0.79 (Gemini Pro, GPT-5.4) — a 41-percentage-point spread. No other track produces comparable variance across frontier models, making Attention the most discriminating cognitive domain in our suite.
 
-2. **Metacognition (TTM) exposes a surprising split.** Claude Opus and Sonnet both score 0.41 on TTM — dramatically below their 0.78+ aggregate — while Gemini Flash-Lite leads at 0.75. This suggests metacognitive calibration is architecturally independent from general capability, and some model families have systematic blind spots in error detection.
+2. **Metacognition (TTM) exposes a surprising architectural split.** Claude Opus and Sonnet both score 0.41 on TTM — dramatically below their 0.78 aggregate — while Gemini Flash-Lite leads at 0.75. This suggests metacognitive calibration is architecturally independent from general capability, and some model families have systematic blind spots in error detection.
 
 3. **Social Cognition approaches ceiling.** TSCP scores cluster between 0.93–1.00 across all models, confirming that Theory of Mind and pragmatic inference are largely solved for frontier LLMs. This track serves as a calibration baseline rather than a discriminator.
 
-4. **Cross-domain dissociation reveals architectural signatures.** Claude Sonnet scores 0.93 on Executive Functions but only 0.41 on Metacognition — a 52-point gap. Gemini Flash scores 0.92 on Learning but 0.38 on Attention — a 54-point gap. These dissociations cannot be explained by general capability differences; they reveal domain-specific architectural strengths and weaknesses invisible to aggregate benchmarks.
+4. **Cross-domain dissociation reveals architectural signatures.** Claude Sonnet scores 0.93 on Executive Functions but only 0.41 on Metacognition — a 52-point gap. Gemini Flash scores 0.92 on Learning but 0.38 on Attention — a 54-point gap. These dissociations cannot be explained by general capability differences; they reveal domain-specific strengths and weaknesses invisible to aggregate benchmarks.
 
 5. **Distractor suppression is fundamentally harder than information composition.** The contrast between high TEFB scores (0.84–0.93, requiring multi-step planning) and variable TAGP scores (0.38–0.79, requiring noise filtering) confirms that transformer attention mechanisms are better at composing information than filtering it.
 
 ### Conclusions
 
-Trinity Cognitive Probes, evaluated across 10 frontier models, demonstrate that **cognitive profiling reveals capability differences invisible to aggregate scores**. Models with identical aggregates (Flash 0.77 vs GPT-5.4 mini 0.77) show dramatically different cognitive profiles. The benchmark's neuroscience-grounded design ensures it tests genuine cognitive processes, and the 8K+ question bank provides headroom for harder sampling as models improve.
+Trinity Cognitive Probes, evaluated across 11 frontier models, demonstrate that **cognitive profiling reveals capability differences invisible to aggregate scores**. Models with near-identical aggregates (Flash-Lite 0.82 vs Flash 0.77) show dramatically different cognitive profiles — Flash-Lite leads on Metacognition (0.75 vs 0.67) while Flash dominates Learning (0.92 vs 0.82). The benchmark's neuroscience-grounded design ensures it tests genuine cognitive processes, and the 8K+ question bank provides headroom for harder sampling as models improve.
 
 ## Organizational Affiliations
 
