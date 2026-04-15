@@ -122,10 +122,10 @@
 | Трек | Скрипт | Датасет Kaggle | CSV файл | Название ноутбука |
 |------|--------|----------------|----------|-------------------|
 | Learning | `benchmark_thlp.py` | `playra/trinity-cognitive-probes-thlp-mc` | `thlp_mc_new.csv` | `trinity-thlp-learning-benchmark` |
-| Metacognition | `benchmark_ttm.py` | `playra/trinity-cognitive-probes-tmp-mc` | `ttm_mc_v5.csv` | `trinity-ttm-metacognition-benchmark` |
+| Metacognition | `benchmark_ttm.py` | `playra/trinity-cognitive-probes-tmp-mc` | `ttm_mc_new.csv` | `trinity-ttm-metacognition-benchmark` |
 | Attention | `benchmark_tagp.py` | `playra/trinity-cognitive-probes-tagp-mc` | `tagp_mc.csv` | `trinity-tagp-attention-benchmark` |
 | Executive Functions | `benchmark_tefb.py` | `playra/trinity-cognitive-probes-tefb-mc` | `tefb_mc_new.csv` | `trinity-tefb-executive-functions-benchmark` |
-| Social Cognition | `benchmark_tscp.py` | `playra/trinity-cognitive-probes-tscp-mc` | `tscp_mc_v5.csv` | `trinity-tscp-social-cognition-benchmark` |
+| Social Cognition | `benchmark_tscp.py` | `playra/trinity-cognitive-probes-tscp-mc` | `tscp_mc_new.csv` | `trinity-tscp-social-cognition-benchmark` |
 
 ---
 
