@@ -4,8 +4,10 @@ Quick test script - evaluate a single question on a real model
 For testing evaluation pipeline before hackathon
 """
 
+import csv
 import json
 import sys
+from dataclasses import dataclass
 from pathlib import Path
 
 
@@ -69,8 +71,9 @@ def print_test_prompt(question: Question):
     print(f"{'='*60}")
     print(f"\nQuestion: {question.question}")
     print(f"\nChoices:")
-    for i, choice in enumerate(question.choices, 1):
-        print(f"  {['A', 'B', 'C', 'D'][i]}) {choice}")
+    for i, choice in enumerate(question.choices):
+        if choice:  # Only show non-empty choices
+            print(f"  {['A', 'B', 'C', 'D'][i]}) {choice}")
     print(f"\nAnswer: {question.answer} (do not share with model!)")
     print(f"{'='*60}\n")
 
@@ -99,8 +102,8 @@ def main():
         print(f"Valid tracks: {', '.join(tracks.keys())}")
         sys.exit(1)
 
-    # Find track directory
-    base_dir = Path(__file__).parent.parent.parent / "data" / track
+    # Find track directory (relative to project root)
+    base_dir = Path(__file__).parent.parent / "data" / track
     if not base_dir.exists():
         print(f"Error: Track directory not found at {base_dir}")
         print("Please run: bash scripts/download_data.sh")
