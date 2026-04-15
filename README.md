@@ -172,7 +172,7 @@ All notebooks have been fixed and are JSON-valid:
 ```bibtex
 @online{AGI Hackathon 2026},
   title={Measuring Progress Toward AGI: A Cognitive Framework Benchmark with Adversarial Datasets},
-  author={{Vasilev, Dmitrii} and {Zhuang, Jiaming}},
+  author={Vasilev, Dmitrii},
   booktitle={Kaggle: The World's AI Proving Ground},
   year={2026},
   publisher={Google DeepMind},
