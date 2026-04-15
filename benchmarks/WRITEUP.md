@@ -55,27 +55,26 @@ Each track is a separate Kaggle Benchmark task. The unified pipeline samples 200
 
 ## Results, Insights, and Conclusions
 
-### Performance Gradient Across 11 Models
+### Performance Gradient Across 10 Models
 
 | Model | Agg. | TAGP | THLP | TTM | TEFB | TSCP |
 |-------|:-:|:-:|:-:|:-:|:-:|:-:|
+| Gemini 2.5 Pro | **0.85** | 0.79 | 0.82 | 0.74 | 0.88 | 0.99 |
 | Flash-Lite Preview | **0.82** | 0.71 | 0.82 | 0.75 | 0.87 | 0.95 |
 | GPT-5.4 | **0.79** | 0.79 | 0.82 | 0.49 | 0.91 | 0.96 |
 | Claude Opus 4.6 | **0.78** | 0.78 | 0.86 | 0.41 | 0.87 | 0.98 |
 | Claude Sonnet 4.6 | **0.78** | 0.72 | 0.85 | 0.41 | 0.93 | 0.96 |
+| Claude Haiku 4.5 | **0.77** | 0.73 | 0.85 | 0.44 | 0.87 | 0.97 |
 | Gemini 2.5 Flash | **0.77** | **0.38** | 0.92 | 0.67 | 0.90 | 1.00 |
 | GPT-5.4 mini | **0.77** | 0.77 | 0.82 | 0.44 | 0.84 | 0.98 |
-| Gemini 2.5 Pro | **0.85**\* | 0.79 | — | 0.74 | 0.88 | 0.99 |
 | Gemini 3.1 Pro Prev. | — | — | — | 0.74 | — | 0.97 |
-| GLM-5 | — | — | — | — | — | 0.93 |
-| Claude Haiku 4.5 | — | — | — | — | — | — |
-| gpt-oss-120b | — | — | — | — | — | — |
+| GLM-5 | — | — | — | — | 0.93 | — |
 
-\*Gemini 2.5 Pro aggregate is partial (4 of 5 tasks). Dash (—) indicates evaluation in progress. Full live leaderboard at the benchmark page.
+8 of 10 models fully evaluated. Dash (—) indicates evaluation in progress. Full live leaderboard at the benchmark page.
 
 ### Key Findings
 
-1. **TAGP reveals the strongest performance gradient.** Across 8 evaluated models, TAGP (Attention) scores range from 0.38 (Gemini Flash) to 0.79 (Gemini Pro, GPT-5.4) — a 41-percentage-point spread. No other track produces comparable variance across frontier models, making Attention the most discriminating cognitive domain in our suite.
+1. **TAGP reveals the strongest performance gradient.** Across 8 fully evaluated models, TAGP (Attention) scores range from 0.38 (Gemini Flash) to 0.79 (Gemini Pro, GPT-5.4) — a 41-percentage-point spread. No other track produces comparable variance across frontier models, making Attention the most discriminating cognitive domain in our suite.
 
 2. **Metacognition (TTM) exposes a surprising architectural split.** Claude Opus and Sonnet both score 0.41 on TTM — dramatically below their 0.78 aggregate — while Gemini Flash-Lite leads at 0.75. This suggests metacognitive calibration is architecturally independent from general capability, and some model families have systematic blind spots in error detection.
 
@@ -87,7 +86,7 @@ Each track is a separate Kaggle Benchmark task. The unified pipeline samples 200
 
 ### Conclusions
 
-Trinity Cognitive Probes, evaluated across 11 frontier models, demonstrate that **cognitive profiling reveals capability differences invisible to aggregate scores**. Models with near-identical aggregates (Flash-Lite 0.82 vs Flash 0.77) show dramatically different cognitive profiles — Flash-Lite leads on Metacognition (0.75 vs 0.67) while Flash dominates Learning (0.92 vs 0.82). The benchmark's neuroscience-grounded design ensures it tests genuine cognitive processes, and the 8K+ question bank provides headroom for harder sampling as models improve.
+Trinity Cognitive Probes, evaluated across 10 frontier models (8 fully scored), demonstrate that **cognitive profiling reveals capability differences invisible to aggregate scores**. Gemini 2.5 Pro leads overall (0.85) yet scores only 0.74 on Metacognition, while Flash-Lite (0.82 aggregate) leads TTM at 0.75. Models with identical aggregates (Haiku 0.77, Flash 0.77, GPT-5.4 mini 0.77) show radically different cognitive profiles — Flash collapses on Attention (0.38) while excelling at Learning (0.92). The benchmark's neuroscience-grounded design ensures it tests genuine cognitive processes, and the 8K+ question bank provides headroom for harder sampling as models improve.
 
 ## Organizational Affiliations
 
