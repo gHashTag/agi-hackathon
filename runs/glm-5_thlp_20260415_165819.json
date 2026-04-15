@@ -1,0 +1,75 @@
+{
+  "model": "glm-5",
+  "track": "thlp",
+  "timestamp": "20260415_165819",
+  "total_questions": 4,
+  "summary": {
+    "accuracy": 0.5,
+    "correct": 2,
+    "total": 4,
+    "track_stats": {
+      "thlp": {
+        "accuracy": 0.5,
+        "count": 4
+      }
+    },
+    "type_stats": {
+      "analogy": {
+        "accuracy": 1.0,
+        "count": 2
+      },
+      "pattern_completion": {
+        "accuracy": 0.0,
+        "count": 2
+      }
+    },
+    "calibration": {
+      "50-70": {
+        "accuracy": 0.5,
+        "count": 4
+      }
+    }
+  },
+  "results": [
+    {
+      "question_id": "thlp_sample_001",
+      "track": "thlp",
+      "question_type": "pattern_completion",
+      "predicted": "A",
+      "correct": false,
+      "confidence": 50,
+      "reasoning": "No reasoning provided",
+      "response_time_ms": 21626.813888549805
+    },
+    {
+      "question_id": "thlp_sample_002",
+      "track": "thlp",
+      "question_type": "analogy",
+      "predicted": "A",
+      "correct": true,
+      "confidence": 50,
+      "reasoning": "No reasoning provided",
+      "response_time_ms": 41180.33719062805
+    },
+    {
+      "question_id": "thlp_sample_001",
+      "track": "thlp",
+      "question_type": "pattern_completion",
+      "predicted": "A",
+      "correct": false,
+      "confidence": 50,
+      "reasoning": "No reasoning provided",
+      "response_time_ms": 21626.813888549805
+    },
+    {
+      "question_id": "thlp_sample_002",
+      "track": "thlp",
+      "question_type": "analogy",
+      "predicted": "A",
+      "correct": true,
+      "confidence": 50,
+      "reasoning": "No reasoning provided",
+      "response_time_ms": 41180.33719062805
+    }
+  ]
+}

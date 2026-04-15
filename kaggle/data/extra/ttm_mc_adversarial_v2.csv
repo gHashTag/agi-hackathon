@@ -1,0 +1,138 @@
+id,question_type,question,choices,answer
+ADV_ttm_calibration_0001,mc,"Someone claims: ""A specific coin flip will land heads"" with 50% confidence.
+
+Is their confidence level well-calibrated? Consider all options carefully before choosing.",C) Miscalibrated — depends on how the coin was flipped (This appears to be irrelevant factor) B) Underconfident — physical analysis can improve beyond 50% (This appears to be inverse relationship) D) Well-calibrated — a fair coin has exactly 50% probability A) Overconfident — true randomness means 0% confidence,D
+ADV_ttm_calibration_0002,mc,"Someone claims: ""A randomly selected person is left-handed"" with 10% confidence.
+
+Is their confidence level well-calibrated? This requires careful analysis of the logical structure.",A) Cannot determine without demographic data (This appears to be partial truth) B) Overconfident — only about 1% are truly left-handed C) Well-calibrated — approximately 10% of people are left-handed D) Underconfident — actual rate is closer to 50% (This appears to be invalid inference),C
+ADV_ttm_calibration_0003,mc,"Someone claims: ""It will rain tomorrow in London"" with 70% confidence.
+
+Based on current weather forecasts",D) Reasonably calibrated — weather forecasts have known accuracy rates C) Underconfident — London rains more often than that A) Overconfident — weather is inherently unpredictable B) Miscalibrated — should use a binary yes/no prediction,D
+ADV_ttm_error_detection_0001,mc,"A student presents the following reasoning:
+
+""My grandfather smoked his whole life and lived to 95. Therefore, smoking is not harmful.""
+
+What is the primary logical error in this reasoning? This requires careful analysis of the logical structure.",A) Anecdotal evidence fallacy — a single case cannot disprove statistical health risks B) The reasoning is correct if the grandfather had no smoking-related illnesses (This appears to be confused variable) C) His grandfather may have had a genetic mutation (This appears to be unrelated concept) D) Smoking only became harmful after modern additives (This appears to be contradicted premise),A
+ADV_ttm_error_detection_0002,mc,"A student presents the following reasoning:
+
+""Every swan I've seen is white, so all swans must be white.""
+
+What is the primary logical error in this reasoning?",D) This is valid inductive reasoning with sufficient examples B) Hasty generalization — limited observation cannot prove universal claim C) The reasoning is sound for domesticated swans A) Some swans are dyed white but naturally colored differently,B
+ADV_ttm_error_detection_0003,mc,"A student presents the following reasoning:
+
+""Complex systems cannot arise by chance, therefore they must have a designer.""
+
+What is the primary logical error in this reasoning?","A) This is a philosophical position, not a logical error (This appears to be common misconception) B) False dichotomy — excludes the possibility of natural processes like evolution C) Complex systems require information that cannot arise naturally D) The reasoning correctly identifies the limitations of chance (This appears to be contradicted premise)",B
+ADV_ttm_bias_0001,mc,"A job interviewer rejects a candidate because they attended the same university as someone who underperformed previously.
+
+What cognitive bias, if any, is being demonstrated?",B) Representativeness bias — judging based on superficial similarity rather than individual merit C) Rational discrimination — using past data to inform decisions A) Confirmation bias — seeking evidence to support preconceptions D) Availability bias — recent experience influencing judgment,B
+ADV_ttm_bias_0002,mc,"After buying a new car, you start noticing the same model everywhere on the road.
+
+What cognitive bias, if any, is being demonstrated?","A) Frequency illusion / Baader-Meinhof phenomenon — selective attention makes things seem more common
+B) Confirmation bias — validating your purchase decision
+C) Anchoring bias — the car's price influences your perception
+D) Survivorship bias — only noticing the successful car models",A
+ADV_ttm_bias_0003,mc,"You continue investing in a failing project because you've already spent significant money on it.
+
+What cognitive bias, if any, is being demonstrated? Consider the chain of reasoning leading to each option.",C) Loss aversion — rationally avoiding further losses (This appears to be unrelated concept) D) Optimism bias — believing the investment will eventually pay off A) Sunk cost fallacy — letting past investments influence future decisions irrationally B) Commitment bias — maintaining consistency in decisions (This appears to be wrong direction),A
+ADV_ttm_strategy_0001,mc,"In a competitive market, should you lower prices to gain market share?
+
+What is the most strategic approach? Do NOT assume without evidence.","A) Yes, always — lower prices always increase market share
+B) Only if competitors are also lowering prices
+C) No, never — maintaining premium positioning is always better
+D) Depends on price elasticity and competitive response — lower prices may trigger price wars",D
+ADV_ttm_strategy_0002,mc,"Your team is behind schedule. What's the best strategic response?
+
+What is the most strategic approach? Apply critical thinking to avoid surface-level answers.",A) Reassess priorities and trade-offs — cutting scope may be better than rushing quality D) Work longer hours — effort directly scales to output (This appears to be invalid inference) B) Add more team members — this always speeds up development (This appears to be confused variable) C) Extend the deadline — this has no negative consequences,A
+ADV_ttm_assumption_0001,mc,"We should implement this policy because it worked well in country X.
+
+What is this argument's hidden assumption?",D) That country X has more resources C) That the policy was properly implemented in country X B) That the policy is legally implementable A) That conditions in country X are sufficiently similar to justify direct transfer,A
+ADV_ttm_assumption_0002,mc,"This medication is safe because it's natural.
+
+What is this argument's hidden assumption?",B) That natural medications don't have side effects D) That synthetic medications are more dangerous C) That natural substances are inherently safe A) That the medication has been properly tested,C
+ADV_ttm_probability_0001,mc,You flip a fair coin 5 times and get heads each time. What's the probability of heads on the 6th flip?,"A) More than 50% — there's a 'hot streak'
+B) 50% — each flip is independent of previous outcomes
+C) Less than 50% — tails is 'due'
+D) 1/64 — the probability of 6 heads in a row",B
+ADV_ttm_probability_0002,mc,"In a group of 23 people, what's the probability that at least two share a birthday?",A) Less than 10% — birthdays are essentially random B) About 50% — counterintuitively high due to many possible pairs C) About 2% — 23/365 D) About 23% — one for each person,B
+ADV_ttm_causality_0001,mc,"Ice cream sales and drowning deaths both increase in summer. Does ice cream cause drowning?
+
+What is the best response?","A) Unknown — more data is needed on individual cases
+B) No — both are correlated with temperature (confounding variable), not causally linked
+C) Partially — ice cream consumption may impair swimming ability
+D) Yes — high correlation suggests causation",B
+ADV_ttm_causality_0002,mc,"A study finds people who drink coffee live longer. Can we conclude coffee extends life?
+
+Which of the following would the be? best response?","A) Yes — the study establishes a causal relationship
+B) Only if the study controlled for all possible confounders
+C) Not necessarily — coffee drinkers may differ in other health-related ways
+D) No — correlation never implies causation",C
+ADV_ttm_inference_0001,mc,What can you validly conclude? Avoid common misconceptions.,"A) Penguins have everything that birds have
+B) Penguins are birds
+C) Nothing definitive about penguins being birds — this commits the fallacy of affirming the consequent
+D) All birds are penguins",C
+ADV_ttm_inference_0002,mc,What can you conclude?,"A) Nothing definite — the ground could be wet from other causes
+B) It rained
+C) The ground is always wet when it rains
+D) It didn't rain",A
+ADV_ttm_meta_reasoning_0001,mc,"You're solving a math problem and get an answer that doesn't match any option. What should you do?
+
+Which of the following would the be? best response?","A) Assume the problem has an error C) Re-read only the question, not your work B) Re-examine your approach and calculations — check for both computational and conceptual errors D) Choose the closest answer",B
+ADV_ttm_meta_reasoning_0002,mc,"You feel very confident about an answer but it contradicts your initial intuition. What should you do?
+
+What is the best response?","A) Treat the confidence as a signal to verify — identify why you're confident and whether it's justified
+B) Always go with initial intuition
+C) Choose randomly when there's a conflict
+D) Trust the confidence — it usually indicates correctness",A
+ADV_ttm_argument_analysis_0001,mc,"Consider this argument:
+
+""We should ban this technology because it could be misused.""
+
+What is the primary weakness of this argument?",B) Fails to consider benefits or proportionality — anything could be misused C) The argument is too emotional D) It assumes the technology is currently unregulated A) It doesn't provide specific examples of misuse,B
+ADV_ttm_argument_analysis_0002,mc,"Consider this argument:
+
+""This policy is successful because crime decreased after implementation.""
+
+What is the primary weakness of this argument? Apply critical thinking to avoid surface-level answers.",C) It doesn't consider other areas where crime increased (This appears to be unrelated concept) A) Post hoc fallacy — doesn't establish that the policy caused the decrease B) The argument is too general D) It doesn't define what 'successful' means,A
+ADV_ttm_decision_making_0001,mc,"You must choose between a guaranteed $100 or a 50% chance of $250. What's the rational choice?
+
+What is the best response?",C) Neither is rational without more context (This appears to be red herring) D) Always the guaranteed amount — certainty is inherently valuable (This appears to be contradicted premise) B) Depends on your risk tolerance and utility function — expected value favors the gamble ($125 vs $100) A) Always the gamble — higher expected value is always better,B
+ADV_ttm_decision_making_0002,mc,"You have limited resources and multiple promising projects. How should you decide?
+
+What is the best response?","D) Allocate resources equally to all projects C) Choose randomly to avoid bias A) Consider expected value, risk, resource requirements, and strategic alignment holistically B) Always choose the project with highest potential return",A
+ADV_ttm_counterfactual_0001,mc,"If Germany had won World War II, how would technology be different today?","A) Technology would be essentially the same — scientific progress is independent
+B) 
+C) We can make reasonable predictions based on German technological priorities
+D) Nuclear technology would not have been developed",B
+ADV_ttm_counterfactual_0002,mc,"If the asteroid hadn't hit Earth 66 million years ago, would dinosaurs still dominate?",A) Yes — dinosaurs were well-adapted and would have continued evolving (This appears to be common misconception) B) No — mammals would have outcompeted them anyway (This appears to be confused variable) C) D) Both would have coexisted in a balanced ecosystem,C
+ADV_ttm_evidence_0001,mc,"A study of 10 people finds a significant effect. Another study of 10,000 finds no effect. Which is more reliable?
+
+What is the best response?",B) Both are equally reliable if methodologies are sound D) The smaller study — easier to control for confounding variables C) Neither — reliability depends only on p-values A) The larger study — sample size is a key factor in statistical reliability,A
+ADV_ttm_evidence_0002,mc,"An expert and a layperson disagree on a technical matter. How should you weigh their views?
+
+What is the best response? Apply critical thinking to avoid surface-level answers.","C) Evaluate arguments and evidence, not credentials — expertise doesn't guarantee correctness D) Always trust the expert — they have relevant training B) Assume the truth is somewhere between their views (This appears to be confused variable) A) Trust the layperson — they're less likely to be biased",C
+ADV_ttm_analogy_0001,mc,"Evaluate this analogy:
+
+""The brain is like a computer because both process information.""
+
+How would you characterize this analogy?","A) Superficial analogy — the actual mechanisms differ fundamentally
+B) Strong analogy — information processing is the core similarity
+C) Flawed analogy — computers don't actually process information
+D) Perfect analogy — brain and computer are functionally identical",A
+ADV_ttm_analogy_0002,mc,"Evaluate this analogy:
+
+""Markets are like ecosystems because both involve competition and adaptation.""
+
+How would you characterize this analogy? Avoid common misconceptions.","A) Useless analogy — no meaningful similarities exist
+B) Strong analogy — the principles are identical
+C) Misleading analogy — market competition is fundamentally different
+D) Productive but limited analogy — useful for some insights but misses key differences",D
+ADV_ttm_heuristic_0001,mc,"You need to estimate how many piano tuners work in a city. What's the best approach?
+
+What is the best response?",B) Look up the answer — estimation is unnecessary A) Guess based on city size alone C) Break down the problem: population × piano ownership rate × tuning frequency ÷ tuners' capacity D) Assume it's proportional to the number of music stores,C
+ADV_ttm_heuristic_0002,mc,"When should you use a heuristic rather than detailed analysis?
+
+What is the best response?","A) Never — detailed analysis is always superior
+B) Only for personal decisions, not professional ones
+C) When time/constraints prevent analysis, stakes are low, or heuristic is known to be reliable
+D) Always — heuristics are faster and usually correct",C

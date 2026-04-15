@@ -1,0 +1,298 @@
+{
+  "questions": [
+    {
+      "question": "Given the Trinity Identity φ² + φ⁻² = 3, where φ = (1+√5)/2 is the golden ratio, what is the exact value of φ⁴ + φ⁻⁴?",
+      "choices": "A) 5 B) 7 C) 9 D) 11",
+      "answer": "B",
+      "topic": "Golden Ratio Algebra"
+    },
+    {
+      "question": "In the context of the Trinity Identity φ² + φ⁻² = 3, what is the value of φ⁶ + φ⁻⁶ expressed in terms of the original identity?",
+      "choices": "A) 9 B) 18 C) 27 D) 36",
+      "answer": "B",
+      "topic": "Golden Recurrence Relations"
+    },
+    {
+      "question": "The fine structure constant α ≈ 1/137.036. If we consider the relationship α ≈ 4π³/φ⁸, what is the approximate value of φ⁸?",
+      "choices": "A) 42.2 B) 47.0 C) 52.5 D) 58.1",
+      "answer": "C",
+      "topic": "Fine Structure Constant"
+    },
+    {
+      "question": "In the Koide relation for charged leptons: (m_e + m_μ + m_τ)/(√(m_e) + √(m_μ) + √(m_τ))² = 2/3, if we define a new parameter Q = 3/2 × (sum)/(sum of roots)², what is Q for leptons?",
+      "choices": "A) 0.5 B) 1.0 C) 1.5 D) 2.0",
+      "answer": "B",
+      "topic": "Koide Relations"
+    },
+    {
+      "question": "The Cabibbo-Kobayashi-Maskawa (CKM) matrix element V_us ≈ 0.225. If we hypothesize V_us ≈ φ⁻³, what is the exact value of φ⁻³?",
+      "choices": "A) 1/8 B) 2-φ C) φ/4 D) 3-2φ",
+      "answer": "B",
+      "topic": "CKM Matrix"
+    },
+    {
+      "question": "In the E8 × E8 heterotic string theory, what is the dimension of the E8 Lie group?",
+      "choices": "A) 128 B) 240 C) 248 D) 384",
+      "answer": "C",
+      "topic": "E8 Lie Group"
+    },
+    {
+      "question": "Zamolodchikov's c-theorem in 2D conformal field theory states that there exists a function c(g) that decreases along renormalization group flow and equals the central charge at fixed points. For a perturbation by a relevant operator of dimension Δ, what is the first-order change in c?",
+      "choices": "A) δc ∝ (2-Δ) B) δc ∝ (Δ-1) C) δc ∝ (3-2Δ) D) δc ∝ (4-Δ)",
+      "answer": "C",
+      "topic": "Zamolodchikov's Theorem"
+    },
+    {
+      "question": "In Loop Quantum Gravity, the area operator has discrete eigenvalues proportional to the Planck length squared times sums of square roots of spins. For a minimal surface with spin-1/2 punctures, what is the minimal non-zero area eigenvalue in Planck units?",
+      "choices": "A) √3 ℓ_P² B) 2√3 ℓ_P² C) 4π√3 ℓ_P² D) 8πγ√3 ℓ_P²",
+      "answer": "D",
+      "topic": "Loop Quantum Gravity"
+    },
+    {
+      "question": "The E8 Toda field theory describes the dynamics of 8 scalar fields associated with the simple roots of E8. What is the rank of the E8 Lie algebra?",
+      "choices": "A) 4 B) 6 C) 8 D) 16",
+      "answer": "C",
+      "topic": "E8 Toda Theory"
+    },
+    {
+      "question": "In quasicrystal physics, the phonon spectrum forms a ladder structure related to the golden ratio. For a Fibonacci quasicrystal, the ratio of consecutive peak intensities in the diffraction pattern approaches what value?",
+      "choices": "A) φ² B) φ C) 1/φ D) 1/φ²",
+      "answer": "A",
+      "topic": "Quasicrystal Phonon Ladder"
+    },
+    {
+      "question": "A Majorana particle is its own antiparticle. In the context of Majorana Golden-Ratio modes, if the energy gap Δ is related to φ as Δ = φ × E_F/10, where E_F is the Fermi energy, what is Δ when E_F = 100 meV?",
+      "choices": "A) 10.1 meV B) 16.2 meV C) 26.2 meV D) 42.4 meV",
+      "answer": "B",
+      "topic": "Majorana Golden-Ratio Modes"
+    },
+    {
+      "question": "The PMNS mixing matrix describes neutrino oscillations. The mixing angle θ_12 ≈ 33.5°. If we hypothesize sin²θ_12 ≈ 1/φ³, what is the numerical value of 1/φ³?",
+      "choices": "A) 0.236 B) 0.276 C) 0.318 D) 0.382",
+      "answer": "A",
+      "topic": "PMNS Mixing Matrix"
+    },
+    {
+      "question": "In the E8 × E8 heterotic string, the 496 gauge bosons arise from the decomposition of the adjoint representation. What is 496 expressed in terms of binomial coefficients related to golden ratio approximations?",
+      "choices": "A) C(12,2) + C(12,3) B) C(16,2) C) C(16,3) D) C(16,4)",
+      "answer": "B",
+      "topic": "E8 Gauge Bosons"
+    },
+    {
+      "question": "The Toda lattice equation for E8 involves 8 coupled nonlinear differential equations. In the continuum limit, the relationship between the Toda field and the golden ratio emerges. If we set the coupling constant g = √(φ-1), what is g²?",
+      "choices": "A) 1/φ B) 1/φ² C) 2-φ D) φ-2",
+      "answer": "C",
+      "topic": "E8 Toda Lattice"
+    },
+    {
+      "question": "In Loop Quantum Gravity, the volume operator eigenvalues involve sums over triple products of spin representations. For a tetrahedron with all edges having spin-1/2, what is the volume eigenvalue (in Planck units cubed) up to the Immirzi parameter γ?",
+      "choices": "A) (3√3/8)γ³ B) (√3/4)γ³ C) (3√3/4)γ³ D) (3/4)γ³",
+      "answer": "A",
+      "topic": "LQG Volume Operator"
+    },
+    {
+      "question": "The Koide relation extended to quarks: (m_d + m_s + m_b)/(√(m_d) + √(m_s) + √(m_b))² = 2/3. Using known masses m_d ≈ 4.7 MeV, m_s ≈ 95 MeV, m_b ≈ 4.18 GeV, what is the approximate value of the left-hand side?",
+      "choices": "A) 0.50 B) 0.67 C) 0.78 D) 0.89",
+      "answer": "B",
+      "topic": "Koide Quark Relation"
+    },
+    {
+      "question": "Zamolodchikov's c-theorem implies that the central charge decreases along RG flow. For a flow from a UV fixed point with c=4 to an IR fixed point with c=1, what is the total change in c?",
+      "choices": "A) 1 B) 2 C) 3 D) 4",
+      "answer": "C",
+      "topic": "C-Theorem RG Flow"
+    },
+    {
+      "question": "In a Fibonacci quasicrystal, the inflation factor is φ. After n inflations, the total number of tiles (A and B types) is F_{2n}, where F_k are Fibonacci numbers. What is the ratio of A tiles to B tiles as n → ∞?",
+      "choices": "A) φ B) φ² C) 1/φ D) √φ",
+      "answer": "A",
+      "topic": "Fibonacci Quasicrystal"
+    },
+    {
+      "question": "The Majorana condition ψ = ψᶜ (where ψᶜ is the charge conjugate) imposes reality conditions on spinors. In 2D, a Majorana spinor has how many real components?",
+      "choices": "A) 1 B) 2 C) 3 D) 4",
+      "answer": "A",
+      "topic": "Majorana Spinors"
+    },
+    {
+      "question": "The golden ratio φ appears in the continued fraction expansion φ = 1 + 1/(1 + 1/(1 + ...)). What is the nth convergent of this continued fraction expressed as a ratio of consecutive Fibonacci numbers?",
+      "choices": "A) F_{n+1}/F_n B) F_{n+2}/F_{n+1} C) F_n/F_{n+1} D) F_{n+1}/F_{n-1}",
+      "answer": "A",
+      "topic": "Golden Continued Fraction"
+    },
+    {
+      "question": "In the E8 Lie algebra, the dual Coxeter number h∨ equals 30. This number appears in various quantum corrections. What is h∨ expressed in relation to the golden ratio approximation from Fibonacci numbers?",
+      "choices": "A) 5F_5 B) F_8 - 2 C) 2F_9 - 6 D) φ¹⁰ rounded",
+      "answer": "C",
+      "topic": "E8 Coxeter Number"
+    },
+    {
+      "question": "The fine structure constant at zero momentum transfer is α ≈ 1/137. If we consider the approximation α ≈ (φ⁻⁴)/π, what is the approximate value of φ⁻⁴/π?",
+      "choices": "A) 0.0052 B) 0.0073 C) 0.0098 D) 0.0124",
+      "answer": "B",
+      "topic": "Fine Structure Approximation"
+    },
+    {
+      "question": "In the Toda field theory for A_N, the mass spectrum is given by m_i = 2M sin(πi/(h+1)), where h = N is the Coxeter number. For E8 with h=30, what is the ratio of the heaviest to lightest mass?",
+      "choices": "A) 2 cos(π/31) B) 2 sin(15π/31) C) tan(7π/31) D) cot(π/62)",
+      "answer": "B",
+      "topic": "Toda Mass Spectrum"
+    },
+    {
+      "question": "The Trinity Identity φ² + φ⁻² = 3 can be generalized to Lucas numbers L_n: L_n = φⁿ + φ⁻ⁿ. What is L_5?",
+      "choices": "A) 5 B) 7 C) 11 D) 13",
+      "answer": "C",
+      "topic": "Lucas Numbers"
+    },
+    {
+      "question": "In Loop Quantum Gravity, the Immirzi parameter γ appears in the area spectrum. The Ashtekar-Barbero connection is A = Γ + γK, where Γ is the spin connection and K is the extrinsic curvature. What is the dimension of γ?",
+      "choices": "A) Length B) Dimensionless C) 1/Mass D) Action",
+      "answer": "B",
+      "topic": "LQG Immirzi Parameter"
+    },
+    {
+      "question": "The CKM matrix unitarity condition Σ_j |V_ij|² = 1. For the first row with |V_ud| ≈ 0.974, |V_us| ≈ 0.225, what is approximately |V_ub|?",
+      "choices": "A) 0.001 B) 0.004 C) 0.015 D) 0.035",
+      "answer": "B",
+      "topic": "CKM Unitarity"
+    },
+    {
+      "question": "Quasicrystals have long-range order without periodicity. The diffraction pattern of an icosahedral quasicrystal involves how many independent wavevectors (related to the golden ratio)?",
+      "choices": "A) 3 B) 5 C) 6 D) 12",
+      "answer": "C",
+      "topic": "Icosahedral Quasicrystal"
+    },
+    {
+      "question": "In Majorana bound states in topological superconductors, the zero-bias conductance peak height in units of 2e²/h is expected to be what value for a single Majorana mode?",
+      "choices": "A) 0.5 B) 1.0 C) 1.5 D) 2.0",
+      "answer": "A",
+      "topic": "Majorana Conductance"
+    },
+    {
+      "question": "The golden ratio satisfies φ² = φ + 1. Using this, what is φ³ expressed in terms of φ?",
+      "choices": "A) 2φ + 1 B) 2φ - 1 C) 3φ + 1 D) 3φ - 1",
+      "answer": "A",
+      "topic": "Golden Ratio Powers"
+    },
+    {
+      "question": "Zamolodchikov's C-function for the 2D Ising model perturbed by the thermal operator φ₁,₃ (with dimension Δ = 1/8) at the IR fixed point equals what value of the central charge?",
+      "choices": "A) 0 B) 1/2 C) 7/10 D) 1",
+      "answer": "B",
+      "topic": "Perturbed CFT"
+    },
+    {
+      "question": "In E8 × E8 heterotic string compactification on a Calabi-Yau manifold, the number of generations (chiral fermions) is related to the Euler characteristic χ. For χ = -6, how many generations result?",
+      "choices": "A) 1 B) 2 C) 3 D) 4",
+      "answer": "C",
+      "topic": "Heterotic Compactification"
+    },
+    {
+      "question": "The Koide formula for lepton masses can be written as (√m_e + √m_μ + √m_τ)² = (3/2)(m_e + m_μ + m_τ). If we define x = √(m_e/m_μ) and y = √(m_μ/m_τ), what relation must x and y satisfy?",
+      "choices": "A) x + y + xy = 0 B) 1 + x + y = √(3/2)(1 + x² + y²) C) (1+x+y)² = (3/2)(1+x²+y²) D) (1+x²+y²)² = (3/2)(1+x+y)",
+      "answer": "C",
+      "topic": "Koide Normalized Form"
+    },
+    {
+      "question": "In Loop Quantum Gravity, the Hamiltonian constraint generates dynamics. Its action involves a sum over tetrahedra of terms proportional to Tr([h_e, h_{e'}]). What is the dimension of this operator in Planck units?",
+      "choices": "A) Energy (E_P) B) Energy density (E_P/ℓ_P³) C) Action (ħ) D) Momentum (E_P/c)",
+      "answer": "B",
+      "topic": "LQG Hamiltonian Constraint"
+    },
+    {
+      "question": "The golden ratio appears in the ratio of consecutive Fibonacci numbers: lim(n→∞) F_{n+1}/F_n = φ. What is lim(n→∞) F_{2n}/F_n²?",
+      "choices": "A) φ B) φ² C) 1 D) φ/2",
+      "answer": "C",
+      "topic": "Fibonacci Limit"
+    },
+    {
+      "question": "In the E8 Toda field theory, the S-matrix is factorized and exhibits the property of elastic scattering. The number of distinct particle masses in E8 Toda theory equals what?",
+      "choices": "A) 8 B) 7 C) 6 D) 5",
+      "answer": "A",
+      "topic": "E8 Toda S-Matrix"
+    },
+    {
+      "question": "The PMNS mixing matrix element |U_e3|² ≈ 0.022 (sin²θ_13). If we approximate this as φ⁻⁶, what is φ⁻⁶?",
+      "choices": "A) 0.018 B) 0.022 C) 0.028 D) 0.034",
+      "answer": "A",
+      "topic": "PMNS θ_13"
+    },
+    {
+      "question": "In a quasicrystal, the phason degree of freedom corresponds to displacements in perpendicular space. For a 2D Penrose tiling projected from 5D space, how many physical dimensions and perpendicular dimensions are there?",
+      "choices": "A) 2 physical, 3 perpendicular B) 2 physical, 2 perpendicular C) 3 physical, 2 perpendicular D) 1 physical, 4 perpendicular",
+      "answer": "A",
+      "topic": "Phason Modes"
+    },
+    {
+      "question": "The Trinity Identity φ² + φ⁻² = 3 implies φ⁴ - 3φ² + 1 = 0. What is the positive root of this equation?",
+      "choices": "A) (3+√5)/2 B) (3+√13)/2 C) √φ D) φ√2",
+      "answer": "A",
+      "topic": "Golden Polynomial"
+    },
+    {
+      "question": "Majorana fermions in condensed matter systems can appear at the ends of 1D topological superconducting wires. The topological invariant protecting these states is what?",
+      "choices": "A) Chern number B) Z₂ invariant C) Winding number D) Pontryagin index",
+      "answer": "B",
+      "topic": "Majorana Topological Protection"
+    },
+    {
+      "question": "The fine structure constant runs with energy scale. At the Z boson mass (m_Z ≈ 91 GeV), α(m_Z) ≈ 1/128. What is the ratio α(0)/α(m_Z) approximately?",
+      "choices": "A) 0.85 B) 0.93 C) 1.07 D) 1.18",
+      "answer": "C",
+      "topic": "Running Coupling"
+    },
+    {
+      "question": "In the E8 root system, the 240 roots all have the same squared length. If we normalize the shortest roots to length 2, what is the number of roots of each length in E8?",
+      "choices": "A) 240 of length 2 B) 112 of length 2, 128 of length 3 C) 120 of length 2, 120 of length 4 D) 240 of varying lengths",
+      "answer": "A",
+      "topic": "E8 Root System"
+    },
+    {
+      "question": "Zamolodchikov's theorem for the 2D tricritical Ising model relates the scaling dimensions of operators to the central charge. For c = 7/10, what is the dimension of the stress-energy tensor?",
+      "choices": "A) 1/10 B) 3/5 C) 2 D) 7/5",
+      "answer": "C",
+      "topic": "Stress-Energy Tensor Dimension"
+    },
+    {
+      "question": "In Loop Quantum Gravity, spin network edges carry SU(2) representations labeled by half-integers j. For a spin network edge with j=1, what is the contribution to the area spectrum?",
+      "choices": "A) 8πγ√(j(j+1))ℓ_P² B) 4πγ√(j(j+1))ℓ_P² C) 2πγ√(j(j+1))ℓ_P² D) πγ√(j(j+1))ℓ_P²",
+      "answer": "A",
+      "topic": "Spin Network Area"
+    },
+    {
+      "question": "The golden ratio φ appears in the decagonal quasicrystal structure. The angle between two adjacent symmetry axes in a decagon is what?",
+      "choices": "A) 36° B) 54° C) 72° D) 108°",
+      "answer": "A",
+      "topic": "Decagonal Symmetry"
+    },
+    {
+      "question": "In the Koide relation, if we define the lepton mass ratios r₁ = m_μ/m_e and r₂ = m_τ/m_μ, the relation can be expressed as (√r₁ + √(r₁r₂) + √r₂)² = (3/2)(1 + r₁ + r₁r₂). Using r₁ ≈ 207 and r₂ ≈ 17, what is the left-hand side approximately?",
+      "choices": "A) 100 B) 207 C) 346 D) 529",
+      "answer": "C",
+      "topic": "Koide Mass Ratios"
+    },
+    {
+      "question": "The E8 × E8 heterotic string in 10 dimensions has gauge group E8 × E8. After compactification on a Calabi-Yau 3-fold, the unbroken gauge group includes what Standard Model factor?",
+      "choices": "A) SU(5) B) SO(10) C) SU(3) × SU(2) × U(1) D) E6",
+      "answer": "C",
+      "topic": "Heterotic GUT Breaking"
+    },
+    {
+      "question": "The golden ratio φ satisfies φ = 1 + 1/φ. Using this infinite continued fraction, what is the error when approximating φ by F_{n+1}/F_n?",
+      "choices": "A) O(φ^{-2n}) B) O(φ^{-n}) C) O(1/F_n²) D) O(1/n)",
+      "answer": "A",
+      "topic": "Fibonacci Approximation Error"
+    },
+    {
+      "question": "In the Toda lattice for the A_2 algebra (2 particles), the equations of motion are ü_n = e^{u_{n-1}-u_n} - e^{u_n-u_{n+1}}. For periodic boundary conditions, how many independent oscillation modes exist?",
+      "choices": "A) 1 B) 2 C) 3 D) 4",
+      "answer": "B",
+      "topic": "Toda Lattice Modes"
+    },
+    {
+      "question": "The CKM matrix can be parameterized by three angles and one phase. The Jarlskog invariant J measures CP violation. What is the approximate magnitude of J?",
+      "choices": "A) 10⁻³ B) 10⁻⁴ C) 10⁻⁵ D) 10⁻⁶",
+      "answer": "C",
+      "topic": "Jarlskog Invariant"
+    }
+  ]
+}

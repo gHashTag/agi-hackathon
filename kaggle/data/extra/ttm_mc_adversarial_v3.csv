@@ -1,0 +1,364 @@
+id,question_type,question,choices,answer
+ttm_new_0000,mc,"What's the most accurate probability assessment for:
+
+""Drawing a face card from a standard deck"" Consider all possibilities equally.",A) Approximately equal to random chance - no clear advantage or disadvantage B) Much lower than random chance - the scenario strongly disfavors the outcome C) Much higher than random chance - the scenario strongly favors the outcome D) Much higher than random chance - the scenario strongly favors the outcome,B
+ttm_new_0001,mc,"Evaluate this confidence judgment: ""It will rain in Seattle tomorrow"" (stated as 50% confident). Select the best analysis. Avoid obvious but incorrect patterns.",A) Underconfident - the true probability is much higher B) Overconfident - the true probability is much lower C) Overconfident - the true probability is much lower D) Underconfident - the true probability is much higher,D
+ttm_new_0002,mc,"Given the constraints described, what's the optimal decision?
+
+""Your team has limited time and multiple promising ideas. You must choose one to pursue.""",Minimize A) risk - choose the safest option regardless of potential reward B) A) expected value - choose the option with highest average return C) A) risk - choose the safest option regardless of potential reward D) A) expected value - choose the option with highest average return,C
+ttm_new_0003,mc,"Someone states: ""A randomly selected person is over 6 feet tall"" with 90% certainty. What's the correct calibration assessment? Do NOT jump to conclusions.",A) Underconfident - the true probability is much higher B) Overconfident - the true probability is much lower C) Reasonably calibrated - the estimate is accurate D) Overconfident - the true probability is much lower,C
+ttm_new_0004,mc,"What's the main reasoning error in:
+
+""This medication works because it's natural.""",A) Post hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Hasty generalization - drawing broad conclusions from insufficient evidence D) Hasty generalization - drawing broad conclusions from insufficient evidence,D
+ttm_new_0005,mc,"Evaluate this confidence judgment: ""A randomly selected person is over 6 feet tall"" (stated as 75% confident). Select the best analysis.",A) Underconfident - the true probability is much higher B) Overconfident - the true probability is much lower C) Overconfident - the true probability is much lower D) Reasonably calibrated - the estimate is accurate,D
+ttm_new_0006,mc,"Think step by step: Someone states: ""A randomly selected person is over 6 feet tall"" with 25% certainty. What's the correct calibration assessment? Consider all possibilities equally.",A) Underconfident - the true probability is much higher B) Reasonably calibrated - the estimate is accurate C) Overconfident - the true probability is much lower D) Overconfident - the true probability is much lower,B
+ttm_new_0007,mc,"Take your time: What's the main reasoning error in:
+
+""Rich people are greedy - I know a rich person who's greedy.""",A) Post hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Hasty generalization - drawing broad conclusions from insufficient evidence D) Appeal to nature - assuming natural means good or safe,D
+ttm_new_0008,mc,"Consider carefully: Given the constraints described, what's the optimal decision?
+
+""Your team has limited time and multiple promising ideas. You must choose one to pursue.""",A) Minimize risk - choose the safest option regardless of potential reward B) Apply satisficing - choose the first option that meets minimum requirements C) Maximize expected value - choose the option with highest average return D) Maximize expected value - choose the option with highest average return,B
+ttm_new_0009,mc,"Take your time: Given the constraints described, what's the optimal decision?
+
+""A competitor lowers prices. You can: match them, differentiate your product, or focus on service.""",A) Minimize risk - choose the safest option regardless of potential reward B) Maximize expected value - choose the option with highest average return C) Maximize expected value - choose the option with highest average return D) Maximize expected value - choose the option with highest average return,A
+ttm_new_0010,mc,"Think step by step: Given the constraints described, what's the optimal decision?
+
+""You have $100 to invest. Option A: guaranteed $110 in a year. Option B: 50% chance of $200, 50% of $0.""",A) time Consider preferences - factor in Consider value of immediate vs delayed outcomes B) Maximize expected value - choose Consider option with highest average return time Maximize expected value - choose Consider option with highest average return D) Maximize expected value - choose Consider option with highest average return,A
+ttm_new_0011,mc,"What systematic thinking error is shown here?
+
+""You invest in a stock that's been rising for 10 days, expecting it to continue."" Avoid obvious but incorrect patterns.",A) Availability heuristic - overestimating the likelihood of memorable events B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Confirmation bias - seeking information that confirms existing beliefs,A
+ttm_new_0012,mc,"Consider carefully: Consider a claim about probability: ""The next car you see will be red"" with 10% confidence. Which assessment is most appropriate? Consider all possibilities equally.",A) Reasonably calibrated - the estimate is accurate B) Overconfident - the true probability is much lower C) Overconfident - the true probability is much lower D) Overconfident - the true probability is much lower,A
+ttm_new_0013,mc,"Evaluate this confidence judgment: ""A die roll will be 6"" (stated as 10% confident). Select the best analysis. Do NOT jump to conclusions.",A) Underconfident - the true probability is much higher B) Overconfident - the true probability is much lower C) Overconfident - the true probability is much lower D) Reasonably calibrated - the estimate is accurate,D
+ttm_new_0014,mc,"Given this scenario, which probability is most reasonable?
+
+""Getting heads on three consecutive coin flips""",A) Cannot determine - insufficient information for reliable estimation B) Much higher than random chance - the scenario strongly favors the outcome C) Much higher than random chance - the scenario strongly favors the outcome D) Much higher than random chance - the scenario strongly favors the outcome,A
+ttm_new_0015,mc,"Given this scenario, which probability is most reasonable?
+
+""Two people sharing a birthday in a room of 23 people"" Consider all possibilities equally.",A) Approximately equal to random chance - no clear advantage or disadvantage B) Cannot determine - insufficient information for reliable estimation C) Much higher than random chance - the scenario strongly favors the outcome D) Much higher than random chance - the scenario strongly favors the outcome,B
+ttm_new_0016,mc,"What's the most accurate probability assessment for:
+
+""Getting heads on three consecutive coin flips""",A) Approximately equal to random chance - no clear advantage or disadvantage B) Much higher than random chance - the scenario strongly favors the outcome C) Much higher than random chance - the scenario strongly favors the outcome D) Approximately equal to random chance - no clear advantage or disadvantage,D
+ttm_new_0017,mc,"Consider a claim about probability: ""A die roll will be 6"" with 10% confidence. Which assessment is most appropriate?",A) Underconfident - the true probability is much higher B) Miscalibrated - depends on additional context not provided C) Overconfident - the true probability is much lower D) Overconfident - the true probability is much lower,B
+ttm_new_0018,mc,"Consider carefully: Evaluate this confidence judgment: ""A die roll will be 6"" (stated as 10% confident). Select the best analysis.",A) Underconfident - the true probability is much higher B) Overconfident - the true probability is much lower C) Reasonably calibrated - the estimate is accurate D) Overconfident - the true probability is much lower,C
+ttm_new_0019,mc,"Which cognitive bias is demonstrated in this scenario?
+
+""You remember your childhood more fondly than it actually was."" Do NOT jump to conclusions.",Availability Availability heuristic - overestimating the likelihood of memorable events B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Availability bias - being overly influenced by the first piece of information,D
+ttm_new_0020,mc,"Evaluate this confidence judgment: ""A fair coin will land heads"" (stated as 50% confident). Select the best analysis. Consider all possibilities equally.",Underconfident A) - the true probability is much higher B) Overconfident - the true probability is much lower C) Miscalibrated - depends on additional context not provided D) Overconfident - the true probability is much lower,C
+ttm_new_0021,mc,"Given the constraints described, what's the optimal decision?
+
+""You're behind on a project. You can: cut quality to meet deadline, request extension, or add resources.""",A) Minimize risk - choose the safest option regardless of potential reward B) Maximize expected value - choose the option with highest average return C) Minimize risk - choose the safest option regardless of potential reward D) Maximize expected value - choose the option with highest average return,C
+ttm_new_0022,mc,"Identify the bias in this situation:
+
+""You think you're better than average at driving."" Consider all possibilities equally.",Availability Availability heuristic - overestimating the likelihood of memorable events B) Confirmation bias - seeking information that confirms existing beliefs C) Overconfidence effect - overestimating one's own abilities or knowledge D) Confirmation bias - seeking information that confirms existing beliefs,C
+ttm_new_0023,mc,"The following argument contains a logical fallacy. Which best describes it?
+
+""Rich people are greedy - I know a rich person who's greedy."" Consider all possibilities equally.",A) Post hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Hasty generalization - drawing broad conclusions from insufficient evidence D) Hasty generalization - drawing broad conclusions from insufficient evidence,A
+ttm_new_0024,mc,"What's the main reasoning error in:
+
+""Rich people are greedy - I know a rich person who's greedy.""",A) Post hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Hasty generalization - drawing broad conclusions from insufficient evidence D) Hasty generalization - drawing broad conclusions from insufficient evidence,D
+ttm_new_0025,mc,"Consider carefully: Calculate the probability of:
+
+""Two people sharing a birthday in a room of 23 people""
+
+Select the best estimate.",Approximately Approximately equal to random chance - no clear advantage or disadvantage B) Approximately equal to random chance - no clear advantage or disadvantage C) Much higher than random chance - the scenario strongly favors the outcome D) Much higher than random chance - the scenario strongly favors the outcome,B
+ttm_new_0026,mc,"What systematic thinking error is shown here?
+
+""You seek information that confirms your existing beliefs.""",A) Confirmation bias - seeking information that confirms existing beliefs B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Confirmation bias - seeking information that confirms existing beliefs,A
+ttm_new_0027,mc,"What systematic thinking error is shown here?
+
+""You invest in a stock that's been rising for 10 days, expecting it to continue.""",A) Availability heuristic - overestimating the likelihood of memorable events B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Availability heuristic - overestimating the likelihood of memorable events,D
+ttm_new_0028,mc,"Given the constraints described, what's the optimal decision?
+
+""A competitor lowers prices. You can: match them, differentiate your product, or focus on service."" Consider all possibilities equally.",A) Minimize risk - choose the safest option regardless of potential reward B) Maximize expected value - choose the option with highest average return C) Maximize expected value - choose the option with highest average return D) Minimize risk - choose the safest option regardless of potential reward,D
+ttm_new_0029,mc,"Identify the bias in this situation:
+
+""You think you're better than average at driving.""",A) Overconfidence effect - overestimating one's own abilities or knowledge B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Confirmation bias - seeking information that confirms existing beliefs,A
+ttm_new_0030,mc,"What's the main reasoning error in:
+
+""Rich people are greedy - I know a rich person who's greedy.""",Post A) hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Hasty generalization - drawing broad conclusions from insufficient evidence D) A) hoc fallacy - assuming causation from mere correlation,D
+ttm_new_0031,mc,"Evaluate this confidence judgment: ""A die roll will be 6"" (stated as 90% confident). Select the best analysis.",Underconfident A) - the true probability is much higher B) Overconfident - the true probability is much lower C) Overconfident - the true probability is much lower D) Overconfident - the true probability is much lower,B
+ttm_new_0032,mc,"Evaluate this confidence judgment: ""It will rain in Seattle tomorrow"" (stated as 25% confident). Select the best analysis.",A) Underconfident - the true probability is much higher B) Overconfident - the true probability is much lower C) Overconfident - the true probability is much lower D) Reasonably calibrated - the estimate is accurate,D
+ttm_new_0033,mc,"Given this scenario, which probability is most reasonable?
+
+""Two people sharing a birthday in a room of 23 people""",A) lower Much than random chance - the scenario strongly disfavors the outcome B) lower higher than random chance - the scenario strongly favors the outcome C) lower higher than random chance - the scenario strongly favors the outcome D) lower higher than random chance - the scenario strongly favors the outcome,A
+ttm_new_0034,mc,"Evaluate this confidence judgment: ""A die roll will be 6"" (stated as 25% confident). Select the best analysis.",A) Underconfident - the true probability is much higher B) Overconfident - the true probability is much lower C) Overconfident - the true probability is much lower D) Miscalibrated - depends on additional context not provided,D
+ttm_new_0035,mc,"What systematic thinking error is shown here?
+
+""After buying a red car, you notice more red cars on the road."" Do NOT jump to conclusions.",A) Availability heuristic - overestimating the likelihood of memorable events B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Confirmation bias - seeking information that confirms existing beliefs,C
+ttm_new_0036,mc,"What's the main reasoning error in:
+
+""All swans are white. I've seen 100 swans and all were white. Therefore all swans are white."" Avoid obvious but incorrect patterns.",A) Post hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Appeal to nature - assuming natural means good or safe D) Hasty generalization - drawing broad conclusions from insufficient evidence,C
+ttm_new_0037,mc,"Given the constraints described, what's the optimal decision?
+
+""A competitor lowers prices. You can: match them, differentiate your product, or focus on service.""",Minimize A) risk - choose the safest option regardless of potential reward B) A) expected value - choose the option with highest average return C) A) expected value - choose the option with highest average return D) A) expected value - choose the option with highest average return,C
+ttm_new_0038,mc,"Identify the bias in this situation:
+
+""You remember your childhood more fondly than it actually was."" Do NOT jump to conclusions.",A) Availability heuristic - overestimating the likelihood of memorable events B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Overconfidence effect - overestimating one's own abilities or knowledge,D
+ttm_new_0039,mc,"What's the main reasoning error in:
+
+""Smoking causes cancer because my grandfather smoked and got cancer."" Do NOT jump to conclusions.",Post A) hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Hasty generalization - drawing broad conclusions from insufficient evidence D) Hasty generalization - drawing broad conclusions from insufficient evidence,B
+ttm_new_0040,mc,"Identify the bias in this situation:
+
+""You seek information that confirms your existing beliefs.""",A) Availability heuristic - overestimating the likelihood of memorable events B) Confirmation bias - seeking information that confirms existing beliefs C) Availability heuristic - overestimating the likelihood of memorable events D) Confirmation bias - seeking information that confirms existing beliefs,C
+ttm_new_0041,mc,"Take your time: Identify the bias in this situation:
+
+""You think you're better than average at driving.""",Availability Availability heuristic - overestimating the likelihood of memorable events B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Availability heuristic - overestimating the likelihood of memorable events,D
+ttm_new_0042,mc,"Identify the primary logical flaw in this argument:
+
+""All swans are white. I've seen 100 swans and all were white. Therefore all swans are white.""",A) Post hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Hasty generalization - drawing broad conclusions from insufficient evidence D) Straw man - misrepresenting the argument to make it easier to attack,D
+ttm_new_0043,mc,"Someone states: ""A fair coin will land heads"" with 75% certainty. What's the correct calibration assessment? Do NOT jump to conclusions.",A) Underconfident - the true probability is much higher B) Overconfident - the true probability is much lower C) Reasonably calibrated - the estimate is accurate D) Overconfident - the true probability is much lower,C
+ttm_new_0044,mc,"Take your time: What's the best course of action in this situation?
+
+""You're behind on a project. You can: cut quality to meet deadline, request extension, or add resources.""",A) Minimize risk - choose the safest option regardless of potential reward B) Maximize expected value - choose the option with highest average return C) Maximize expected value - choose the option with highest average return D) Apply satisficing - choose the first option that meets minimum requirements,D
+ttm_new_0045,mc,"With the information provided, which choice is most rational?
+
+""You're behind on a project. You can: cut quality to meet deadline, request extension, or add resources.""",A) Minimize risk - choose the safest option regardless of potential reward B) Maximize expected value - choose the option with highest average return C) Minimize risk - choose the safest option regardless of potential reward D) Maximize expected value - choose the option with highest average return,C
+ttm_new_0046,mc,"Take your time: What's the best course of action in this situation?
+
+""A competitor lowers prices. You can: match them, differentiate your product, or focus on service.""",Minimize A) risk - choose the safest option regardless of potential reward B) A) expected value - choose the option with highest average return C) A) expected value - choose the option with highest average return D) A) expected value - choose the option with highest average return,C
+ttm_new_0047,mc,"Think step by step: What's the main reasoning error in:
+
+""All swans are white. I've seen 100 swans and all were white. Therefore all swans are white.""",A) Post hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Hasty generalization - drawing broad conclusions from insufficient evidence D) Hasty generalization - drawing broad conclusions from insufficient evidence,A
+ttm_new_0048,mc,"Take your time: Given the constraints described, what's the optimal decision?
+
+""A competitor lowers prices. You can: match them, differentiate your product, or focus on service.""",A) Minimize risk - choose the safest option regardless of potential reward B) Minimize risk - choose the safest option regardless of potential reward C) Maximize expected value - choose the option with highest average return D) Maximize expected value - choose the option with highest average return,B
+ttm_new_0049,mc,"Which cognitive bias is demonstrated in this scenario?
+
+""You think you're better than average at driving.""",Availability Availability heuristic - overestimating the likelihood of memorable events B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Confirmation bias - seeking information that confirms existing beliefs,B
+ttm_new_0050,mc,"Take your time: Given the constraints described, what's the optimal decision?
+
+""You have $100 to invest. Option A: guaranteed $110 in a year. Option B: 50% chance of $200, 50% of $0."" Consider all possibilities equally.",A) expected Maximize value - choose the option with highest average return B) expected Maximize value - choose the option with highest average return C) expected Maximize value - choose the option with highest average return D) expected Maximize value - choose the option with highest average return,A
+ttm_new_0051,mc,"Identify the bias in this situation:
+
+""You seek information that confirms your existing beliefs."" Consider all possibilities equally.",A) Availability heuristic - overestimating the likelihood of memorable events B) Availability heuristic - overestimating the likelihood of memorable events C) Confirmation bias - seeking information that confirms existing beliefs D) Confirmation bias - seeking information that confirms existing beliefs,B
+ttm_new_0052,mc,"Which cognitive bias is demonstrated in this scenario?
+
+""You seek information that confirms your existing beliefs.""",A) Availability heuristic - overestimating the likelihood of memorable events B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Confirmation bias - seeking information that confirms existing beliefs,C
+ttm_new_0053,mc,"Consider carefully: Evaluate this confidence judgment: ""The next car you see will be red"" (stated as 50% confident). Select the best analysis.",A) Underconfident - the true probability is much higher B) Overconfident - the true probability is much lower C) Miscalibrated - depends on additional context not provided D) Overconfident - the true probability is much lower,C
+ttm_new_0054,mc,"What's the most accurate probability assessment for:
+
+""Rolling two fair dice and getting a sum of 7"" Consider all possibilities equally.",A) Approximately equal to random chance - no clear advantage or disadvantage B) Much higher than random chance - the scenario strongly favors the outcome C) Cannot determine - insufficient information for reliable estimation D) Much higher than random chance - the scenario strongly favors the outcome,C
+ttm_new_0055,mc,"Think step by step: What's the most accurate probability assessment for:
+
+""A random person having a birthday in February""",A) Approximately equal to random chance - no clear advantage or disadvantage B) Much higher than random chance - the scenario strongly favors the outcome C) Much higher than random chance - the scenario strongly favors the outcome D) Much higher than random chance - the scenario strongly favors the outcome,D
+ttm_new_0056,mc,"What's the main reasoning error in:
+
+""Rich people are greedy - I know a rich person who's greedy."" Do NOT jump to conclusions.",A) Post hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Appeal to nature - assuming natural means good or safe D) Hasty generalization - drawing broad conclusions from insufficient evidence,C
+ttm_new_0057,mc,"With the information provided, which choice is most rational?
+
+""You're behind on a project. You can: cut quality to meet deadline, request extension, or add resources.""",A) Minimize risk - choose the safest option regardless of potential reward B) Maximize expected value - choose the option with highest average return C) Maximize expected value - choose the option with highest average return D) Apply satisficing - choose the first option that meets minimum requirements,D
+ttm_new_0058,mc,"Given the constraints described, what's the optimal decision?
+
+""You have $100 to invest. Option A: guaranteed $110 in a year. Option B: 50% chance of $200, 50% of $0.""",A) Minimize risk - choose the safest option regardless of potential reward B) Maximize expected value - choose the option with highest average return C) Maximize expected value - choose the option with highest average return D) Maximize expected value - choose the option with highest average return,B
+ttm_new_0059,mc,"What's the most accurate probability assessment for:
+
+""Getting heads on three consecutive coin flips""",A) Approximately to equal random chance - no clear advantage or disadvantage B) Much higher equal random chance - equal scenario strongly favors equal outcome C) Much higher equal random chance - equal scenario strongly favors equal outcome D) Much higher equal random chance - equal scenario strongly favors equal outcome,A
+ttm_new_0060,mc,"Think step by step: What's the most accurate probability assessment for:
+
+""Rolling two fair dice and getting a sum of 7""",Approximately Approximately equal to random chance - no clear advantage or disadvantage B) Much higher than random chance - the scenario strongly favors the outcome C) Much lower than random chance - the scenario strongly disfavors the outcome D) Much higher than random chance - the scenario strongly favors the outcome,C
+ttm_new_0061,mc,"Identify the primary logical flaw in this argument:
+
+""We should ban all technology because it makes people less social."" Do NOT jump to conclusions.",A) Post hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Hasty generalization - drawing broad conclusions from insufficient evidence D) Hasty generalization - drawing broad conclusions from insufficient evidence,D
+ttm_new_0062,mc,"Calculate the probability of:
+
+""A random person having a birthday in February""
+
+Select the best estimate. Do NOT jump to conclusions.",A) Approximately equal to random chance - no clear advantage or disadvantage B) Much higher than random chance - the scenario strongly favors the outcome C) Approximately equal to random chance - no clear advantage or disadvantage D) Much higher than random chance - the scenario strongly favors the outcome,C
+ttm_new_0063,mc,"Consider carefully: Evaluate this confidence judgment: ""A die roll will be 6"" (stated as 25% confident). Select the best analysis.",Underconfident A) - the true probability is much higher B) Overconfident - the true probability is much lower C) A) - the true probability is much higher D) Overconfident - the true probability is much lower,C
+ttm_new_0064,mc,"Evaluate this confidence judgment: ""The next car you see will be red"" (stated as 75% confident). Select the best analysis.",A) Underconfident - the true probability is much higher B) Overconfident - the true probability is much lower C) Overconfident - the true probability is much lower D) Overconfident - the true probability is much lower,A
+ttm_new_0065,mc,"Consider carefully: The following argument contains a logical fallacy. Which best describes it?
+
+""Smoking causes cancer because my grandfather smoked and got cancer.""",A) Post hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Hasty generalization - drawing broad conclusions from insufficient evidence D) Hasty generalization - drawing broad conclusions from insufficient evidence,A
+ttm_new_0066,mc,"Take your time: The following argument contains a logical fallacy. Which best describes it?
+
+""All swans are white. I've seen 100 swans and all were white. Therefore all swans are white.""",A) Post hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Hasty generalization - drawing broad conclusions from insufficient evidence D) Hasty generalization - drawing broad conclusions from insufficient evidence,D
+ttm_new_0067,mc,"Consider carefully: The following argument contains a logical fallacy. Which best describes it?
+
+""Rich people are greedy - I know a rich person who's greedy."" Consider all possibilities equally.",Post A) hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) A) hoc fallacy - assuming causation from mere correlation D) Hasty generalization - drawing broad conclusions from insufficient evidence,C
+ttm_new_0068,mc,"Which cognitive bias is demonstrated in this scenario?
+
+""You remember your childhood more fondly than it actually was.""",A) Availability heuristic - overestimating the likelihood of memorable events B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Confirmation bias - seeking information that confirms existing beliefs,D
+ttm_new_0069,mc,"Given this scenario, which probability is most reasonable?
+
+""Drawing a face card from a standard deck""",A) Approximately equal to random chance - no clear advantage or disadvantage B) Much higher than random chance - the scenario strongly favors the outcome C) Much higher than random chance - the scenario strongly favors the outcome D) Much higher than random chance - the scenario strongly favors the outcome,A
+ttm_new_0070,mc,"Which cognitive bias is demonstrated in this scenario?
+
+""You think you're better than average at driving.""",A) Availability heuristic - overestimating the likelihood of memorable events B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Confirmation bias - seeking information that confirms existing beliefs,A
+ttm_new_0071,mc,"Consider a claim about probability: ""A die roll will be 6"" with 25% confidence. Which assessment is most appropriate?",A) Underconfident - the true probability is much higher B) Overconfident - the true probability is much lower C) Overconfident - the true probability is much lower D) Overconfident - the true probability is much lower,A
+ttm_new_0072,mc,"Identify the bias in this situation:
+
+""You think you're better than average at driving."" Do NOT jump to conclusions.",A) Availability heuristic - overestimating the likelihood of memorable events B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Confirmation bias - seeking information that confirms existing beliefs,D
+ttm_new_0073,mc,"The following argument contains a logical fallacy. Which best describes it?
+
+""This medication works because it's natural.""",A) Post hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Hasty generalization - drawing broad conclusions from insufficient evidence D) Straw man - misrepresenting the argument to make it easier to attack,D
+ttm_new_0074,mc,"Given this scenario, which probability is most reasonable?
+
+""Two people sharing a birthday in a room of 23 people""",A) Approximately equal to random chance - no clear advantage or disadvantage B) Much lower than random chance - the scenario strongly disfavors the outcome C) Much higher than random chance - the scenario strongly favors the outcome D) Much higher than random chance - the scenario strongly favors the outcome,B
+ttm_new_0075,mc,"What systematic thinking error is shown here?
+
+""You seek information that confirms your existing beliefs.""",Availability Availability heuristic - overestimating the likelihood of memorable events B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Availability heuristic - overestimating the likelihood of memorable events,D
+ttm_new_0076,mc,"What's the best course of action in this situation?
+
+""A competitor lowers prices. You can: match them, differentiate your product, or focus on service.""",Minimize A) risk - choose the safest option regardless of potential reward B) Consider time preferences - factor in the value of immediate vs delayed outcomes C) A) expected value - choose the option with highest average return D) A) expected value - choose the option with highest average return,B
+ttm_new_0077,mc,"What systematic thinking error is shown here?
+
+""You invest in a stock that's been rising for 10 days, expecting it to continue.""",A) Availability heuristic - overestimating the likelihood of memorable events B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Confirmation bias - seeking information that confirms existing beliefs,D
+ttm_new_0078,mc,"Consider carefully: Identify the bias in this situation:
+
+""After buying a red car, you notice more red cars on the road.""",Availability Availability heuristic - overestimating the likelihood of memorable events B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Confirmation bias - seeking information that confirms existing beliefs,B
+ttm_new_0079,mc,"Consider carefully: Which cognitive bias is demonstrated in this scenario?
+
+""You seek information that confirms your existing beliefs.""",A) Anchoring bias - being overly influenced by the first piece of information B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Confirmation bias - seeking information that confirms existing beliefs,A
+ttm_new_0080,mc,"Calculate the probability of:
+
+""Rolling two fair dice and getting a sum of 7""
+
+Select the best estimate.",A) Approximately equal to random chance - no clear advantage or disadvantage B) Cannot determine - insufficient information for reliable estimation C) Much higher than random chance - the scenario strongly favors the outcome D) Much higher than random chance - the scenario strongly favors the outcome,B
+ttm_new_0081,mc,"Take your time: What's the best course of action in this situation?
+
+""You have $100 to invest. Option A: guaranteed $110 in a year. Option B: 50% chance of $200, 50% of $0.""",A) Minimize risk - choose the safest option regardless of potential reward B) Maximize expected value - choose the option with highest average return C) Maximize expected value - choose the option with highest average return D) Consider time preferences - factor in the value of immediate vs delayed outcomes,D
+ttm_new_0082,mc,"Given this scenario, which probability is most reasonable?
+
+""A random person having a birthday in February""",Approximately Approximately equal to random chance - no clear advantage or disadvantage B) Much higher than random chance - the scenario strongly favors the outcome C) Much higher than random chance - the scenario strongly favors the outcome D) Much higher than random chance - the scenario strongly favors the outcome,C
+ttm_new_0083,mc,"With the information provided, which choice is most rational?
+
+""You have $100 to invest. Option A: guaranteed $110 in a year. Option B: 50% chance of $200, 50% of $0."" Do NOT jump to conclusions.",A) risk Minimize - choose the safest option Minimize of potential Minimize B) risk expected value - choose the option with highest average Minimize C) risk expected value - choose the option with highest average Minimize D) risk expected value - choose the option with highest average Minimize,A
+ttm_new_0084,mc,"Think step by step: Consider a claim about probability: ""A die roll will be 6"" with 75% confidence. Which assessment is most appropriate?",A) Underconfident - the true probability is much higher B) Overconfident - the true probability is much lower C) Underconfident - the true probability is much higher D) Overconfident - the true probability is much lower,C
+ttm_new_0085,mc,"What's the most accurate probability assessment for:
+
+""Getting heads on three consecutive coin flips"" Consider all possibilities equally.",A) Approximately equal to random chance - no clear advantage or disadvantage B) Much higher than random chance - the scenario strongly favors the outcome C) Much higher than random chance - the scenario strongly favors the outcome D) Much higher than random chance - the scenario strongly favors the outcome,D
+ttm_new_0086,mc,"Consider carefully: Which cognitive bias is demonstrated in this scenario?
+
+""You remember your childhood more fondly than it actually was."" Do NOT jump to conclusions.",A) Availability heuristic - overestimating the likelihood of memorable events B) Confirmation bias - seeking information that confirms existing beliefs C) Availability heuristic - overestimating the likelihood of memorable events D) Confirmation bias - seeking information that confirms existing beliefs,C
+ttm_new_0087,mc,"What's the best course of action in this situation?
+
+""You have $100 to invest. Option A: guaranteed $110 in a year. Option B: 50% chance of $200, 50% of $0."" Consider all possibilities equally.",A) Minimize risk - choose the safest option regardless of potential reward B) Maximize expected value - choose the option with highest average return C) Maximize expected value - choose the option with highest average return D) Maximize expected value - choose the option with highest average return,A
+ttm_new_0088,mc,"What's the main reasoning error in:
+
+""Smoking causes cancer because my grandfather smoked and got cancer.""",A) Post hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Hasty generalization - drawing broad conclusions from insufficient evidence D) Post hoc fallacy - assuming causation from mere correlation,D
+ttm_new_0089,mc,"The following argument contains a logical fallacy. Which best describes it?
+
+""Smoking causes cancer because my grandfather smoked and got cancer."" Consider all possibilities equally.",A) Post hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Hasty generalization - drawing broad conclusions from insufficient evidence D) Post hoc fallacy - assuming causation from mere correlation,D
+ttm_new_0090,mc,"Consider carefully: What's the main reasoning error in:
+
+""All swans are white. I've seen 100 swans and all were white. Therefore all swans are white.""",A) Post hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Appeal to nature - assuming natural means good or safe D) Hasty generalization - drawing broad conclusions from insufficient evidence,C
+ttm_new_0091,mc,"Consider carefully: Consider a claim about probability: ""A randomly selected person is over 6 feet tall"" with 75% confidence. Which assessment is most appropriate? Consider all possibilities equally.",Underconfident A) - the true probability is much higher B) A) - the true probability is much higher C) Overconfident - the true probability is much lower D) Overconfident - the true probability is much lower,B
+ttm_new_0092,mc,"Someone states: ""It will rain in Seattle tomorrow"" with 90% certainty. What's the correct calibration assessment?",A) Overconfident - the true probability is much lower B) Overconfident - the true probability is much lower C) Overconfident - the true probability is much lower D) Overconfident - the true probability is much lower,A
+ttm_new_0093,mc,"Which cognitive bias is demonstrated in this scenario?
+
+""You think you're better than average at driving.""",A) Overconfidence effect - overestimating one's own abilities or knowledge B) Confirmation bias - seeking information that confirms existing beliefs C) Confirmation bias - seeking information that confirms existing beliefs D) Confirmation bias - seeking information that confirms existing beliefs,A
+ttm_new_0094,mc,"The following argument contains a logical fallacy. Which best describes it?
+
+""Rich people are greedy - I know a rich person who's greedy."" Do NOT jump to conclusions.",A) generalization Hasty - drawing broad conclusions from insufficient evidence B) generalization Hasty - drawing broad conclusions from insufficient evidence C) generalization Hasty - drawing broad conclusions from insufficient evidence D) generalization Hasty - drawing broad conclusions from insufficient evidence,A
+ttm_new_0095,mc,"Given this scenario, which probability is most reasonable?
+
+""A random person having a birthday in February"" Avoid obvious but incorrect patterns.",A) Approximately equal to random chance - no clear advantage or disadvantage B) Cannot determine - insufficient information for reliable estimation C) Much higher than random chance - the scenario strongly favors the outcome D) Much higher than random chance - the scenario strongly favors the outcome,B
+ttm_new_0096,mc,"What's the main reasoning error in:
+
+""We should ban all technology because it makes people less social.""",A) Post hoc fallacy - assuming causation from mere correlation B) Hasty generalization - drawing broad conclusions from insufficient evidence C) Hasty generalization - drawing broad conclusions from insufficient evidence D) Hasty generalization - drawing broad conclusions from insufficient evidence,D
+ttm_new_0097,mc,"Someone states: ""A fair coin will land heads"" with 25% certainty. What's the correct calibration assessment?",A) Underconfident - the true probability is much higher B) Overconfident - the true probability is much lower C) Overconfident - the true probability is much lower D) Overconfident - the true probability is much lower,A
+ttm_new_0098,mc,"Given the constraints described, what's the optimal decision?
+
+""You're behind on a project. You can: cut quality to meet deadline, request extension, or add resources.""",Minimize A) risk - choose the safest option regardless of potential reward B) A) expected value - choose the option with highest average return C) A) expected value - choose the option with highest average return D) Consider time preferences - factor in the value of immediate vs delayed outcomes,D
+ttm_new_0099,mc,"With the information provided, which choice is most rational?
+
+""You have $100 to invest. Option A: guaranteed $110 in a year. Option B: 50% chance of $200, 50% of $0."" Avoid obvious but incorrect patterns.",Minimize A) risk - choose the safest option regardless of potential reward B) A) expected value - choose the option with highest average return C) A) risk - choose the safest option regardless of potential reward D) A) expected value - choose the option with highest average return,C
+ttm_physics_0001,mc,"Given the Trinity Identity φ² + φ⁻² = 3, where φ = (1+√5)/2 is the golden ratio, what is the exact value of φ⁴ + φ⁻⁴?",A) 5 B) 7 C) 9 D) 11,B
+ttm_physics_0002,mc,"In the context of the Trinity Identity φ² + φ⁻² = 3, what is the value of φ⁶ + φ⁻⁶ expressed in terms of the original identity?",A) 9 B) 18 C) 27 D) 36,B
+ttm_physics_0003,mc,"The fine structure constant α ≈ 1/137.036. If we consider the relationship α ≈ 4π³/φ⁸, what is the approximate value of φ⁸?",A) 42.2 B) 47.0 C) 52.5 D) 58.1,C
+ttm_physics_0004,mc,"In the Koide relation for charged leptons: (m_e + m_μ + m_τ)/(√(m_e) + √(m_μ) + √(m_τ))² = 2/3, if we define a new parameter Q = 3/2 × (sum)/(sum of roots)², what is Q for leptons?",A) 0.5 B) 1.0 C) 1.5 D) 2.0,B
+ttm_physics_0005,mc,"The Cabibbo-Kobayashi-Maskawa (CKM) matrix element V_us ≈ 0.225. If we hypothesize V_us ≈ φ⁻³, what is the exact value of φ⁻³?",A) 1/8 B) 2-φ C) φ/4 D) 3-2φ,B
+ttm_physics_0006,mc,"In the E8 × E8 heterotic string theory, what is the dimension of the E8 Lie group?",A) 128 B) 240 C) 248 D) 384,C
+ttm_physics_0007,mc,"Zamolodchikov's c-theorem in 2D conformal field theory states that there exists a function c(g) that decreases along renormalization group flow and equals the central charge at fixed points. For a perturbation by a relevant operator of dimension Δ, what is the first-order change in c?",A) δc ∝ (2-Δ) B) δc ∝ (Δ-1) C) δc ∝ (3-2Δ) D) δc ∝ (4-Δ),C
+ttm_physics_0008,mc,"In Loop Quantum Gravity, the area operator has discrete eigenvalues proportional to the Planck length squared times sums of square roots of spins. For a minimal surface with spin-1/2 punctures, what is the minimal non-zero area eigenvalue in Planck units?",A) √3 ℓ_P² B) 2√3 ℓ_P² C) 4π√3 ℓ_P² D) 8πγ√3 ℓ_P²,D
+ttm_physics_0009,mc,The E8 Toda field theory describes the dynamics of 8 scalar fields associated with the simple roots of E8. What is the rank of the E8 Lie algebra?,A) 4 B) 6 C) 8 D) 16,C
+ttm_physics_0010,mc,"In quasicrystal physics, the phonon spectrum forms a ladder structure related to the golden ratio. For a Fibonacci quasicrystal, the ratio of consecutive peak intensities in the diffraction pattern approaches what value?",A) φ² B) φ C) 1/φ D) 1/φ²,A
+ttm_physics_0011,mc,"A Majorana particle is its own antiparticle. In the context of Majorana Golden-Ratio modes, if the energy gap Δ is related to φ as Δ = φ × E_F/10, where E_F is the Fermi energy, what is Δ when E_F = 100 meV?",A) 10.1 meV B) 16.2 meV C) 26.2 meV D) 42.4 meV,B
+ttm_physics_0012,mc,"The PMNS mixing matrix describes neutrino oscillations. The mixing angle θ_12 ≈ 33.5°. If we hypothesize sin²θ_12 ≈ 1/φ³, what is the numerical value of 1/φ³?",A) 0.236 B) 0.276 C) 0.318 D) 0.382,A
+ttm_physics_0013,mc,"In the E8 × E8 heterotic string, the 496 gauge bosons arise from the decomposition of the adjoint representation. What is 496 expressed in terms of binomial coefficients related to golden ratio approximations?","A) C(12,2) + C(12,3) B) C(16,2) C) C(16,3) D) C(16,4)",B
+ttm_physics_0014,mc,"The Toda lattice equation for E8 involves 8 coupled nonlinear differential equations. In the continuum limit, the relationship between the Toda field and the golden ratio emerges. If we set the coupling constant g = √(φ-1), what is g²?",A) 1/φ B) 1/φ² C) 2-φ D) φ-2,C
+ttm_physics_0015,mc,"In Loop Quantum Gravity, the volume operator eigenvalues involve sums over triple products of spin representations. For a tetrahedron with all edges having spin-1/2, what is the volume eigenvalue (in Planck units cubed) up to the Immirzi parameter γ?",A) (3√3/8)γ³ B) (√3/4)γ³ C) (3√3/4)γ³ D) (3/4)γ³,A
+ttm_physics_0016,mc,"The Koide relation extended to quarks: (m_d + m_s + m_b)/(√(m_d) + √(m_s) + √(m_b))² = 2/3. Using known masses m_d ≈ 4.7 MeV, m_s ≈ 95 MeV, m_b ≈ 4.18 GeV, what is the approximate value of the left-hand side?",A) 0.50 B) 0.67 C) 0.78 D) 0.89,B
+ttm_physics_0017,mc,"Zamolodchikov's c-theorem implies that the central charge decreases along RG flow. For a flow from a UV fixed point with c=4 to an IR fixed point with c=1, what is the total change in c?",A) 1 B) 2 C) 3 D) 4,C
+ttm_physics_0018,mc,"In a Fibonacci quasicrystal, the inflation factor is φ. After n inflations, the total number of tiles (A and B types) is F_{2n}, where F_k are Fibonacci numbers. What is the ratio of A tiles to B tiles as n → ∞?",A) φ B) φ² C) 1/φ D) √φ,A
+ttm_physics_0019,mc,"The Majorana condition ψ = ψᶜ (where ψᶜ is the charge conjugate) imposes reality conditions on spinors. In 2D, a Majorana spinor has how many real components?",A) 1 B) 2 C) 3 D) 4,A
+ttm_physics_0020,mc,The golden ratio φ appears in the continued fraction expansion φ = 1 + 1/(1 + 1/(1 + ...)). What is the nth convergent of this continued fraction expressed as a ratio of consecutive Fibonacci numbers?,A) F_{n+1}/F_n B) F_{n+2}/F_{n+1} C) F_n/F_{n+1} D) F_{n+1}/F_{n-1},A
+ttm_physics_0021,mc,"In the E8 Lie algebra, the dual Coxeter number h∨ equals 30. This number appears in various quantum corrections. What is h∨ expressed in relation to the golden ratio approximation from Fibonacci numbers?",A) 5F_5 B) F_8 - 2 C) 2F_9 - 6 D) φ¹⁰ rounded,C
+ttm_physics_0022,mc,"The fine structure constant at zero momentum transfer is α ≈ 1/137. If we consider the approximation α ≈ (φ⁻⁴)/π, what is the approximate value of φ⁻⁴/π?",A) 0.0052 B) 0.0073 C) 0.0098 D) 0.0124,B
+ttm_physics_0023,mc,"In the Toda field theory for A_N, the mass spectrum is given by m_i = 2M sin(πi/(h+1)), where h = N is the Coxeter number. For E8 with h=30, what is the ratio of the heaviest to lightest mass?",A) 2 cos(π/31) B) 2 sin(15π/31) C) tan(7π/31) D) cot(π/62),B
+ttm_physics_0024,mc,The Trinity Identity φ² + φ⁻² = 3 can be generalized to Lucas numbers L_n: L_n = φⁿ + φ⁻ⁿ. What is L_5?,A) 5 B) 7 C) 11 D) 13,C
+ttm_physics_0025,mc,"In Loop Quantum Gravity, the Immirzi parameter γ appears in the area spectrum. The Ashtekar-Barbero connection is A = Γ + γK, where Γ is the spin connection and K is the extrinsic curvature. What is the dimension of γ?",A) Length B) Dimensionless C) 1/Mass D) Action,B
+ttm_physics_0026,mc,"The CKM matrix unitarity condition Σ_j |V_ij|² = 1. For the first row with |V_ud| ≈ 0.974, |V_us| ≈ 0.225, what is approximately |V_ub|?",A) 0.001 B) 0.004 C) 0.015 D) 0.035,B
+ttm_physics_0027,mc,Quasicrystals have long-range order without periodicity. The diffraction pattern of an icosahedral quasicrystal involves how many independent wavevectors (related to the golden ratio)?,A) 3 B) 5 C) 6 D) 12,C
+ttm_physics_0028,mc,"In Majorana bound states in topological superconductors, the zero-bias conductance peak height in units of 2e²/h is expected to be what value for a single Majorana mode?",A) 0.5 B) 1.0 C) 1.5 D) 2.0,A
+ttm_physics_0029,mc,"The golden ratio satisfies φ² = φ + 1. Using this, what is φ³ expressed in terms of φ?",A) 2φ + 1 B) 2φ - 1 C) 3φ + 1 D) 3φ - 1,A
+ttm_physics_0030,mc,"Zamolodchikov's C-function for the 2D Ising model perturbed by the thermal operator φ₁,₃ (with dimension Δ = 1/8) at the IR fixed point equals what value of the central charge?",A) 0 B) 1/2 C) 7/10 D) 1,B
+ttm_physics_0031,mc,"In E8 × E8 heterotic string compactification on a Calabi-Yau manifold, the number of generations (chiral fermions) is related to the Euler characteristic χ. For χ = -6, how many generations result?",A) 1 B) 2 C) 3 D) 4,C
+ttm_physics_0032,mc,"The Koide formula for lepton masses can be written as (√m_e + √m_μ + √m_τ)² = (3/2)(m_e + m_μ + m_τ). If we define x = √(m_e/m_μ) and y = √(m_μ/m_τ), what relation must x and y satisfy?",A) x + y + xy = 0 B) 1 + x + y = √(3/2)(1 + x² + y²) C) (1+x+y)² = (3/2)(1+x²+y²) D) (1+x²+y²)² = (3/2)(1+x+y),C
+ttm_physics_0033,mc,"In Loop Quantum Gravity, the Hamiltonian constraint generates dynamics. Its action involves a sum over tetrahedra of terms proportional to Tr([h_e, h_{e'}]). What is the dimension of this operator in Planck units?",A) Energy (E_P) B) Energy density (E_P/ℓ_P³) C) Action (ħ) D) Momentum (E_P/c),B
+ttm_physics_0034,mc,The golden ratio appears in the ratio of consecutive Fibonacci numbers: lim(n→∞) F_{n+1}/F_n = φ. What is lim(n→∞) F_{2n}/F_n²?,A) φ B) φ² C) 1 D) φ/2,C
+ttm_physics_0035,mc,"In the E8 Toda field theory, the S-matrix is factorized and exhibits the property of elastic scattering. The number of distinct particle masses in E8 Toda theory equals what?",A) 8 B) 7 C) 6 D) 5,A
+ttm_physics_0036,mc,"The PMNS mixing matrix element |U_e3|² ≈ 0.022 (sin²θ_13). If we approximate this as φ⁻⁶, what is φ⁻⁶?",A) 0.018 B) 0.022 C) 0.028 D) 0.034,A
+ttm_physics_0037,mc,"In a quasicrystal, the phason degree of freedom corresponds to displacements in perpendicular space. For a 2D Penrose tiling projected from 5D space, how many physical dimensions and perpendicular dimensions are there?","A) 2 physical, 3 perpendicular B) 2 physical, 2 perpendicular C) 3 physical, 2 perpendicular D) 1 physical, 4 perpendicular",A
+ttm_physics_0038,mc,The Trinity Identity φ² + φ⁻² = 3 implies φ⁴ - 3φ² + 1 = 0. What is the positive root of this equation?,A) (3+√5)/2 B) (3+√13)/2 C) √φ D) φ√2,A
+ttm_physics_0039,mc,Majorana fermions in condensed matter systems can appear at the ends of 1D topological superconducting wires. The topological invariant protecting these states is what?,A) Chern number B) Z₂ invariant C) Winding number D) Pontryagin index,B
+ttm_physics_0040,mc,"The fine structure constant runs with energy scale. At the Z boson mass (m_Z ≈ 91 GeV), α(m_Z) ≈ 1/128. What is the ratio α(0)/α(m_Z) approximately?",A) 0.85 B) 0.93 C) 1.07 D) 1.18,C
+ttm_physics_0041,mc,"In the E8 root system, the 240 roots all have the same squared length. If we normalize the shortest roots to length 2, what is the number of roots of each length in E8?","A) 240 of length 2 B) 112 of length 2, 128 of length 3 C) 120 of length 2, 120 of length 4 D) 240 of varying lengths",A
+ttm_physics_0042,mc,"Zamolodchikov's theorem for the 2D tricritical Ising model relates the scaling dimensions of operators to the central charge. For c = 7/10, what is the dimension of the stress-energy tensor?",A) 1/10 B) 3/5 C) 2 D) 7/5,C
+ttm_physics_0043,mc,"In Loop Quantum Gravity, spin network edges carry SU(2) representations labeled by half-integers j. For a spin network edge with j=1, what is the contribution to the area spectrum?",A) 8πγ√(j(j+1))ℓ_P² B) 4πγ√(j(j+1))ℓ_P² C) 2πγ√(j(j+1))ℓ_P² D) πγ√(j(j+1))ℓ_P²,A
+ttm_physics_0044,mc,The golden ratio φ appears in the decagonal quasicrystal structure. The angle between two adjacent symmetry axes in a decagon is what?,A) 36° B) 54° C) 72° D) 108°,A
+ttm_physics_0045,mc,"In the Koide relation, if we define the lepton mass ratios r₁ = m_μ/m_e and r₂ = m_τ/m_μ, the relation can be expressed as (√r₁ + √(r₁r₂) + √r₂)² = (3/2)(1 + r₁ + r₁r₂). Using r₁ ≈ 207 and r₂ ≈ 17, what is the left-hand side approximately?",A) 100 B) 207 C) 346 D) 529,C
+ttm_physics_0046,mc,"The E8 × E8 heterotic string in 10 dimensions has gauge group E8 × E8. After compactification on a Calabi-Yau 3-fold, the unbroken gauge group includes what Standard Model factor?",A) SU(5) B) SO(10) C) SU(3) × SU(2) × U(1) D) E6,C
+ttm_physics_0047,mc,"The golden ratio φ satisfies φ = 1 + 1/φ. Using this infinite continued fraction, what is the error when approximating φ by F_{n+1}/F_n?",A) O(φ^{-2n}) B) O(φ^{-n}) C) O(1/F_n²) D) O(1/n),A
+ttm_physics_0048,mc,"In the Toda lattice for the A_2 algebra (2 particles), the equations of motion are ü_n = e^{u_{n-1}-u_n} - e^{u_n-u_{n+1}}. For periodic boundary conditions, how many independent oscillation modes exist?",A) 1 B) 2 C) 3 D) 4,B
+ttm_physics_0049,mc,The CKM matrix can be parameterized by three angles and one phase. The Jarlskog invariant J measures CP violation. What is the approximate magnitude of J?,A) 10⁻³ B) 10⁻⁴ C) 10⁻⁵ D) 10⁻⁶,C
+ttm_gen_0150,mc,The Trinity Identity states φ² + φ⁻² = 3. What is φ⁴ + φ⁻⁴?,A) 5 B) 7 C) 9 D) 11,B
+ttm_gen_0151,mc,"In E8 Lie group theory, the Coxeter number h equals 30. This is approximately equal to which expression involving φ?",A) 5φ⁴ B) 2φ⁸ C) φ¹⁰ D) 3φ⁶,C
+ttm_gen_0152,mc,"Zamolodchikov's theorem states that in E8 Toda theory, m₂/m₁ equals what value exactly?",A) √2 B) φ C) π/2 D) e/2,B
+ttm_gen_0153,mc,"The Koide relation for leptons states: (∑m_i)/(∑√m_i)² = 2/3. For electrons, muons, and tauons, this holds within what precision?",A) 0.1% B) 1% C) 5% D) 10%,A
+ttm_gen_0154,mc,"In Loop Quantum Gravity, the minimal area eigenvalue is proportional to what involving the golden ratio?",A) ℓ_P² × φ B) 8πγ√3 × ℓ_P² (where γ≈φ⁻³) C) ℓ_P²/φ D) 4πℓ_P²×φ²,B
+ttm_gen_0155,mc,The fine structure constant α ≈ 1/137. The Trinity framework proposes α_φ = φ⁻³/2. What is φ⁻³/2 approximately?,A) 0.059 B) 0.118 C) 0.236 D) 0.472,B
+ttm_gen_0156,mc,"In the PMNS neutrino mixing matrix, sin²θ₁₂ ≈ 0.307. Which Trinity formula matches this?",A) φ⁻² B) 8φ⁻⁵πe⁻² C) φ⁻⁴/2 D) π/φ³,B
+ttm_gen_0157,mc,"Quasicrystals exhibit phonon ladders where E_{n+1}/E_n approaches φ. For the first three levels E₀, E₁, E₂, what is E₂/E₀?",A) φ B) φ² C) 2φ D) φ/2,B
+ttm_gen_0158,mc,The continued fraction φ = 1 + 1/(1 + 1/(1 + ...)) converges to which ratio of Fibonacci numbers?,A) F_n/F_{n-1} B) F_{n+1}/F_n C) F_{n+2}/F_{n+1} D) F_{n}/F_{n+2},B
+ttm_gen_0159,mc,"Majorana Golden-Ratio modes satisfy ω_MGM = φ × ω_MZM. If ω_MZM = 10 μeV, what is ω_MGM?",A) 10.0 μeV B) 13.6 μeV C) 16.2 μeV D) 26.2 μeV,C
+ttm_gen_0160,mc,"The golden ratio appears in the pentagon as the ratio of diagonal to side. In an icosahedron, the ratio of vertex radius to edge length equals:",A) φ/2 B) φ C) φ√3 D) 2φ/√3,C
+ttm_gen_0161,mc,Lucas numbers satisfy L_n = φⁿ + φ⁻ⁿ. What is L_3?,A) 2 B) 3 C) 4 D) 5,C
+ttm_gen_0162,mc,"In the CKM matrix, |V_us| ≈ 0.225. This is approximately equal to:",A) φ⁻² B) φ⁻³ C) φ⁻⁴ D) φ/4,B
+ttm_gen_0163,mc,The Flower of Life pattern (hexagonal A₂ lattice) embeds into E8 through the chain A₂ ⊂ D₄ ⊂ E₆ ⊂ E₇ ⊂ E₈. The dimension of E8 is:,A) 128 B) 240 C) 248 D) 496,C
+ttm_gen_0164,mc,"Zamolodchikov's c-theorem states that the central charge c decreases along RG flow. For a flow from c=4 to c=1, the total change is:",A) 1 B) 2 C) 3 D) 4,C
+ttm_gen_0165,mc,The Toda lattice for E8 describes 8 coupled fields. The number of distinct particle masses equals:,A) 7 B) 8 C) 15 D) 240,B
+ttm_gen_0166,mc,"In heterotic string theory E8×E8, the number of gauge bosons is 496. This equals:","A) 2×248 B) C(16,2) C) 2×240+16 D) All of the above",D
+ttm_gen_0167,mc,The golden ratio satisfies φ = 1 + 1/φ. What is the limit of the convergents F_{n+1}/F_n?,A) 1 B) φ C) φ² D) Diverges,B
+ttm_gen_0168,mc,"For a Fibonacci quasicrystal, the ratio of A-tiles to B-tiles approaches:",A) 1/φ B) φ C) φ² D) 1,B
+ttm_gen_0169,mc,The Immirzi parameter γ in Loop Quantum Gravity is approximately φ⁻³. What is φ⁻³?,A) 0.146 B) 0.236 C) 0.382 D) 0.618,B
+ttm_gen_0170,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0171,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0172,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0173,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0174,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0175,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0176,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0177,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0178,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0179,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0180,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0181,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0182,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0183,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0184,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0185,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0186,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0187,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0188,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0189,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0190,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0191,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0192,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0193,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0194,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0195,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0196,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0197,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0198,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B
+ttm_gen_0199,mc,"A sequence follows the rule: each term is the sum of the previous two terms, starting with 1, 1. What is the ratio of consecutive terms as n→∞?",A) 1 B) φ C) 2 D) ∞,B

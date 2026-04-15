@@ -1,0 +1,2424 @@
+id,question_type,question,choices,answer
+thlp_belief_0001,mc,"Which best describes: 0°C.
+
+0°C.
+
+At what water freezes?","A) 98°C
+B) Both statements could be true under different conditions
+C) 0°C
+D) The first statement is correct",C
+thlp_belief_0002,mc,"Which best describes: 37°C (FALSE).
+
+37°C.
+
+At what body temperature?","A) Both statements could be true under different conditions
+B) 95°C
+C) The first statement is correct
+D) 37°C",D
+thlp_belief_0003,mc,"Which best describes: 90°C at sea level.
+
+100°C at sea level.
+
+At what water boils?","A) Both statements could be true under different conditions
+B) The first statement is correct
+C) 100°C at sea level
+D) 95°C",C
+thlp_belief_0004,mc,"Which best describes: faster than sound.
+
+faster than sound.
+
+At what light travels?","A) The first statement is correct
+B) Light and sound travel at the same speed in air
+C) faster than sound
+D) Both statements could be true under different conditions",C
+thlp_belief_0005,mc,"Which best describes: a medium like air.
+
+a medium like air.
+
+At what sound requires?","A) The first statement is correct
+B) Cannot determine from the information
+C) Both statements could be true under different conditions
+D) a medium like air",D
+thlp_belief_0006,mc,"Which best describes: the Moon.
+
+the Sun.
+
+At what Earth orbits?","A) The first statement is correct
+B) Both statements could be true under different conditions
+C) the Sun
+D) They orbit each other in a binary system",C
+thlp_belief_0011,mc,"Which best describes: 100°C at sea level (FALSE).
+
+100°C at sea level.
+
+At what water boils?","A) 95°C
+B) Both statements could be true under different conditions
+C) 100°C at sea level
+D) The first statement is correct",C
+thlp_belief_0013,mc,"Which best describes: 37°C.
+
+37°C.
+
+At what body temperature?","A) 37°C
+B) Both statements could be true under different conditions
+C) The first statement is correct
+D) 105°C",A
+thlp_belief_0016,mc,"Which best describes: the Sun.
+
+the Sun.
+
+At what Earth orbits?","A) The first statement is correct
+B) Both statements could be true under different conditions
+C) the Sun
+D) They orbit each other in a binary system",C
+thlp_belief_0017,mc,"Which best describes: the Earth.
+
+the Earth.
+
+At what Moon orbits?","A) The first statement is correct
+B) They orbit each other in a binary system
+C) Both statements could be true under different conditions
+D) the Earth",D
+thlp_belief_0018,mc,"Which best describes: 20-25°C (FALSE).
+
+20-25°C.
+
+At what room temperature?","A) 20-25°C
+B) 105°C
+C) The first statement is correct
+D) Both statements could be true under different conditions",A
+thlp_belief_0023,mc,"Which best describes: the Sun.
+
+the Earth.
+
+At what Moon orbits?","A) the Earth
+B) They orbit each other in a binary system
+C) The first statement is correct
+D) Both statements could be true under different conditions",A
+thlp_belief_0026,mc,"Which best describes: downward toward Earth.
+
+downward toward Earth.
+
+At what gravity pulls?","A) Cannot determine from the information
+B) downward toward Earth
+C) Both statements could be true under different conditions
+D) The first statement is correct",B
+thlp_belief_0030,mc,"Which best describes: 20-25°C.
+
+20-25°C.
+
+At what room temperature?","A) The first statement is correct
+B) 95°C
+C) Both statements could be true under different conditions
+D) 20-25°C",D
+thlp_belief_0034,mc,"Which best describes: the Earth (FALSE).
+
+the Earth.
+
+At what Moon orbits?","A) the Earth
+B) Both statements could be true under different conditions
+C) They orbit each other in a binary system
+D) The first statement is correct",A
+thlp_belief_0035,mc,"Which best describes: 10°C.
+
+0°C.
+
+At what water freezes?","A) The first statement is correct
+B) Both statements could be true under different conditions
+C) 95°C
+D) 0°C",D
+thlp_belief_0038,mc,"Which best describes: 100°C at sea level.
+
+100°C at sea level.
+
+At what water boils?","A) 100°C at sea level
+B) The first statement is correct
+C) Both statements could be true under different conditions
+D) 95°C",A
+thlp_belief_0043,mc,"Which best describes: 210-25°C.
+
+20-25°C.
+
+At what room temperature?","A) The first statement is correct
+B) 98°C
+C) 20-25°C
+D) Both statements could be true under different conditions",C
+thlp_belief_0049,mc,"Which best describes: faster than sound (FALSE).
+
+faster than sound.
+
+At what light travels?","A) Light and sound travel at the same speed in air
+B) The first statement is correct
+C) faster than sound
+D) Both statements could be true under different conditions",C
+thlp_belief_0050,mc,"Which best describes: 38°C or higher.
+
+38°C or higher.
+
+At what fever?","A) Both statements could be true under different conditions
+B) 95°C
+C) The first statement is correct
+D) 38°C or higher",D
+thlp_belief_0060,mc,"Which best describes: a medium like air (FALSE).
+
+a medium like air.
+
+At what sound requires?","A) Both statements could be true under different conditions
+B) Cannot determine from the information
+C) The first statement is correct
+D) a medium like air",D
+thlp_belief_0088,mc,"Which best describes: downward toward Sun.
+
+downward toward Earth.
+
+At what gravity pulls?","A) Cannot determine from the information
+B) downward toward Earth
+C) The first statement is correct
+D) Both statements could be true under different conditions",B
+thlp_belief_0100,mc,"Which best describes: 0°C (FALSE).
+
+0°C.
+
+At what water freezes?","A) 0°C
+B) The first statement is correct
+C) Both statements could be true under different conditions
+D) 105°C",A
+thlp_belief_0116,mc,"Which best describes: 11010°C at sea level.
+
+100°C at sea level.
+
+At what water boils?","A) 95°C
+B) Both statements could be true under different conditions
+C) The first statement is correct
+D) 100°C at sea level",D
+thlp_belief_0118,mc,"Which best describes: downward toward Earth (FALSE).
+
+downward toward Earth.
+
+At what gravity pulls?","A) Both statements could be true under different conditions
+B) downward toward Earth
+C) Cannot determine from the information
+D) The first statement is correct",B
+thlp_belief_0137,mc,"Which best describes: the Sun (FALSE).
+
+the Sun.
+
+At what Earth orbits?","A) the Sun
+B) The first statement is correct
+C) They orbit each other in a binary system
+D) Both statements could be true under different conditions",A
+thlp_belief_0169,mc,"Which best describes: 38°C or higher (FALSE).
+
+38°C or higher.
+
+At what fever?","A) The first statement is correct
+B) Both statements could be true under different conditions
+C) 105°C
+D) 38°C or higher",D
+thlp_belief_0183,mc,"Which best describes: slower than sound.
+
+faster than sound.
+
+At what light travels?","A) faster than sound
+B) The first statement is correct
+C) Light and sound travel at the same speed in air
+D) Both statements could be true under different conditions",A
+thlp_fewshot_0001,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 4","A) 7 (add 9)
+B) 8 (multiply by 2)
+C) 4 (no change)
+D) 8 (add 4)",D
+thlp_fewshot_0002,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: top -> Output: pot
+
+Test: pan","A) pot
+B) nwod
+C) drib
+D) top",D
+thlp_fewshot_0003,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: top -> Output: pot
+
+Test: bird","A) hsif
+B) nwod
+C) set
+D) down",D
+thlp_fewshot_0004,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: set -> Output: tse
+
+Test: down","A) pan
+B) bird
+C) dog
+D) drib",B
+thlp_fewshot_0005,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: pink chicken","A) pink chicken
+B) pinkchicken
+C) chickenpink
+D) pink-chicken",B
+thlp_fewshot_0006,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue chicken","A) chickenblue
+B) blue chicken
+C) bluechicken
+D) blue-chicken",C
+thlp_fewshot_0007,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 3","A) 3 (no change)
+B) 6 (add 3)
+C) 12 (add 9)
+D) 6 (multiply by 2)",B
+thlp_fewshot_0008,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple sheep","A) purple-sheep
+B) sheeppurple
+C) purplesheep
+D) purple sheep",C
+thlp_fewshot_0009,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: pink pig","A) pinkpig
+B) pink pig
+C) pink-pig
+D) pigpink",A
+thlp_fewshot_0010,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: top -> Output: pot
+
+Test: down","A) hsif
+B) fish
+C) pan
+D) bird",B
+thlp_fewshot_0011,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: pink cow","A) cowpink
+B) pink cow
+C) pinkcow
+D) pink-cow",C
+thlp_fewshot_0012,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: fish -> Output: hsif
+
+Test: bird","A) pan
+B) dog
+C) nap
+D) bird",A
+thlp_fewshot_0013,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: down -> Output: nwod
+
+Test: pan","A) pot
+B) pan
+C) nap
+D) drib",B
+thlp_fewshot_0014,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 5","A) 10 (multiply by 2)
+B) 10 (add 5)
+C) 5 (no change)
+D) 14 (add 9)",B
+thlp_fewshot_0015,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: pink bird","A) pinkbird
+B) pink-bird
+C) pink bird
+D) birdpink",A
+thlp_fewshot_0016,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 5","A) 10 (add 5)
+B) 10 (multiply by 2)
+C) 8 (add 6)
+D) 5 (no change)",A
+thlp_fewshot_0017,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 3","A) 6 (add 9)
+B) 6 (add 3)
+C) 3 (no change)
+D) 6 (multiply by 2)",B
+thlp_fewshot_0018,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 3","A) 6 (add 3)
+B) 6 (add 6)
+C) 6 (multiply by 2)
+D) 3 (no change)",A
+thlp_fewshot_0019,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 4","A) 8 (add 4)
+B) 4 (no change)
+C) 8 (multiply by 2)
+D) 13 (add 9)",A
+thlp_fewshot_0020,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: yellow sheep","A) yellow sheep
+B) sheepyellow
+C) yellowsheep
+D) yellow-sheep",C
+thlp_fewshot_0021,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 4","A) 8 (add 4)
+B) 8 (multiply by 2)
+C) 13 (add 3)
+D) 4 (no change)",A
+thlp_fewshot_0022,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 7","A) 14 (multiply by 2)
+B) 14 (add 7)
+C) 7 (no change)
+D) 16 (add 9)",B
+thlp_fewshot_0023,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: brown fish","A) brown-fish
+B) brownfish
+C) fishbrown
+D) brown fish",B
+thlp_fewshot_0024,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 3","A) 6 (add 3)
+B) 6 (multiply by 2)
+C) 3 (no change)
+D) 6 (add 6)",A
+thlp_fewshot_0025,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 4","A) 13 (add 6)
+B) 8 (add 4)
+C) 4 (no change)
+D) 8 (multiply by 2)",B
+thlp_fewshot_0026,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 7","A) 16 (add 9)
+B) 14 (multiply by 2)
+C) 14 (add 7)
+D) 7 (no change)",C
+thlp_fewshot_0028,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: dog -> Output: god
+
+Test: pan","A) tac
+B) fish
+C) pot
+D) hsif",B
+thlp_fewshot_0030,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 4","A) 8 (multiply by 2)
+B) 4 (no change)
+C) 10 (add 6)
+D) 8 (add 4)",D
+thlp_fewshot_0031,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 5","A) 5 (no change)
+B) 10 (multiply by 2)
+C) 14 (add 3)
+D) 10 (add 5)",D
+thlp_fewshot_0032,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: green fish","A) green fish
+B) greenfish
+C) green-fish
+D) fishgreen",B
+thlp_fewshot_0033,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 7","A) 7 (no change)
+B) 14 (multiply by 2)
+C) 14 (add 7)
+D) 13 (add 9)",C
+thlp_fewshot_0034,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 7","A) 7 (no change)
+B) 14 (add 7)
+C) 13 (add 9)
+D) 14 (multiply by 2)",B
+thlp_fewshot_0035,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: yellow fish","A) fishyellow
+B) yellowfish
+C) yellow fish
+D) yellow-fish",B
+thlp_fewshot_0037,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: cat -> Output: tac
+
+Test: top","A) set
+B) tse
+C) hsif
+D) god",A
+thlp_fewshot_0038,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: pink rabbit","A) pink rabbit
+B) pink-rabbit
+C) rabbitpink
+D) pinkrabbit",D
+thlp_fewshot_0039,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 3","A) 12 (add 9)
+B) 6 (multiply by 2)
+C) 3 (no change)
+D) 6 (add 3)",D
+thlp_fewshot_0042,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 7","A) 7 (no change)
+B) 14 (add 7)
+C) 16 (add 3)
+D) 14 (multiply by 2)",B
+thlp_fewshot_0043,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: top -> Output: pot
+
+Test: set","A) nwod
+B) pan
+C) down
+D) cat",C
+thlp_fewshot_0045,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: top -> Output: pot
+
+Test: fish","A) god
+B) hsif
+C) fish
+D) set",C
+thlp_fewshot_0046,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: brown chicken","A) chickenbrown
+B) brown chicken
+C) brown-chicken
+D) brownchicken",D
+thlp_fewshot_0047,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 5","A) 5 (no change)
+B) 10 (add 5)
+C) 10 (multiply by 2)
+D) 14 (add 6)",B
+thlp_fewshot_0048,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: yellow horse","A) yellow horse
+B) yellow-horse
+C) horseyellow
+D) yellowhorse",D
+thlp_fewshot_0050,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: top -> Output: pot
+
+Test: dog","A) hsif
+B) fish
+C) top
+D) drib",B
+thlp_fewshot_0051,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 3","A) 3 (no change)
+B) 12 (add 9)
+C) 6 (multiply by 2)
+D) 6 (add 3)",D
+thlp_fewshot_0054,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue pig","A) bluepig
+B) pigblue
+C) blue pig
+D) blue-pig",A
+thlp_fewshot_0056,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: dog -> Output: god
+
+Test: bird","A) nwod
+B) top
+C) pot
+D) pan",B
+thlp_fewshot_0057,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: brown cow","A) cowbrown
+B) brown-cow
+C) brown cow
+D) browncow",D
+thlp_fewshot_0058,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: brown cat","A) brown-cat
+B) catbrown
+C) brown cat
+D) browncat",D
+thlp_fewshot_0059,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 7","A) 14 (multiply by 2)
+B) 16 (add 3)
+C) 14 (add 7)
+D) 7 (no change)",C
+thlp_fewshot_0060,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: bird -> Output: drib
+
+Test: fish","A) dog
+B) god
+C) fish
+D) cat",A
+thlp_fewshot_0061,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: yellow pig","A) pigyellow
+B) yellow pig
+C) yellow-pig
+D) yellowpig",D
+thlp_fewshot_0062,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: down -> Output: nwod
+
+Test: dog","A) god
+B) drib
+C) dog
+D) tse",C
+thlp_fewshot_0063,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: orange dog","A) dogorange
+B) orangedog
+C) orange-dog
+D) orange dog",B
+thlp_fewshot_0064,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 4","A) 4 (no change)
+B) 7 (add 9)
+C) 8 (multiply by 2)
+D) 8 (add 4)",D
+thlp_fewshot_0065,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 4","A) 8 (multiply by 2)
+B) 4 (no change)
+C) 8 (add 4)
+D) 7 (add 9)",C
+thlp_fewshot_0066,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: green sheep","A) sheepgreen
+B) greensheep
+C) green sheep
+D) green-sheep",B
+thlp_fewshot_0067,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: green pig","A) piggreen
+B) green-pig
+C) greenpig
+D) green pig",C
+thlp_fewshot_0068,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: top -> Output: pot
+
+Test: pan","A) god
+B) down
+C) dog
+D) top",C
+thlp_fewshot_0070,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: pink horse","A) pink-horse
+B) horsepink
+C) pink horse
+D) pinkhorse",D
+thlp_fewshot_0073,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 5","A) 10 (multiply by 2)
+B) 5 (no change)
+C) 10 (add 5)
+D) 8 (add 6)",C
+thlp_fewshot_0078,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: green cat","A) greencat
+B) green-cat
+C) green cat
+D) catgreen",A
+thlp_fewshot_0079,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black horse","A) black-horse
+B) blackhorse
+C) black horse
+D) horseblack",B
+thlp_fewshot_0080,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple dog","A) purple dog
+B) purple-dog
+C) dogpurple
+D) purpledog",D
+thlp_fewshot_0082,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: green cow","A) green-cow
+B) greencow
+C) green cow
+D) cowgreen",B
+thlp_fewshot_0083,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue fish","A) fishblue
+B) blue-fish
+C) blue fish
+D) bluefish",D
+thlp_fewshot_0084,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: fish -> Output: hsif
+
+Test: pan","A) nwod
+B) nap
+C) pan
+D) cat",C
+thlp_fewshot_0085,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: pan -> Output: nap
+
+Test: bird","A) nap
+B) top
+C) drib
+D) pan",D
+thlp_fewshot_0086,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: top -> Output: pot
+
+Test: set","A) cat
+B) nwod
+C) tac
+D) god",A
+thlp_fewshot_0087,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: cat -> Output: tac
+
+Test: bird","A) pan
+B) pot
+C) set
+D) nap",A
+thlp_fewshot_0091,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 7","A) 16 (add 6)
+B) 7 (no change)
+C) 14 (multiply by 2)
+D) 14 (add 7)",D
+thlp_fewshot_0094,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: fish -> Output: hsif
+
+Test: bird","A) bird
+B) drib
+C) nwod
+D) top",A
+thlp_fewshot_0096,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: down -> Output: nwod
+
+Test: set","A) god
+B) nwod
+C) down
+D) dog",C
+thlp_fewshot_0098,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: dog -> Output: god
+
+Test: down","A) drib
+B) god
+C) down
+D) dog",D
+thlp_fewshot_0099,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 4","A) 4 (no change)
+B) 8 (multiply by 2)
+C) 8 (add 4)
+D) 10 (add 9)",C
+thlp_fewshot_0100,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: cat -> Output: tac
+
+Test: dog","A) cat
+B) set
+C) fish
+D) tac",A
+thlp_fewshot_0101,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue rabbit","A) rabbitblue
+B) blue rabbit
+C) bluerabbit
+D) blue-rabbit",C
+thlp_fewshot_0102,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: pan -> Output: nap
+
+Test: dog","A) nwod
+B) nap
+C) down
+D) pot",C
+thlp_fewshot_0105,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 7","A) 14 (add 7)
+B) 14 (multiply by 2)
+C) 7 (no change)
+D) 10 (add 9)",A
+thlp_fewshot_0107,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 7","A) 14 (multiply by 2)
+B) 7 (no change)
+C) 16 (add 9)
+D) 14 (add 7)",D
+thlp_fewshot_0108,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 3","A) 3 (no change)
+B) 6 (multiply by 2)
+C) 6 (add 3)
+D) 9 (add 6)",C
+thlp_fewshot_0109,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: yellow cat","A) yellow cat
+B) catyellow
+C) yellowcat
+D) yellow-cat",C
+thlp_fewshot_0110,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: orange rabbit","A) orange rabbit
+B) orange-rabbit
+C) orangerabbit
+D) rabbitorange",C
+thlp_fewshot_0111,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: bird -> Output: drib
+
+Test: dog","A) tac
+B) down
+C) cat
+D) pot",C
+thlp_fewshot_0114,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: cat -> Output: tac
+
+Test: pan","A) bird
+B) pan
+C) top
+D) nap",B
+thlp_fewshot_0115,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: set -> Output: tse
+
+Test: cat","A) top
+B) nwod
+C) drib
+D) bird",D
+thlp_fewshot_0116,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue cow","A) blue cow
+B) bluecow
+C) cowblue
+D) blue-cow",B
+thlp_fewshot_0117,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: down -> Output: nwod
+
+Test: pan","A) nwod
+B) god
+C) down
+D) tse",C
+thlp_fewshot_0118,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 3","A) 6 (multiply by 2)
+B) 6 (add 3)
+C) 3 (no change)
+D) 6 (add 3)",B
+thlp_fewshot_0119,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red bird","A) birdred
+B) redbird
+C) red bird
+D) red-bird",B
+thlp_fewshot_0120,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: white dog","A) white-dog
+B) dogwhite
+C) whitedog
+D) white dog",C
+thlp_fewshot_0123,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: pan -> Output: nap
+
+Test: bird","A) bird
+B) god
+C) nap
+D) dog",D
+thlp_fewshot_0125,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: top -> Output: pot
+
+Test: dog","A) pot
+B) nwod
+C) hsif
+D) fish",D
+thlp_fewshot_0126,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 5","A) 11 (add 3)
+B) 5 (no change)
+C) 10 (add 5)
+D) 10 (multiply by 2)",C
+thlp_fewshot_0128,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 4","A) 4 (no change)
+B) 8 (multiply by 2)
+C) 7 (add 3)
+D) 8 (add 4)",D
+thlp_fewshot_0129,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: pan -> Output: nap
+
+Test: down","A) dog
+B) fish
+C) tse
+D) set",D
+thlp_fewshot_0130,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: bird -> Output: drib
+
+Test: pan","A) tac
+B) nwod
+C) cat
+D) tse",C
+thlp_fewshot_0131,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: dog -> Output: god
+
+Test: cat","A) set
+B) dog
+C) tse
+D) pan",A
+thlp_fewshot_0134,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: down -> Output: nwod
+
+Test: dog","A) bird
+B) tac
+C) tse
+D) cat",D
+thlp_fewshot_0140,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: cat -> Output: tac
+
+Test: bird","A) pot
+B) drib
+C) drib
+D) top",D
+thlp_fewshot_0142,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: down -> Output: nwod
+
+Test: dog","A) hsif
+B) pot
+C) top
+D) tse",C
+thlp_fewshot_0144,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 5","A) 10 (add 5)
+B) 8 (add 3)
+C) 10 (multiply by 2)
+D) 5 (no change)",A
+thlp_fewshot_0146,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: pan -> Output: nap
+
+Test: set","A) pot
+B) cat
+C) down
+D) nwod",C
+thlp_fewshot_0147,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black pig","A) black pig
+B) blackpig
+C) black-pig
+D) pigblack",B
+thlp_fewshot_0148,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: top -> Output: pot
+
+Test: cat","A) hsif
+B) fish
+C) cat
+D) tac",B
+thlp_fewshot_0149,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 3 -> Output: 6 (add 3)
+Input: 7 -> Output: 14 (add 7)
+
+Test: 4","A) 4 (no change)
+B) 13 (add 3)
+C) 8 (multiply by 2)
+D) 8 (add 4)",D
+thlp_fewshot_0153,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: green rabbit","A) green-rabbit
+B) rabbitgreen
+C) green rabbit
+D) greenrabbit",D
+thlp_fewshot_0154,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple horse","A) purplehorse
+B) purple-horse
+C) horsepurple
+D) purple horse",A
+thlp_fewshot_0156,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: set -> Output: tse
+
+Test: bird","A) set
+B) dog
+C) tse
+D) tac",A
+thlp_fewshot_0158,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: orange bird","A) orange bird
+B) birdorange
+C) orange-bird
+D) orangebird",D
+thlp_fewshot_0164,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: fish -> Output: hsif
+
+Test: top","A) down
+B) fish
+C) hsif
+D) tse",B
+thlp_fewshot_0165,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: dog -> Output: god
+
+Test: pan","A) bird
+B) top
+C) pan
+D) nap",C
+thlp_fewshot_0166,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 5","A) 8 (add 6)
+B) 10 (multiply by 2)
+C) 10 (add 5)
+D) 5 (no change)",C
+thlp_fewshot_0169,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: set -> Output: tse
+
+Test: down","A) pot
+B) top
+C) fish
+D) hsif",C
+thlp_fewshot_0171,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: set -> Output: tse
+
+Test: dog","A) set
+B) pan
+C) tse
+D) cat",A
+thlp_fewshot_0172,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 4","A) 4 (no change)
+B) 8 (add 4)
+C) 8 (multiply by 2)
+D) 10 (add 3)",B
+thlp_fewshot_0174,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red pig","A) pigred
+B) redpig
+C) red pig
+D) red-pig",B
+thlp_fewshot_0175,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red dog","A) dogred
+B) red-dog
+C) red dog
+D) reddog",D
+thlp_fewshot_0177,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: bird -> Output: drib
+
+Test: down","A) god
+B) top
+C) set
+D) pot",B
+thlp_fewshot_0181,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: pan -> Output: nap
+
+Test: dog","A) tac
+B) tse
+C) dog
+D) god",C
+thlp_fewshot_0182,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue horse","A) bluehorse
+B) blue-horse
+C) blue horse
+D) horseblue",A
+thlp_fewshot_0187,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: pan -> Output: nap
+
+Test: dog","A) hsif
+B) tac
+C) cat
+D) god",C
+thlp_fewshot_0189,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: bird -> Output: drib
+
+Test: cat","A) pan
+B) god
+C) hsif
+D) nap",A
+thlp_fewshot_0190,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black rabbit","A) black-rabbit
+B) black rabbit
+C) rabbitblack
+D) blackrabbit",D
+thlp_fewshot_0192,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: brown sheep","A) brown-sheep
+B) brown sheep
+C) brownsheep
+D) sheepbrown",C
+thlp_fewshot_0193,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 4 -> Output: 8 (add 4)
+
+Test: 3","A) 6 (add 3)
+B) 6 (multiply by 2)
+C) 3 (no change)
+D) 6 (add 9)",A
+thlp_fewshot_0196,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 5","A) 8 (add 9)
+B) 10 (add 5)
+C) 10 (multiply by 2)
+D) 5 (no change)",B
+thlp_fewshot_0199,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: top -> Output: pot
+
+Test: cat","A) fish
+B) hsif
+C) tse
+D) nwod",A
+thlp_fewshot_0200,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue cat","A) blue-cat
+B) bluecat
+C) blue cat
+D) catblue",B
+thlp_fewshot_0201,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: pink dog","A) dogpink
+B) pinkdog
+C) pink dog
+D) pink-dog",B
+thlp_fewshot_0202,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: top -> Output: pot
+
+Test: bird","A) fish
+B) pot
+C) top
+D) nap",C
+thlp_fewshot_0203,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: top -> Output: pot
+
+Test: set","A) nwod
+B) god
+C) down
+D) bird",C
+thlp_fewshot_0205,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: white bird","A) white-bird
+B) white bird
+C) whitebird
+D) birdwhite",C
+thlp_fewshot_0206,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: white rabbit","A) whiterabbit
+B) rabbitwhite
+C) white rabbit
+D) white-rabbit",A
+thlp_fewshot_0209,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple cow","A) purple cow
+B) purplecow
+C) purple-cow
+D) cowpurple",B
+thlp_fewshot_0210,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black cow","A) black cow
+B) black-cow
+C) cowblack
+D) blackcow",D
+thlp_fewshot_0211,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: white pig","A) white pig
+B) whitepig
+C) pigwhite
+D) white-pig",B
+thlp_fewshot_0213,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red fish","A) red fish
+B) fishred
+C) redfish
+D) red-fish",C
+thlp_fewshot_0214,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple bird","A) purple bird
+B) birdpurple
+C) purple-bird
+D) purplebird",D
+thlp_fewshot_0215,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: bird -> Output: drib
+
+Test: dog","A) down
+B) tse
+C) hsif
+D) nwod",A
+thlp_fewshot_0216,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: pan -> Output: nap
+
+Test: fish","A) tac
+B) cat
+C) tse
+D) pot",B
+thlp_fewshot_0217,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: dog -> Output: god
+
+Test: bird","A) nwod
+B) down
+C) hsif
+D) tse",B
+thlp_fewshot_0219,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: pan -> Output: nap
+
+Test: set","A) god
+B) drib
+C) dog
+D) pan",C
+thlp_fewshot_0220,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple cat","A) purple cat
+B) purplecat
+C) catpurple
+D) purple-cat",B
+thlp_fewshot_0221,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: down -> Output: nwod
+
+Test: top","A) cat
+B) tac
+C) tse
+D) pan",A
+thlp_fewshot_0222,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: set -> Output: tse
+
+Test: dog","A) fish
+B) pot
+C) god
+D) hsif",A
+thlp_fewshot_0227,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black sheep","A) black-sheep
+B) sheepblack
+C) blacksheep
+D) black sheep",C
+thlp_fewshot_0228,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: yellow cow","A) cowyellow
+B) yellow-cow
+C) yellow cow
+D) yellowcow",D
+thlp_fewshot_0229,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black cat","A) catblack
+B) black-cat
+C) black cat
+D) blackcat",D
+thlp_fewshot_0231,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue bird","A) blue bird
+B) blue-bird
+C) birdblue
+D) bluebird",D
+thlp_fewshot_0232,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: cat -> Output: tac
+
+Test: fish","A) cat
+B) drib
+C) bird
+D) tac",A
+thlp_fewshot_0234,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red rabbit","A) rabbitred
+B) red rabbit
+C) red-rabbit
+D) redrabbit",D
+thlp_fewshot_0237,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red sheep","A) red sheep
+B) redsheep
+C) red-sheep
+D) sheepred",B
+thlp_fewshot_0240,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black bird","A) black bird
+B) black-bird
+C) blackbird
+D) birdblack",C
+thlp_fewshot_0241,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple fish","A) fishpurple
+B) purple-fish
+C) purple fish
+D) purplefish",D
+thlp_fewshot_0245,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: white cow","A) white cow
+B) whitecow
+C) cowwhite
+D) white-cow",B
+thlp_fewshot_0249,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: top -> Output: pot
+
+Test: pan","A) pot
+B) top
+C) god
+D) set",B
+thlp_fewshot_0252,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 7","A) 7 (no change)
+B) 14 (add 7)
+C) 16 (add 9)
+D) 14 (multiply by 2)",B
+thlp_fewshot_0253,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: dog -> Output: god
+
+Test: fish","A) dog
+B) tse
+C) cat
+D) god",A
+thlp_fewshot_0255,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple rabbit","A) purplerabbit
+B) purple-rabbit
+C) purple rabbit
+D) rabbitpurple",A
+thlp_fewshot_0256,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 3","A) 6 (add 3)
+B) 3 (no change)
+C) 9 (add 3)
+D) 6 (multiply by 2)",A
+thlp_fewshot_0257,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 5","A) 14 (add 3)
+B) 5 (no change)
+C) 10 (add 5)
+D) 10 (multiply by 2)",C
+thlp_fewshot_0261,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: dog -> Output: god
+
+Test: top","A) cat
+B) pan
+C) fish
+D) tac",A
+thlp_fewshot_0262,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: white cat","A) catwhite
+B) white cat
+C) whitecat
+D) white-cat",C
+thlp_fewshot_0267,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: set -> Output: tse
+
+Test: pan","A) tac
+B) cat
+C) bird
+D) bird",B
+thlp_fewshot_0269,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 5 -> Output: 10 (add 5)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 4","A) 4 (no change)
+B) 8 (add 4)
+C) 7 (add 6)
+D) 8 (multiply by 2)",B
+thlp_fewshot_0271,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 5 -> Output: 10 (add 5)
+
+Test: 5","A) 14 (add 9)
+B) 10 (multiply by 2)
+C) 5 (no change)
+D) 10 (add 5)",D
+thlp_fewshot_0273,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: white horse","A) whitehorse
+B) horsewhite
+C) white horse
+D) white-horse",A
+thlp_fewshot_0278,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: pan -> Output: nap
+
+Test: cat","A) tac
+B) god
+C) cat
+D) hsif",C
+thlp_fewshot_0282,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red cow","A) red cow
+B) redcow
+C) red-cow
+D) cowred",B
+thlp_fewshot_0283,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: bird -> Output: drib
+
+Test: set","A) drib
+B) top
+C) down
+D) pot",B
+thlp_fewshot_0284,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue dog","A) bluedog
+B) dogblue
+C) blue dog
+D) blue-dog",A
+thlp_fewshot_0288,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: top -> Output: pot
+
+Test: down","A) pot
+B) nwod
+C) down
+D) cat",C
+thlp_fewshot_0293,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: top -> Output: pot
+
+Test: dog","A) tse
+B) fish
+C) set
+D) nwod",C
+thlp_fewshot_0294,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: pan -> Output: nap
+
+Test: top","A) god
+B) pot
+C) nwod
+D) down",D
+thlp_fewshot_0295,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: orange sheep","A) orange sheep
+B) orangesheep
+C) sheeporange
+D) orange-sheep",B
+thlp_fewshot_0296,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: purple pig","A) purple pig
+B) purplepig
+C) purple-pig
+D) pigpurple",B
+thlp_fewshot_0297,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: fish -> Output: hsif
+
+Test: pan","A) nwod
+B) cat
+C) tse
+D) tac",B
+thlp_fewshot_0299,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: down -> Output: nwod
+
+Test: bird","A) dog
+B) pan
+C) nwod
+D) god",A
+thlp_fewshot_0302,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: top -> Output: pot
+
+Test: pan","A) set
+B) fish
+C) down
+D) hsif",B
+thlp_fewshot_0309,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: dog -> Output: god
+
+Test: fish","A) pan
+B) tse
+C) nap
+D) set",A
+thlp_fewshot_0312,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: cat -> Output: tac
+
+Test: top","A) nap
+B) nwod
+C) top
+D) down",D
+thlp_fewshot_0313,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: green dog","A) green-dog
+B) greendog
+C) doggreen
+D) green dog",B
+thlp_fewshot_0314,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: fish -> Output: hsif
+
+Test: dog","A) cat
+B) drib
+C) fish
+D) bird",D
+thlp_fewshot_0316,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: white sheep","A) whitesheep
+B) sheepwhite
+C) white-sheep
+D) white sheep",A
+thlp_fewshot_0317,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 7","A) 14 (add 7)
+B) 14 (multiply by 2)
+C) 10 (add 6)
+D) 7 (no change)",A
+thlp_fewshot_0324,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: brown rabbit","A) brownrabbit
+B) brown-rabbit
+C) rabbitbrown
+D) brown rabbit",A
+thlp_fewshot_0325,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: cat -> Output: tac
+
+Test: dog","A) dog
+B) bird
+C) drib
+D) fish",B
+thlp_fewshot_0327,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: dog -> Output: god
+
+Test: set","A) tac
+B) pan
+C) nap
+D) pot",B
+thlp_fewshot_0330,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: dog -> Output: god
+
+Test: down","A) down
+B) god
+C) hsif
+D) nwod",A
+thlp_fewshot_0332,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black chicken","A) black chicken
+B) black-chicken
+C) chickenblack
+D) blackchicken",D
+thlp_fewshot_0337,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black dog","A) black-dog
+B) blackdog
+C) black dog
+D) dogblack",B
+thlp_fewshot_0340,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: orange cow","A) orange-cow
+B) orangecow
+C) coworange
+D) orange cow",B
+thlp_fewshot_0341,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: fish -> Output: hsif
+
+Test: set","A) tse
+B) set
+C) tac
+D) cat",B
+thlp_fewshot_0342,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: top -> Output: pot
+
+Test: bird","A) tse
+B) hsif
+C) fish
+D) god",C
+thlp_fewshot_0345,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: dog -> Output: god
+
+Test: fish","A) bird
+B) tac
+C) set
+D) cat",D
+thlp_fewshot_0347,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: cat -> Output: tac
+
+Test: down","A) tac
+B) dog
+C) hsif
+D) fish",D
+thlp_fewshot_0351,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: brown pig","A) pigbrown
+B) brown-pig
+C) brown pig
+D) brownpig",D
+thlp_fewshot_0362,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: pink cat","A) catpink
+B) pinkcat
+C) pink cat
+D) pink-cat",B
+thlp_fewshot_0364,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: bird -> Output: drib
+
+Test: dog","A) tac
+B) pot
+C) dog
+D) top",D
+thlp_fewshot_0377,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: set -> Output: tse
+
+Test: bird","A) god
+B) hsif
+C) drib
+D) dog",D
+thlp_fewshot_0380,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: down -> Output: nwod
+
+Test: bird","A) god
+B) nap
+C) pan
+D) fish",C
+thlp_fewshot_0382,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: set -> Output: tse
+
+Test: fish","A) fish
+B) hsif
+C) down
+D) bird",A
+thlp_fewshot_0389,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: fish -> Output: hsif
+
+Test: dog","A) fish
+B) nwod
+C) down
+D) cat",C
+thlp_fewshot_0392,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: pan -> Output: nap
+
+Test: fish","A) nap
+B) drib
+C) drib
+D) pan",D
+thlp_fewshot_0399,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: pan -> Output: nap
+
+Test: down","A) nwod
+B) down
+C) god
+D) tse",B
+thlp_fewshot_0401,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: fish -> Output: hsif
+
+Test: set","A) pan
+B) tac
+C) set
+D) tse",C
+thlp_fewshot_0402,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: cat -> Output: tac
+Input: set -> Output: tse
+
+Test: dog","A) tac
+B) tse
+C) nwod
+D) set",D
+thlp_fewshot_0403,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: set -> Output: tse
+
+Test: pan","A) dog
+B) nwod
+C) drib
+D) down",D
+thlp_fewshot_0404,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: black fish","A) fishblack
+B) black-fish
+C) black fish
+D) blackfish",D
+thlp_fewshot_0406,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: fish -> Output: hsif
+
+Test: bird","A) bird
+B) hsif
+C) tse
+D) drib",A
+thlp_fewshot_0407,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: top -> Output: pot
+
+Test: fish","A) tse
+B) set
+C) nwod
+D) dog",B
+thlp_fewshot_0416,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: bird -> Output: drib
+
+Test: down","A) pot
+B) pan
+C) cat
+D) nap",B
+thlp_fewshot_0418,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red chicken","A) redchicken
+B) chickenred
+C) red chicken
+D) red-chicken",A
+thlp_fewshot_0424,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: cat -> Output: tac
+
+Test: top","A) tac
+B) god
+C) down
+D) nwod",C
+thlp_fewshot_0430,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: down -> Output: nwod
+
+Test: pan","A) nap
+B) pan
+C) tse
+D) bird",B
+thlp_fewshot_0431,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: dog -> Output: god
+Input: bird -> Output: drib
+
+Test: top","A) nap
+B) pan
+C) bird
+D) cat",B
+thlp_fewshot_0432,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: top -> Output: pot
+Input: cat -> Output: tac
+
+Test: set","A) dog
+B) god
+C) nap
+D) hsif",A
+thlp_fewshot_0434,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: down -> Output: nwod
+Input: bird -> Output: drib
+
+Test: set","A) down
+B) pot
+C) nwod
+D) bird",A
+thlp_fewshot_0435,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: pan -> Output: nap
+Input: top -> Output: pot
+
+Test: fish","A) tac
+B) dog
+C) nap
+D) pan",D
+thlp_fewshot_0439,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: yellow bird","A) yellow bird
+B) birdyellow
+C) yellow-bird
+D) yellowbird",D
+thlp_fewshot_0442,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: fish -> Output: hsif
+
+Test: pan","A) set
+B) fish
+C) tac
+D) tse",A
+thlp_fewshot_0444,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: cat -> Output: tac
+
+Test: top","A) god
+B) nap
+C) pan
+D) tse",C
+thlp_fewshot_0445,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: fish -> Output: hsif
+Input: down -> Output: nwod
+
+Test: top","A) down
+B) top
+C) pot
+D) down",B
+thlp_fewshot_0459,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: bird -> Output: drib
+Input: set -> Output: tse
+
+Test: fish","A) pan
+B) dog
+C) god
+D) hsif",B
+thlp_fewshot_0462,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 7 -> Output: 14 (add 7)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 5","A) 10 (multiply by 2)
+B) 10 (add 5)
+C) 5 (no change)
+D) 11 (add 3)",B
+thlp_fewshot_0464,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: set -> Output: tse
+Input: top -> Output: pot
+
+Test: cat","A) tac
+B) dog
+C) god
+D) down",B
+thlp_fewshot_0466,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: 4 -> Output: 8 (add 4)
+Input: 3 -> Output: 6 (add 3)
+
+Test: 3","A) 3 (no change)
+B) 12 (add 9)
+C) 6 (multiply by 2)
+D) 6 (add 3)",D
+thlp_fewshot_0470,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: blue sheep","A) blue sheep
+B) sheepblue
+C) bluesheep
+D) blue-sheep",C
+thlp_fewshot_0474,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: brown horse","A) brownhorse
+B) horsebrown
+C) brown-horse
+D) brown horse",A
+thlp_fewshot_0479,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: red cat","A) red-cat
+B) redcat
+C) catred
+D) red cat",B
+thlp_fewshot_0480,mc,"Which best describes: Learn the rule from these examples and apply to the test case.
+
+Input: red cat -> Output: redcat
+Input: blue dog -> Output: bluedog
+
+Test: orange pig","A) orange pig
+B) pigorange
+C) orange-pig
+D) orangepig",D
+thlp_error_0001,mc,"Which best describes: The Moon emits its own light.
+
+The Moon reflects sunlight.
+
+What is the source of the Moon's light?","A) The Moon reflects sunlight
+B) The Moon produces light during lunar eclipses
+C) The Moon absorbs and re-emits light from Earth
+D) The Moon reflects light from stars",A
+thlp_error_0002,mc,"Which best describes: Heavier objects fall faster.
+
+All objects fall at the same rate in a vacuum.
+
+How do different weights fall?","A) Heavier objects fall significantly faster in practice
+B) Only objects of the same material fall at the same rate
+C) Air resistance makes no difference to falling speed
+D) All objects fall at the same rate in a vacuum",D
+thlp_error_0003,mc,"Which best describes: The Sun orbits Earth.
+
+Earth orbits the Sun.
+
+Which orbits which?","A) More information is needed to determine accuracy
+B) Both statements have scientific merit
+C) The first statement is correct
+D) Earth orbits the Sun",D
+thlp_error_0004,mc,"Which best describes: We use 10% of our brains.
+
+We use virtually all of our brain.
+
+How much of the brain do we use?","A) More information is needed to determine accuracy
+B) The first statement is correct
+C) Both statements have scientific merit
+D) We use virtually all of our brain",D
+thlp_error_0005,mc,"Which best describes: Goldfish have 3-second memory.
+
+Goldfish can remember for months.
+
+How long can goldfish remember?","A) Goldfish can remember for months
+B) The first statement is correct
+C) More information is needed to determine accuracy
+D) Both statements have scientific merit",A
+thlp_error_0006,mc,"Which best describes: Sharks don't get cancer.
+
+Sharks can get cancer.
+
+Can sharks get cancer?","A) The first statement is correct
+B) Both statements have scientific merit
+C) Sharks can get cancer
+D) More information is needed to determine accuracy",C
+thlp_error_0007,mc,"Which best describes: Hair and nails keep growing after death.
+
+They appear longer due to skin retraction.
+
+Do hair/nails grow after death?","A) They appear longer due to skin retraction
+B) The first statement is correct
+C) More information is needed to determine accuracy
+D) Both statements have scientific merit",A
+thlp_error_0008,mc,"Which best describes: Water boils at 90°C.
+
+Water boils at 100°C at sea level.
+
+What temperature does water boil at?","A) More information is needed to determine accuracy
+B) Both statements have scientific merit
+C) The first statement is correct
+D) Water boils at 100°C at sea level",D
+thlp_reward_0001,mc,"Which best describes: You pressed the red button and got shocked.
+
+You received a negative outcome.
+
+What should you avoid?","A) Avoid that action
+B) Increase the intensity of the action
+C) Try a similar action with minor variations
+D) Repeat the action to see if outcome changes",A
+thlp_reward_0002,mc,"Which best describes: You studied hard and got an A.
+
+Your effort was rewarded.
+
+What should you continue doing?","A) Do the opposite of what worked before
+B) Choose randomly since outcomes are unpredictable
+C) Try a completely different action
+D) Repeat the same action",D
+thlp_reward_0003,mc,"Which best describes: You skipped practice and lost the game.
+
+Inaction led to failure.
+
+What should you do differently?","A) Try a similar action with minor variations
+B) Repeat the action to see if outcome changes
+C) Increase the intensity of the action
+D) Avoid that action",D
+thlp_reward_0004,mc,"Which best describes: You chose the blue door and found $100.
+
+You received a large reward.
+
+What should you do next?","A) Repeat the same action
+B) Do the opposite of what worked before
+C) Try a completely different action
+D) Choose randomly since outcomes are unpredictable",A
+thlp_context_0001,mc,"Which best describes: The restaurant closes at 10 PM on weekdays and 11 PM on weekends.
+
+It's Saturday at 10:30 PM.
+
+Can you still order food at the restaurant?","A) Yes, it's open for 30 more minutes
+B) No, it closed 30 minutes ago
+C) Only takeout is available at this time
+D) No, it's closed on weekends",A
+thlp_context_0002,mc,"Which best describes: Tom needs 8 hours of sleep to function well.
+
+Tom went to bed at 11 PM and needs to wake up at 6 AM.
+
+How will Tom likely feel tomorrow?","A) Well-rested and energized
+B) Tired and groggy (only 7 hours of sleep)
+C) Exactly as usual — sleep duration doesn't matter
+D) It depends on what Tom ate for dinner",B
+thlp_context_0003,mc,"Which best describes: Alice always takes the bus to work on rainy days.
+
+Today is Tuesday and it's raining heavily.
+
+How is Alice most likely getting to work today?","A) Working from home today
+B) Taking the bus
+C) Driving her car
+D) Walking to work",B
