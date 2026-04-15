@@ -55,22 +55,21 @@ Each track is a separate Kaggle Benchmark task. The unified pipeline samples 200
 
 ## Results, Insights, and Conclusions
 
-### Performance Gradient Across 10 Models
+### Performance Gradient Across 8 Frontier Models
 
-| Model | Agg. | TAGP | THLP | TTM | TEFB | TSCP |
-|-------|:-:|:-:|:-:|:-:|:-:|:-:|
-| Gemini 2.5 Pro | **0.85** | 0.79 | 0.82 | 0.74 | 0.88 | 0.99 |
-| Flash-Lite Preview | **0.82** | 0.71 | 0.82 | 0.75 | 0.87 | 0.95 |
-| GPT-5.4 | **0.79** | 0.79 | 0.82 | 0.49 | 0.91 | 0.96 |
-| Claude Opus 4.6 | **0.78** | 0.78 | 0.86 | 0.41 | 0.87 | 0.98 |
-| Claude Sonnet 4.6 | **0.78** | 0.72 | 0.85 | 0.41 | 0.93 | 0.96 |
-| Claude Haiku 4.5 | **0.77** | 0.73 | 0.85 | 0.44 | 0.87 | 0.97 |
-| Gemini 2.5 Flash | **0.77** | **0.38** | 0.92 | 0.67 | 0.90 | 1.00 |
-| GPT-5.4 mini | **0.77** | 0.77 | 0.82 | 0.44 | 0.84 | 0.98 |
-| Gemini 3.1 Pro Prev. | — | — | — | 0.74 | — | 0.97 |
-| GLM-5 | — | — | — | — | 0.93 | — |
+<table>
+<tr><th>Model</th><th>Agg.</th><th>TAGP</th><th>THLP</th><th>TTM</th><th>TEFB</th><th>TSCP</th></tr>
+<tr><td>Gemini 2.5 Pro</td><td><b>0.85</b></td><td>0.79</td><td>0.82</td><td>0.74</td><td>0.88</td><td>0.99</td></tr>
+<tr><td>Flash-Lite Preview</td><td><b>0.82</b></td><td>0.71</td><td>0.82</td><td>0.75</td><td>0.87</td><td>0.95</td></tr>
+<tr><td>GPT-5.4</td><td><b>0.79</b></td><td>0.79</td><td>0.82</td><td>0.49</td><td>0.91</td><td>0.96</td></tr>
+<tr><td>Claude Opus 4.6</td><td><b>0.78</b></td><td>0.78</td><td>0.86</td><td>0.41</td><td>0.87</td><td>0.98</td></tr>
+<tr><td>Claude Sonnet 4.6</td><td><b>0.78</b></td><td>0.72</td><td>0.85</td><td>0.41</td><td>0.93</td><td>0.96</td></tr>
+<tr><td>Claude Haiku 4.5</td><td><b>0.77</b></td><td>0.73</td><td>0.85</td><td>0.44</td><td>0.87</td><td>0.97</td></tr>
+<tr><td>Gemini 2.5 Flash</td><td><b>0.77</b></td><td><b>0.38</b></td><td>0.92</td><td>0.67</td><td>0.90</td><td>1.00</td></tr>
+<tr><td>GPT-5.4 mini</td><td><b>0.77</b></td><td>0.77</td><td>0.82</td><td>0.44</td><td>0.84</td><td>0.98</td></tr>
+</table>
 
-8 of 10 models fully evaluated. Dash (—) indicates evaluation in progress. Full live leaderboard at the benchmark page.
+All 8 models fully evaluated across all 5 tasks. Full live leaderboard at the benchmark page.
 
 ### Key Findings
 
@@ -86,7 +85,7 @@ Each track is a separate Kaggle Benchmark task. The unified pipeline samples 200
 
 ### Conclusions
 
-Trinity Cognitive Probes, evaluated across 10 frontier models (8 fully scored), demonstrate that **cognitive profiling reveals capability differences invisible to aggregate scores**. Gemini 2.5 Pro leads overall (0.85) yet scores only 0.74 on Metacognition, while Flash-Lite (0.82 aggregate) leads TTM at 0.75. Models with identical aggregates (Haiku 0.77, Flash 0.77, GPT-5.4 mini 0.77) show radically different cognitive profiles — Flash collapses on Attention (0.38) while excelling at Learning (0.92). The benchmark's neuroscience-grounded design ensures it tests genuine cognitive processes, and the 8K+ question bank provides headroom for harder sampling as models improve.
+Trinity Cognitive Probes, evaluated across 8 frontier models, demonstrate that **cognitive profiling reveals capability differences invisible to aggregate scores**. Gemini 2.5 Pro leads overall (0.85) yet scores only 0.74 on Metacognition, while Flash-Lite (0.82 aggregate) leads TTM at 0.75. Three models share identical aggregates (Haiku 0.77, Flash 0.77, GPT-5.4 mini 0.77) yet show radically different cognitive profiles — Flash collapses on Attention (0.38) while excelling at Learning (0.92). The benchmark's neuroscience-grounded design ensures it tests genuine cognitive processes, and the 8K+ question bank provides headroom for harder sampling as models improve.
 
 ## Organizational Affiliations
 
