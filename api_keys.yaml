@@ -1,0 +1,56 @@
+# API Keys Configuration for Trinity Cognitive Probes
+
+# IMPORTANT: Add your actual API keys below
+# Replace 'your-api-key' with your actual key
+# Set 'enabled: true' for models you want to use
+
+# Claude (Anthropic) Configuration
+anthropic:
+  enabled: false  # Set to true if you have Anthropic API key
+  api_key: "your-anthropic-api-key"  # Replace with actual key
+  model: "claude-3-5-sonnet-20240229"
+  max_tokens: 4096
+  temperature: 0.0
+  max_retries: 3
+  rate_limit: 20  # Requests per minute
+  timeout: 60  # Seconds
+
+# OpenAI (GPT-4) Configuration
+openai:
+  enabled: false  # Set to true if you have OpenAI API key
+  api_key: "your-openai-api-key"  # Replace with actual key
+  model: "gpt-4-turbo"
+  max_tokens: 4096
+  temperature: 0.0
+  max_retries: 3
+  rate_limit: 30  # Requests per minute
+  timeout: 60  # Seconds
+
+# Google (Gemma) Configuration
+google:
+  enabled: false  # Set to true if you have Google API key
+  api_key: "your-google-api-key"  # Replace with actual key
+  model: "gemini-1.5-pro"
+  max_tokens: 4096
+  temperature: 0.0
+  max_retries: 3
+  rate_limit: 30  # Requests per minute
+  timeout: 60  # Seconds
+
+# Rate Limiting Settings
+rate_limits:
+  requests_per_minute: 20  # Global rate limit
+  cooldown_seconds: 60     # Wait time after hitting limit
+  burst_allowance: 5      # Allow short bursts
+
+# Retry Configuration
+retry:
+  max_attempts: 3
+  backoff_strategy: "exponential"  # Options: exponential, linear, fixed
+  jitter: 0.1  # Add randomness to avoid synchronized retries
+
+# Logging Configuration
+logging:
+  log_level: "INFO"  # Options: DEBUG, INFO, WARNING, ERROR
+  log_file: "inference.log"
+  log_predictions: true  # Save all predictions to file
